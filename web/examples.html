@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Knitting Pattern Examples</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .pattern { margin: 20px 0; padding: 15px; border: 1px solid #ccc; border-radius: 5px; }
+        .pattern h3 { margin-top: 0; color: #333; }
+        .pattern-code { background: #f5f5f5; padding: 10px; border-radius: 3px; font-family: monospace; }
+        button { background: #28a745; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer; }
+        button:hover { background: #218838; }
+    </style>
+</head>
+<body>
+    <h1>Knitting Pattern Examples</h1>
+    <p>Copy any of these patterns into the visualizer:</p>
+
+    <div class="pattern">
+        <h3>Simple Stockinette</h3>
+        <div class="pattern-code">co 6
+k k k k k k
+k k k k k k
+k k k k k k
+bo bo bo bo bo bo</div>
+        <button onclick="copyPattern(this)">Copy Pattern</button>
+    </div>
+
+    <div class="pattern">
+        <h3>Increase Pattern</h3>
+        <div class="pattern-code">co 4
+kfb k k kfb
+k k k k k k
+kfb k k k k kfb
+k k k k k k k k</div>
+        <button onclick="copyPattern(this)">Copy Pattern</button>
+    </div>
+
+    <div class="pattern">
+        <h3>Decrease Pattern</h3>
+        <div class="pattern-code">co 8
+k k k k k k k k
+k k k2tog k2tog k k
+k k k k k k
+k2tog k k k2tog
+k k k k</div>
+        <button onclick="copyPattern(this)">Copy Pattern</button>
+    </div>
+
+    <div class="pattern">
+        <h3>Cable Pattern</h3>
+        <div class="pattern-code">co 8
+k k c4c k k
+k k k k k k k k
+k k c4c k k
+k k k k k k k k</div>
+        <button onclick="copyPattern(this)">Copy Pattern</button>
+    </div>
+
+    <div class="pattern">
+        <h3>Complex Pattern</h3>
+        <div class="pattern-code">co 10
+kfb k k k k k k k k kfb
+k k yo k2tog k k k2tog yo k k
+k k k k c4c k k k k
+k2tog k k k k k k k k2tog
+k k k k k k k k
+bo bo bo bo bo bo bo bo</div>
+        <button onclick="copyPattern(this)">Copy Pattern</button>
+    </div>
+
+    <script>
+        function copyPattern(button) {
+            const patternCode = button.previousElementSibling.textContent;
+            navigator.clipboard.writeText(patternCode).then(() => {
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = 'Copy Pattern';
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>

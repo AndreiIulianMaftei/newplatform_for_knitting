@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Knitting Pattern Visualizer</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="main-container">
+            <h1>Knitting Pattern Visualizer</h1>
+            <div class="three-column-layout">
+                <!-- Left Column: Controls (15% width) -->
+                <div class="left-column">
+                    <div class="input-section">
+                        <h3>Pattern Input</h3>
+                        <textarea id="patternInput" placeholder="Enter your knitting pattern here. IMPORTANT: Always start with 'co' (cast on)!
+
+Example patterns:
+Simple: co 6 k k k k k k
+Increase: co 4 kfb k k kfb  
+Decrease: co 6 k k2tog k k2tog
+
+Supported stitches: 
+- co (cast on) - MUST be first!
+- k (knit), p (purl) 
+- kfb (increase), k2tog/ssk (decrease)
+- yo (yarn over), bo (bind off)
+- turn (turn work), c4c (cable)"></textarea>
+                        
+                        <div class="layout-selection">
+                            <h4>Initial Layout</h4>
+                            <label>
+                                <input type="radio" name="layoutType" value="planar" checked>
+                                Planar Layout
+                            </label>
+                            <label>
+                                <input type="radio" name="layoutType" value="grid">
+                                Grid Layout
+                            </label>
+                        </div>
+                        
+                        <button id="processBtn">Process Pattern</button>
+                    </div>
+                    
+                    <div class="controls" id="controls" style="display: none;">
+                        <div class="layout-buttons">
+                            <h4>Layout Options</h4>
+                            <button id="simulationLayoutBtn">Force Simulation</button>
+                        </div>
+                        <div class="download-buttons">
+                            <h4>Download Data</h4>
+                            <button id="downloadGraphBtn">Download Graph JSON</button>
+                        </div>
+                    </div>
+                    
+                    <div class="notes-section">
+                        <h4>Notes</h4>
+                        <textarea id="notesArea" placeholder="Add your notes here..."></textarea>
+                    </div>
+                    
+                    <div class="info-section">
+                        <p><a href="examples.html" target="_blank">View Example Patterns</a></p>
+                    </div>
+                </div>
+                
+                <!-- Middle Column: First Visualization (42.5% width) -->
+                <div class="middle-column">
+                    <h3>Graph Visualization</h3>
+                    <svg id="graph" width="500" height="550"></svg>
+                </div>
+                
+                <!-- Right Column: Second Visualization (42.5% width) -->
+                <div class="right-column">
+                    <h3>Drawing Canvas</h3>
+                    <div id="drawingContainer">
+                        <canvas id="drawingCanvas" width="500" height="550" style="border:1px solid #000;"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/pyodide/v0.24.1/full/pyodide.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>

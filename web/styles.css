@@ -1,0 +1,252 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.three-column-layout {
+    display: flex;
+    gap: 20px;
+    height: calc(100vh - 120px);
+    min-height: 600px;
+}
+
+/* Left Column: Controls (15% width) */
+.left-column {
+    width: 15%;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+/* Middle Column: First Visualization (42.5% width) */
+.middle-column {
+    width: 42.5%;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+/* Right Column: Second Visualization (42.5% width) */
+.right-column {
+    width: 42.5%;
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.left-column h3, .middle-column h3, .right-column h3 {
+    margin: 0 0 15px 0;
+    color: #333;
+    font-size: 18px;
+    text-align: center;
+}
+
+.left-column h4 {
+    margin: 10px 0 8px 0;
+    color: #555;
+    font-size: 14px;
+}
+
+.input-section {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #dee2e6;
+}
+
+textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 12px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+#patternInput {
+    height: 120px;
+    margin-bottom: 10px;
+}
+
+#notesArea {
+    height: 80px;
+}
+
+button {
+    padding: 8px 12px;
+    font-size: 14px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+button:hover {
+    background: #218838;
+}
+
+.controls {
+    background: #f8f9fa;
+    border-radius: 5px;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+}
+
+.layout-buttons, .download-buttons {
+    margin-bottom: 15px;
+}
+
+.layout-buttons button {
+    background: #2196f3;
+    margin-bottom: 5px;
+}
+
+.layout-buttons button:hover {
+    background: #1976d2;
+}
+
+.download-buttons button {
+    background: #9c27b0;
+    margin-bottom: 5px;
+}
+
+.download-buttons button:hover {
+    background: #7b1fa2;
+}
+
+.layout-selection {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    background: #f9f9f9;
+}
+
+.layout-selection label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.layout-selection input[type="radio"] {
+    margin-right: 5px;
+}
+
+.notes-section {
+    background: #fff3cd;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ffeaa7;
+}
+
+.info-section {
+    text-align: center;
+    padding: 10px;
+}
+
+.info-section a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.info-section a:hover {
+    text-decoration: underline;
+}
+
+/* Visualization styling */
+#graph {
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+#drawingContainer {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#drawingCanvas {
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #fff;
+    display: block;
+}
+
+.edge {
+    stroke: #666;
+    stroke-width: 1;
+}
+
+.node {
+    fill: #4CAF50;
+    stroke: #333;
+    stroke-width: 1;
+}
+
+.node:hover {
+    fill: #66BB6A;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 1200px) {
+    .three-column-layout {
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .left-column, .middle-column, .right-column {
+        width: 100%;
+        min-height: 400px;
+    }
+    
+    .left-column {
+        max-height: none;
+        overflow-y: visible;
+    }
+}
