@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+515,Double Woven,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=515,1,W,*,purl,*,
+515,Double Woven,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=515,2,R,k1*,"s1 2 wyif, k2",*,k1
+515,Double Woven,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=515,3,W,*,purl,*,
+515,Double Woven,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=515,4,R,k1*,"k2, sl 2 wyif",*,k1

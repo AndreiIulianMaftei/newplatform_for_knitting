@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,1,W,A,p1*,"sl 3 wyib, p3",*,p1
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,2,R,B,*,"k5, sl 1 wyif",*,k2
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,3,W,B,p2*,"sl 1 wyib, p5",*,
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,4,R,A,*,"k5, insert left-hand needle down behind loose Color A strind of Row 1; lift this strand over the point of the left-hand needle and k2 tog-b (i.e., the Color A strand and the first Color B stitch on the needle)",*,k2
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,5,W,A,p4*,"sl 3 wyib, p3",*,"sl 3 wyib, p1"
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,6,R,B,k2*,"sl 1 wyif, k5",*,
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,7,W,B,*,"p5, sl 1 wyib",*,p2
+1222,Quilted Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1222,8,R,A,k2*,insert left-hand needle under Color A strand of Row 5; k2 tog-b (as in Row 4); k5,*,

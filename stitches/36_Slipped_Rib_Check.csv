@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,1,W,*,purl,*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,2,R,p1*,"sl 1 wyib, p3",*,"sl 1, p1"
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,3,W,k1*,"p1, k3",*,"p1, k1"
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,4,R,p1*,"sl 1 wyib, p3",*,"sl 1, p1"
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,5,W,k1*,"p1, k3",*,"p1, k1"
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,6,R,p1*,"sl 1 wyib, p3",*,"sl 1, p1"
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,7,W,*,purl,*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,8,R,p3*,"sl 1 wyib, p3",*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,9,W,k3*,"p1, k3",*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,10,R,p3*,"sl 1 wyib, p3",*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,11,W,k3*,"p1, k3",*,
+36,Slipped Rib Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=36,12,R,p3*,"sl 1 wyib, p3",*,

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1590,Small Quilted Cross-Stitch,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1590,1,W,k1*,"p1, k1",*,
+1590,Small Quilted Cross-Stitch,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1590,2,R,p1*,"sl 1 wyib, (k1, k1-b) in next stitch) k1, then pass slipped stitch over the last 3 stitches; p1",*,
+1590,Small Quilted Cross-Stitch,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1590,3,W,k1*,"p1, k1",*,
+1590,Small Quilted Cross-Stitch,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1590,4,R,"p1, k1, p1*","sl 1 wyib, (k1, k1-b) in next stitch) k1, then pass slipped stitch over the last 3 stitches; p1",*,"k1, p1"

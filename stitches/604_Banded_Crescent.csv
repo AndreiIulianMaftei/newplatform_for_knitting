@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,1,W,*,knit,*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,2,R,*,purl,*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,3,W,*,purl,*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,4,R,K2*,"sl 1 wyib, k2",*,k1
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,5,W,P3*,"sl 1 wyif, p2",*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,6,R,K2*,"drop slipped stitch off needle to front of work, k2, pick up dropped stitch and knit it",*,k1
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,7,W,*,purl,*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,8,R,K2*,"yo, k2 tog, k1",*,k1
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,9,W,*,purl,*,
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,10,R,K4*,"sl 1 wyib, k2",*,"sl 1, k1"
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,11,W,P1*,"sl 1 wyif, p2",*,p2
+604,Banded Crescent,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=604,12,R,K2*,"sl 2 wyib, drop next slipped stitch off needle to front of work, slip the same 2 stitches back to the left-hand needle, pick up dropped stitch and knit it, k2",*,k1

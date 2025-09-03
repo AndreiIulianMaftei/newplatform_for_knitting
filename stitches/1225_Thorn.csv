@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,1,R,A,k2*,"(k1, yo, k1) in next stitch, k3",*,end last repeat k2 instead of k3
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,2,W,B,p2*,"sl 3 wyif, p3",*,end last repeat p2 instead of p3
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,3,R,B,k1*,"k2 tog, sl 1 wyib, ssk, k1",*,
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,4,W,A,p4*,"sl 1 wyif, p3",*,p1
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,5,R,A,k4*,"(k1, yo, k1) in next stitch, k3",*,k1
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,6,W,B,p4*,"sl 3 wyif, p3",*,p1
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,7,R,B,k3*,"k2 tog, sl 1 wyib, ssk, k1",*,k2
+1225,Thorn,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1225,8,W,A,p2*,"sl 1 wyif, p3",*,end last repeat p2 instead of p3

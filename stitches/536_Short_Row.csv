@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,1,R,A,*,knit,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,2,W,A,*,purl,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,3,R,A,*,knit,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,4,W,A,*,purl,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,5,R,B,k2*,"k7, turn; sl 1 wyif, p2, turn; sl 1 wyib, k4, turn; sl 1 wyif, p6, turn; sl 1 wyib, k8, turn; sl 1 wyif, p10, turn; sl 1 wyib, k21",*,k2
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,6,W,B,k2*,"k11, p11",*,k2
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,7,R,A,*,knit,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,8,W,A,*,purl,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,9,R,A,*,knit,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,10,W,A,*,purl,*,
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,11,R,B,k13*,"k7, turn; sl 1 wyif, p2, turn; sl 1 wyib, k4, turn; sl 1 wyif, p6, turn; sl 1 wyib, k8, turn; sl 1 wyif, p10, turn; sl 1 wyib, k21",*,"k7, turn; sl 1 wyif, p2, turn; sl 1 wyib, k4, turn; sl 1 wyif, p6, turn; sl 1 wyib, k8, turn; sl 1 wyif, p10, turn; sl 1 wyib, k12"
+536,Short Row,Multiple of 22 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=536,12,W,B,k2*,"p11, k11",*,k2

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+633,Purl-Twist Fabric,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=633,1,R,*,knit,*,
+633,Purl-Twist Fabric,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=633,2,W,*,"p2 tog, but do not slip from needle, then purl the first stitch again, and slip both stitches from needle together",*,
+633,Purl-Twist Fabric,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=633,3,R,*,knit,*,
+633,Purl-Twist Fabric,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=633,4,W,P1*,"p2 tog, but do not slip from needle, then purl the first stich again, and slip both stitches from needle together",*,p1

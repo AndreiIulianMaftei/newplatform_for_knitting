@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1307,Raspberries,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1307,1,R,p1*,"(k1, yo, k1) in next stitch; p4",*,
+1307,Raspberries,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1307,2,W,k1*,"p3-tog, k4",*,
+1307,Raspberries,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1307,3,R,*,"p4, (k1, yo, k1) in next stitch",*,p1
+1307,Raspberries,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1307,4,W,*,"k4, p3-tog",*,k1

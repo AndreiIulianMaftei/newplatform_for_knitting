@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,1,W,k1*,"k2, p4",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,2,R,k1*,"slip next 2 stitches to dpn and hold in front, k2, then k2 from dpn; p2",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,3,W,k1*,"k2, p4",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,4,R,"k1, p2*","k2, slip next 2 stitches to dpn and hold in back, k2, then p2 from dpn",*,k5
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,5,W,k1*,"p4, k2",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,6,R,k1*,"p2, slip next 2 stitches to dpn and hold in back, k2, then k2 from dpn",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,7,W,k1*,"p4, k2",*,k1
+1728,Wave Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1728,8,R,k5*,"slip next 2 stitches to dpn and hold in front, p2, then k2 from dpn; k2",*,"p2, k1"

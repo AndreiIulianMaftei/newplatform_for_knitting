@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,1,R,B,k1*,"k3, sl 1 wyib",*,k4
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,2,W,B,k1*,"k3, sl 1 wyif",*,k4
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,3,R,A,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,4,W,A,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,5,R,C,k1*,"k3, sl 1 wyib",*,k4
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,6,W,C,k1*,"k3, sl 1 wyif",*,k4
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,7,R,A,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+422,Three-Color Basket Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=422,8,W,A,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"

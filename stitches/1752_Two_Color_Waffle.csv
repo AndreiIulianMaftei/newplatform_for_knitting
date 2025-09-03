@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1752,Two Color Waffle,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1752,1,W,A,*,knit,*,
+1752,Two Color Waffle,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1752,2,R,B,k1*,"k1 in row below next stitch and slip the stitch worked under off the left needle, k1",*,
+1752,Two Color Waffle,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1752,3,W,B,*,knit,*,
+1752,Two Color Waffle,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1752,4,R,A,k2*,"k1 in row below next stitch and slip the stitch worked under off the left needle, k1",*,k2

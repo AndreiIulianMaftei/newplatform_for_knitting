@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,1,R,k1*,"p7, k1",*,
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,2,W,p1*,"k7, p1",*,
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,3,R,k2*,"p5, k3",*,"p5, k2"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,4,W,p2*,"k5, p3",*,"k5, p2"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,5,R,k3*,"p3, k5",*,"p3,k3"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,6,W,p3*,"k3, p5",*,"k3,p3"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,7,R,k4*,"p1, k7",*,"p1,k4"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,8,W,p4*,"k1, p7",*,"k1,p4"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,9,R,p1*,"k7, p1",*,
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,10,W,k1*,"p7, k1",*,
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,11,R,p2*,"k5, p3",*,"k5, p2"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,12,W,k2*,"p5, k3",*,"p5, k2"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,13,R,p3*,"k3, p5",*,"k3,p3"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,14,W,k3*,"p3, k5",*,"p3,k3"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,15,R,p4*,"k1, p7",*,"k1,p4"
+119,Chevron 1,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=119,16,W,k4*,"p1, k7",*,"p1,k4"

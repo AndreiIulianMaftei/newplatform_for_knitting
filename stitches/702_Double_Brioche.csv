@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,1,W,*,"K1, yo, sl 1 wyib",*,
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,2,R,K1*,"sl the yo stitch, k2",*,"sl the yo stitch, k1"
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,3,W,*,"Yo, sl 1 wyib, k2 tog (the yo stitch and next stitch)",*,
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,4,R,*,"K2, sl the yo stitch",*,
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,5,W,*,"K2 tog (the yo stitch and next stitch), yo, sl 1 wyib",*,
+702,Double Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=702,6,R,K1*,"sl the yo stitch, k2",*,"sl the yo stitch, k1"

@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+160,Rickrack Ribbing,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=160,1,R,p1*,Take right-hand needle behind left-hand needle. Skip the first stitch and knit into the back loop of the second stitch. Then knit skipped stitch through the front loop. The slip both stitches from the needle together; p1,*
+160,Rickrack Ribbing,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=160,2,W,k1*,"With yarn in front, skip the first stitch and purl the second stitch. The purl the skipped stitch. The slip both stitches from needle together; k1",*

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,1,R,*,"p4, yo, p2-tog",*,
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,2,W,k1*,"p1, k5",*,"p1, k4"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,3,R,p4*,"k1, p5",*,"k1, p1"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,4,W,k1 *,"p1, k5",*,"p1, k4"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,5,R,p4 *,"k1, p5",*,"k1, p1"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,6,W,k1 *,"p1, k5",*,"p1, k4"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,7,R,p1*,"yo, p2-tog, p4",*,"yo, p2-tog, p3"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,8,W,k4*,"p1, k5",*,"p1, k1"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,9,R,p1*,"k1, p5",*,"k1, p4"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,10,W,k4 *,"p1, k5",*,"p1, k1"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,11,R,p1 *,"k1, p5",*,"k1, p4"
+1817,Eiffel Tower Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1817,12,W,k4 *,"p1, k5",*,"p1, k1"

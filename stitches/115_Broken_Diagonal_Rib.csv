@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,1,R,*,"p4, k4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,2,W,*,"p4, k4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,3,R,*,"p4, k4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,4,W,*,"p4, k4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,5,R,k2*,"p4, k4",*,"p4, k2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,6,W,p2*,"k4, p4",*,"k4, p2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,7,R,k2*,"p4, k4",*,"p4, k2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,8,W,p2*,"k4, p4",*,"k4, p2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,9,R,*,"k4, p4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,10,W,*,"k4, p4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,11,R,*,"k4, p4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,12,W,*,"k4, p4",*,
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,13,R,p2*,"k4, p4",*,"k4, p2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,14,W,k2*,"p4, k4",*,"p4, k2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,15,R,p2*,"k4, p4",*,"k4, p2"
+115,Broken Diagonal Rib,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=115,16,W,k2*,"p4, k4",*,"p4, k2"

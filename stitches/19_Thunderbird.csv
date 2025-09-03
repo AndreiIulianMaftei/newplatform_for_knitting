@@ -1,0 +1,19 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,1,W,*,knit,*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,2,R,*,knit,*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,3,W,k1*,"p13, k1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,4,R,k1*,"p1, k11, p1, k1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,5,W,p1*,"k2, p9, k2, p1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,6,R,k1*,"p3, k7, p3, k1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,7,W,p1*,"k4, p5, k4, p1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,8,R,k1*,"p5, k3, p5, k1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,9,W,p1*,"k6, p1",*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,10,R,*,purl,*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,11,W,*,purl,*,
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,12,R,k7*,"p1, k13",*,"p1, k7"
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,13,W,p6*,"k1, p1, k1, p11",*,p6
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,14,R,k5*,"p2, k1, p2, k9",*,k5
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,15,W,p4*,"k3, p1, k3, p7",*,p4
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,16,R,k3*,"p4, k1, p4, k5",*,k3
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,17,W,p2*,"k5, p1, k5, p3",*,p2
+19,Thunderbird,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=19,18,R,k1*,"p6, k1",*,

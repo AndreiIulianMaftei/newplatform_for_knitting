@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1281,False Knots,Multiple of 10 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1281,1,R,p4*,"k5, p5",*,p4
+1281,False Knots,Multiple of 10 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1281,2,W,k4*,"p5, k5",*,k4
+1281,False Knots,Multiple of 10 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1281,3,R,p3*,"purl next stitch and knit in back loop of the same stitch; k1, p3-tog; knit next stitch in front and then back loop; p4",*,
+1281,False Knots,Multiple of 10 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1281,4,W,k4*,"p5, k5",*,k4

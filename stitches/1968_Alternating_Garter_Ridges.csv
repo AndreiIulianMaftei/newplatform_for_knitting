@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1968,Alternating Garter Ridges,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1968,1,R,*,"p1, k5",*,p1
+1968,Alternating Garter Ridges,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1968,2,W,k1*,"p5, k7",*,
+1968,Alternating Garter Ridges,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1968,3,R,*,"p1, k5",*,p1
+1968,Alternating Garter Ridges,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1968,4,W,k1*,"k6, p5, k1",*,

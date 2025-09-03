@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1,Sailor's Rib,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1,1,R,k1-b*,"p1, k2, p1, k1-b",*
+1,Sailor's Rib,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1,2,W,p1*,"k1, p2, k1, p1",*
+1,Sailor's Rib,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1,3,R,k1-b*,"p4, k1-b",*
+1,Sailor's Rib,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1,4,W,p1*,"k4, p1",*

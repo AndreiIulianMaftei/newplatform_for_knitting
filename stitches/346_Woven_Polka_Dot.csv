@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,1,R,A,*,knit,*,
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,2,W,A,k1*,purl,*,k1
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,3,R,B,*,"sl 1 wyib, sl 1 wyif",*,sl 1 wyib
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,4,W,B,p1*,"sl 1 wyib, sl 1 wyif",*,
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,5,R,A,*,knit,*,
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,6,W,A,k1*,purl,*,
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,7,R,B,*,"sl 1 wyif, sl 1 wyib",*,sl 1 wyif
+346,Woven Polka Dot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=346,8,W,B,p1*,"sl 1 wyif, sl 1 wyib",*,

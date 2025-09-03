@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,1,R,*,knit,*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,2,W,*,purl,*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,3,R,P1*,"yo in reverse, p2 tog",*,p1
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,4,W,*,"Purl, purling all yo stitches through back loops",*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,5,R,*,knit,*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,6,W,*,purl,*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,7,R,P2*,"yo in reverse, p2 tog",*,
+741,Dimple Eyelet,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=741,8,W,*,"Purl, purling all yo stitches through back loops",*,

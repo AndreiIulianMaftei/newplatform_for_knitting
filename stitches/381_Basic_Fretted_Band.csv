@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,1,R,B,*,knit,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,2,W,B,*,knit,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,3,R,A,k6*,"sl 1 wyib, k5",*,"sl 1 wyib, k1"
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,4,W,A,*,knit all the stitches knitted in the previous row and slip all the slipped stitches with yarn in front,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,5,R,B,"k1, sl 1 wyib*","k3, sl 1 wyib, k1, sl 1 wyib",*,"k3, sl 1 wyib, k2"
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,6,W,B,*,knit all the stitches knitted in the previous row and slip all the slipped stitches with yarn in front,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,7,R,A,k4*,"sl 1 wyib, k1, sl 1 wyib, k3",*,"sl 1 wyib, k1, sl 1 wyib, k1"
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,8,W,A,*,knit all the stitches knitted in the previous row and slip all the slipped stitches with yarn in front,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,9,R,B,k3*,"sl 1 wyib, k1, sl 1 wyib, k3",*,"sl 1 wyib, k1, sl 1 wyib, k2"
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,10,W,B,*,knit all the stitches knitted in the previous row and slip all the slipped stitches with yarn in front,*,
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,11,R,A,k4*,"sl 1 wyib, k5",*,"sl 1 wyib, k3"
+381,Basic Fretted Band,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=381,12,W,A,*,knit all the stitches knitted in the previous row and slip all the slipped stitches with yarn in front,*,

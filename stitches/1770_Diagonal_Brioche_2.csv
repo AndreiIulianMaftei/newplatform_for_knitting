@@ -1,0 +1,6 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1770,Diagonal Brioche 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1770,1,W,p2   *,"sl 1 wyib, yo, p1",*,p1
+1770,Diagonal Brioche 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1770,2,R,"sl 1 wyib, p1 *","sl the yo purlwise, p2",*,p1
+1770,Diagonal Brioche 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1770,3,W,p1 *,"sl 1 wyib, yo, p2-tog,",*,"sl 1 wyib, yo, p1"
+1770,Diagonal Brioche 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1770,4,R,p1 *,"sl the yo purlwise, p2",*,
+1770,Diagonal Brioche 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1770,5,W,"sl 1 wyib, p2-tog*","sl 1 wyib, yo, p2-tog",*,p1

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Repeat
+230,Braid 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=230,1,R,"p3, k5, p2"
+230,Braid 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=230,2,W,"k2, p5, k3"
+230,Braid 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=230,3,R,"p3; Increase 1 by knitting into back loop below last stitch; k1, p3-tog, k1, Increase 1 by knitting into back loop below next stitch; p2"
+230,Braid 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=230,4,W,"k2, p5, k3"

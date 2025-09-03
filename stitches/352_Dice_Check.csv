@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,1,W,A,*,purl,*,
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,2,R,B,"k1, sl 1 wyib*","k2, sl 2 wyib",*,"k2, sl 1, k1"
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,3,W,B,"p1, sl 1 wyif*","p2, sl 2, wyif",*,"p2, sl 1, p1"
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,4,R,A,*,knit,*,
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,5,W,C,p2*,"sl 2 wyif, p2",*,
+352,Dice Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=352,6,R,C,p2*,"sl 2 wyib, k2",*,

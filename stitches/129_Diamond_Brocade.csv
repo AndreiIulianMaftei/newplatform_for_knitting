@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,1,R,k4*,"p1, k7",*,"p1,k4"
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,2,W,p3*,"k1, p1, k1, p5",*,"k1,p1,k1,p3"
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,3,R,k2*,"p1, k3",*,"p1, k2"
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,4,W,p1*,"k1, p5, k1, p1",*,
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,5,R,*,"p1, k7",*,p1
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,6,W,p1*,"k1, p5, k1, p1",*,
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,7,R,k2*,"p1, k3",*,"p1, k2"
+129,Diamond Brocade,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=129,8,W,p3*,"k1, p1, k1, p5",*,"k1,p1,k1,p3"

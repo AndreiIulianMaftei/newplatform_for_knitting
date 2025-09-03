@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Repeat,End Row
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,1,R,"p1, k1",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,2,W,"k1, p1",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,3,R,"p1, k1",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,4,W,"k1, p1",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,5,R,"p2, (k1, p1) 3 times",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,6,W,"k2, (p1, k1) 3 times",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,7,R,"p2, (k1, p1) 3 times",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,8,W,"k2, (p1, k1) 3 times",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,9,R,"p3, k1, p1, k1, p2",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,10,W,"k3, p1, k1, p1, k2",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,11,R,"p3, k1, p1, k1, p2",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,12,W,"k3, p1, k1, p1, k2",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,13,R,"p4, k1, p3",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,14,W,"k4, p1, k3",k1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,15,R,"p4, k1, p3",p1
+127,Pyramid,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=127,16,W,"k4, p1, k3",k1

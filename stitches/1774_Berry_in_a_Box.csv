@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,1,R,p3*,"k1, p5",*,"k1, p3"
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,2,W,k3-tog*,"yo, (k1, yo, k1) in next stitch, yo, Decrease5,",*,"yo, (k1, yo, k1) in next stitch, yo, k3-tog-b"
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,3,R,k1*,"p5, k1",*,
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,4,W,p1*,"k5, p1",*,
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,5,R,k1 *,"p5, k1",*,
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,6,W,"(k1, k1-b) in first stitch*","yo, Decrease5, yo, (k1, yo, k1) in next stitch",*,"yo, Decrease5, yo, (k1, k1-b) in last stitch"
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,7,R,p3*,"k1, p5",*,"k1, p3"
+1774,Berry in a Box,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1774,8,W,k3*,"p1, k5",*,"p1, k3"

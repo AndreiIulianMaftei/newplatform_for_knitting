@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1027,Two-Color Star,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1027,1,W,A,*,Purl,*,
+1027,Two-Color Star,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1027,2,R,A,k2*,"yo, k3, pass first of the 3 stitches over the 2nd and 3rd stitches",*,k1
+1027,Two-Color Star,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1027,3,W,B,*,Purl,*,
+1027,Two-Color Star,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1027,4,R,B,k1*,"k3, pass first of the 3 knit stitches over the 2nd and 3rd stitches, yo",*,k2

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1058,Camping,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1058,1,R,*,"k1, p3",*,
+1058,Camping,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1058,2,W,*,"k1, p5, k1, p1",*,
+1058,Camping,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1058,3,R,k2*,"p1, k3",*,"p1, k1"
+1058,Camping,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1058,4,W,p2*,"k1, p1, k1, p5",*,"k1, p1, k1, p3"

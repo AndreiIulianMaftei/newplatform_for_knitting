@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,1,W,*,knit,*,
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,2,R,*,purl,*,
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,3,W,K2*,"sl 2 wyif, p6",*,"sl 2, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,4,R,K2*,"sl 2 wyib, k1, k2 tog, (yo) twice, ssk, k1",*,"sl 2, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,5,W,K2*,"sl 2 wyif, p2, (p1, k1) into the double yo, p2",*,"sl 2, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,6,R,K2*,"sl 2 wyib, k6",*,"sl 2, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,7,W,*,knit,*,
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,8,R,*,purl,*,
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,9,W,"k2, p4*","sl 2 wyif, p6",*,"sl 2, p4, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,10,R,"k3, yo, ssk, k1*","sl 2 wyib, k1, k2 tog, (yo) twice, ssk, k1",*,"sl 2, k1, k2 tog, yo, k3"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,11,W,"K2, p4*","sl 2 wyif, p2, (p1, k1) into the double yo, p2",*,"sl 2, p4, k2"
+758,Eyelet Honeycomb,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=758,12,R,K6*,"sl 2 wyib, k6",*,

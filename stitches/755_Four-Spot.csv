@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,1,R,K2*,"yo, k2-tog",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,2,W,*,knit,*,
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,3,R,K1*,"k2-tog, yo, ssk, k6",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,4,W,K2*,"(k1, p1) into the yo of previous row, k8",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,5,R,K4*,"(k2-tog, yo, ssk) twice, k2",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,6,W,K5*,"(k1, p1) into the yo, k2, (k1, p1) into the yo, k4",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,7,R,K1*,"k2-tog, yo, ssk, k6",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,8,W,K2*,"(k1, p1) into the yo of previous row, k8",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,9,R,*,knit,*,
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,10,W,*,knit,*,
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,11,R,K1*,"k2-tog, yo, ssk, k6",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,12,W,K2*,"(k1, p1) into the yo of previous row, k8",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,13,R,K4*,"(k2-tog, yo, ssk) twice, k2",*,k2
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,14,W,K5*,"(k1, p1) into the yo, k2, (k1, p1) into the yo, k4",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,15,R,K1*,"k2-tog, yo, ssk, k6",*,k1
+755,Four-Spot,Multiple of 10 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=755,16,W,K2*,"(k1, p1) into the yo of previous row, k8",*,k2

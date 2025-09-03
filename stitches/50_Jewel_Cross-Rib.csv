@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,1,W,P3*,"k2, p5",*,"k2, p3"
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,2,R,*,knit,*,
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,3,W,P3*,"k2, p5",*,"k2, p3"
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,4,R,*,knit,*,
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,5,W,P3*,"k2, p5",*,"k2, p3"
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,6,R,*,knit,*,
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,7,W,k3*,"sl 1 wyif, k2, sl 1 wyif, k3",*,k5
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,8,R,k3*,"sl 1 wyib, k2, sl 1 wyib, k3",*,k5
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,9,W,k3*,"sl 1 wyif, k2, sl 1 wyif, k3",*,k5
+50,Jewel Cross-Rib,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=50,10,R,k3*,"drop first slipped stitch off needle to front of work, slip next 2 stitches to right hand needle, drop 2nd slip stitch off needle to front of work; then pick up the 1st dropped stitch with left-hand needle, slip the same 2 stitches back to the left hand needle, then with right hand needle pick up the second dropped stitch and replace it on left-hand needle; k7",*,k6

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+345,Tiny Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=345,1,W,A,*,purl,*,
+345,Tiny Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=345,2,R,B,k1*,"sl 1 wyib, k1",*,
+345,Tiny Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=345,3,W,A,Slip all stitches to the other end of the needle*,knit,*,
+345,Tiny Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=345,4,R,B,p2*,"sl 1 wyif, p1",*,p1; slip all stitches to the other end of the needle.

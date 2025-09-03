@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,1,W,*,knit,*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,2,R,*,purl,*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,3,W,*,knit,*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,4,R,p3*,"yo, k1, yo, p3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,5,W,k3*,"p3, k3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,6,R,p3*,"yo, k3-tog, yo, p3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,7,W,k3*,"p3, k3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,8,R,p3*,"yo, k3-tog, yo, p3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,9,W,k3*,"p3, k3",*
+1814,Spanish Window,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1814,10,R,p3*,"k3-tog, p3",*

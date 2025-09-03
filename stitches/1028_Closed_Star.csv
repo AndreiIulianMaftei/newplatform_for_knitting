@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1028,Closed Star,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1028,1,R,A,k1*,"k3, pass first of the 3 knit stitches over the 2nd and 3rd stitches",*,k1
+1028,Closed Star,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1028,2,W,B,p1*,"insert needle from behind under running thread between the stitch just worked and the next stitch, and purl this thread; p2",*,p1
+1028,Closed Star,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1028,3,R,B,k2*,"k3, pass first of the 3 knit stitches over the 2nd and 3rd stitches",*,
+1028,Closed Star,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1028,4,W,A,p2*,"insert needle from behind under running thread between the stitch just worked and the next stitch, and purl this thread; p2",*,

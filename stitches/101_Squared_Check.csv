@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,1,R,*,knit,*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,2,W,*,purl,*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,3,R,k2*,"p8, k2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,4,W,p2*,"k8, p2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,5,R,k2*,"p2, k4, p2, k2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,6,W,P2*,"k2, p4, k2, p2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,7,R,k2*,"p2, k4, p2, k2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,8,W,p2*,"k2, p4, k2, p2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,9,R,k2*,"p2, k4, p2, k2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,10,W,p2*,"k2, p4, k2, p2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,11,R,k2*,"p8, k2",*
+101,Squared Check,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=101,12,W,p2*,"k8, p2",*

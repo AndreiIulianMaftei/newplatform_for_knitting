@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,1,R,B,k1*,"sl 3 wyib, k1",*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,2,W,B,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,3,R,B,*,knit,*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,4,W,B,*,purl,*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,5,R,C,k1*,"sl 3 wyib, k1",*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,6,W,C,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,7,R,C,*,knit,*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,8,W,C,*,purl,*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,9,R,A,k1*,"sl 3 wyib, k1",*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,10,W,A,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,11,R,A,*,knit,*,
+300,Tricolor Wave Stripes,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=300,12,W,A,*,purl,*,

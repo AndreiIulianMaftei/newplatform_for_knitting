@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,1,R,A,k2*,"sl 1 wyib, k2",*,
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,2,W,A,k2*,"sl 1 wyif, k2",*,
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,3,R,B,k1*,"sl 1 wyib, k2",*,sl 1 wyib
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,4,W,B,*,"sl 1 wyif, k2",*,k1
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,5,R,A,*,"sl 1 wyib, k2",*,"sl 1 wyib, k1"
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,6,W,A,k1*,"sl 1 wyif, k2",*,sl 1 wyif
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,7,R,B,k2 *,"sl 1 wyib, k2",*,
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,8,W,B,k2 *,"sl 1 wyif, k2",*,
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,9,R,A,k1*,"sl 1 wyib, k2",*,sl 1 wyib
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,10,W,A,*,"sl 1 wyif, k2",*,k1
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,11,R,B,*,"sl 1 wyib, k2",*,"sl 1 wyib, k1"
+1746,Coat Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1746,12,W,B,k1*,"sl 1 wyif, k2",*,sl 1 wyif

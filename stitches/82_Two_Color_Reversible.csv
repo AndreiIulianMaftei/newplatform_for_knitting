@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Repeat,End Row
+82,Two Color Reversible,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=82,1,R,B,"k1, sl 1 wyif",sl sts to other needle and take up color A
+82,Two Color Reversible,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=82,2,W,A,"sl 1 wyib, p1",Turn work and take up color B strand
+82,Two Color Reversible,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=82,3,R,B,"sl 1 wyib, p1",sl sts to other end of needle and take up color A
+82,Two Color Reversible,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=82,4,W,A,"k1, sl 1 wyif",Turn work and take up color B strand

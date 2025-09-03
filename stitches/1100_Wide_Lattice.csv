@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,1,R,"p2, k3*","p4, k6",*,p5
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,3,R,"p2, k3*","p4, 6st LC",*,p5
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,4,W,*,Knit the knit stitches and purl the purl stitches,*,
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,5,R,p2*,"5st LC, 5st RC",*,"5st LC, p3"
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,7,R,p4*,"6st RC, p4",*,"k3, p3"
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,8,W,*,Knit the knit stitches and purl the purl stitches,*,
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,9,R,p2*,"5st RC, 5st LC",*,"5st RC, p3"
+1100,Wide Lattice,Multiple of 10 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1100,10,W,*,Knit the knit stitches and purl the purl stitches,*,

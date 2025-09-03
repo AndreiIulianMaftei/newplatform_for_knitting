@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,1,R,RC*,"k4, RC",*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,2,W,*,purl,*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,3,R,k1*,"LC, k2, RC",*,k1
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,4,W,*,purl,*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,5,R,k2*,"LC, RC, k2",*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,6,W,*,purl,*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,7,R,k3*,"RC, k4",*,end last repeat k3  instead of k4
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,8,W,*,purl,*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,9,R,k2*,"RC, LC, k2",*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,10,W,*,purl,*,
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,11,R,k1*,"RC, k2, LC",*,k1
+1202,Dainty Diamonds,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1202,12,W,*,purl,*,

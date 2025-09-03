@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,1,R,*,knit all stitches through back loop,*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,2,W,*,purl,*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,3,R,k2-b*,"p2, k2-b",*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,4,W,p2*,"k2, p2",*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,5,R,*,knit all stitches through back loop,*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,6,W,*,purl,*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,7,R,p2*,"k2-b, p2",*
+105,Swedish Check,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=105,8,W,k2*,"p2, k2",*

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,1,R,B,k5*,"sl 2 wyib, k4",*,k1
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,2,W,B,k5*,"sl 2 wyif, k4",*,k1
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,3,R,A,k1*,"sl 1 wyib, k2",*,"sl 1 wyib, k1"
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,4,W,A,p1*,"sl 1 wyif, p2",*,"sl 1 wyif, p1"
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,5,R,B,k2*,"sl 2 wyib, k4",*,"sl 2 wyib, k2"
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,6,W,B,k2*,"sl 2 wyif, k4",*,"sl 2 wyif, k2"
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,7,R,A,k1*,"sl 1 wyib, k2",*,"sl 1 wyib, k1"
+378,Cage,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=378,8,W,A,p1*,"sl 1 wyif, p2",*,"sl 1 wyif, p1"

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,1,R,K1*,"sl 3 wyib, k2 tog, pass 3 slipped stitches over, one at a time; purl loosely into front, back, front, back, and front of next stitch (5 stitches from 1)",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,2,W,P1*,"k5, p1",*,p1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,3,R,K1*,"k1, p5",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,4,W,P1*,"k5, p1",*,p1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,5,R,K1*,"k1, p5",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,6,W,P1*,"k5, p1",*,p1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,7,R,K1*,"purl loosely into front, back, front, back, and front of next stitch (5 stitches from 1), sl 3 wyib, k2 tog, pass 3 slipped stitches over, one at a time",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,8,W,P1*,"p1, k5",*,p1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,9,R,K1*,"p5, k1",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,10,W,P1*,"p1, k5",*,p1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,11,R,K1*,"p5, k1",*,k1
+666,Pineapple 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=666,12,W,P1*,"p1, k5",*,p1

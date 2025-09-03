@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,1,R,*,knit,*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,2,W,*,purl,*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,3,R,k1*,"knit in stitch 2 rows below next stitch, then knit stitch above on left needle, with tip of left needle lift and pass the long stitch over the last stitch worked and drop it, k1",*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,4,W,*,purl,*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,5,R,*,knit,*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,6,W,*,purl,*,
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,7,R,k2*,"knit in stitch 2 rows below next stitch, then knit stitch above on left needle, with tip of left needle lift and pass the long stitch over the last stitch worked and drop it, k1",*,k2
+1092,Embossed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1092,8,W,*,purl,*,

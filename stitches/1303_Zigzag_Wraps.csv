@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,1,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,2,R,k4*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,3,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,4,R,k5*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k3
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,5,R,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,6,R,k6*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k2
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,7,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,8,R,k5*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k3
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,9,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,10,R,k4*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,11,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,12,R,k3*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k5
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,13,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,14,R,k2*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k6
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,15,W,*,purl,*,
+1303,Zigzag Wraps,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1303,16,R,k3*,"yo, k2, pass yarn-over loop over the 2 knit stitches and drop it; k4",*,k5

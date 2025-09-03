@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,1,R,A,*,knit,*,
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,2,W,A,k1*,"k1 wrapping yarn twice around needle, k3",*,"k1 wrapping yarn twice around needle, k1"
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,3,R,B,k1*,"sl 1 wyib dropping extra wrap, k3",*,"sl 1 wyib dropping extra wrap, k1"
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,4,W,B,k1*,"sl 1 wyif, k3",*,"sl 1 wyif, k1"
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,5,R,C,k1*,"sl 2 wyib, k2",*,"sl 1 wyib, k1"
+337,Shadow Box,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=337,6,W,C,"k1, sl 1 wyif*","p2, sl 2 wyif",*,k1

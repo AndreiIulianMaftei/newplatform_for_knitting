@@ -1,0 +1,4 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+634,Twist Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=634,1,R,K1*,"yo, sl 1 wyib, k2 tog",*,k1
+634,Twist Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=634,2,W,K1*,"yo, sl 1 wyib, k2 tog [stitches knitted together include the yo of the previous row]",*,k1
+634,Twist Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=634,3,R,K1*,"k1, skip 1 stitch, knit the yo stitch of the previous row and leave on needle, then knit the stitch before the yo and slip both stitches from the needle together",*,k1

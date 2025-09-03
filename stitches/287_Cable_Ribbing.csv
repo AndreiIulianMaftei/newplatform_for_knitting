@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+287,Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=287,1,W,k2*,"p1-b, k1, p1-b, k2",*
+287,Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=287,2,R,p2*,"k1-b, p1, k1-b, p2",*
+287,Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=287,3,W,k2*,"p1-b, k1, p1-b, k2",*
+287,Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=287,4,R,p2*,"Slip next 2 stitches to cable needle and hold in front. K1-b, then slip the purl stitch back to the left-hand needle and purl it. Then k1-b from cable needle; p2",*

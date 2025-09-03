@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,1,W,A,*,purl,*,
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,2,R,B,k3*,"sl 1 wyib, k3",*,
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,3,W,B,k3*,"sl 1 wyif, k3",*,
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,4,R,A,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,5,W,A,k1*,"sl 1 wyif, k3",*,"sl 1 wyif, k1"
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,6,R,B,k3*,"sl 1 wyib, k3",*,
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,7,W,B,*,purl,*,
+293,Maltese Cross,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=293,8,R,A,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"

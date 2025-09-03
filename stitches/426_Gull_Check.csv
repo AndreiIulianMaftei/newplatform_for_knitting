@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,1,W,A,k3*,"p2, k5",*,"p2, k3"
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,2,R,B,k3*,"sl 2 wyib, k5",*,"sl 3 wyib, k3"
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,3,W,B,p3*,"sl 2 wyif, p5",*,"sl 2 wyif, p3"
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,4,R,B,k3*,"sl 2 wyib, k5",*,"sl 3 wyib, k3"
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,5,W,B,p3*,"sl 2 wyif, p5",*,"sl 2 wyif, p3"
+426,Gull Check,Multiple of 7 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=426,6,R,A,*,"k1, sl 2 wyib, drop Color A sl-st off needle to front of work, sl the same 2 sts back to left-hand needle, pick up dropped st and knit it; k2, drop next Color A sl-st off needle to front of work, k2, pick up dropped st and knit it",*,k1

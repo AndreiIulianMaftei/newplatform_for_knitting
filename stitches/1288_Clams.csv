@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,1,R,*,"p2, k1",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,2,W,*,"p1, k2",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,3,R,*,"p2, k1; pick up connecting strand between last stitch and next stitch on left needle, k1, p1, k1 into this loop; p2, k1",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,4,W,*,"p1, k8",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,5,R,*,"p2, k4, p2, k1",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,6,W,*,"p1, k8",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,7,R,*,"p2, k4, p2, k1",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,8,W,*,"p1, k2, p4-tog, k2",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,9,R,*,"(p2, k1) twice; pick up connecting strand between last stitch and next stitch on left needle, k1, p1, k1 into this loop",*,"(p2,k1) twice"
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,10,W,"k3,p1,k2*","k6,p1,k2",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,11,R,*,"p2, k1, p2, k4",*,"(p2,k1) twice"
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,12,W,"k3,p1,k2 *","k6,p1,k2",*,
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,13,R,*,"p2, k1, p2, k4",*,"(p2,k1) twice"
+1288,Clams,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1288,14,W,"k3, p1, k2 *","p4-tog, k2, p1, k2",*,

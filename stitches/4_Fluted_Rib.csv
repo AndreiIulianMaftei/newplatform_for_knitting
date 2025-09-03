@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,1,R,p1*,"k7, p1",*,
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,2,W,p1*,"k7, p1",*,
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,3,R,p1*,"k7, p1",*,
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,4,W,k2*,"p5, k3",*,"p5, k2"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,5,R,p3*,"k3, p5",*,"k3, p3"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,6,W,k4*,"p1, k7",*,"p1, k4"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,7,R,k4*,"p1, k7",*,"p1, k4"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,8,W,k4*,"p1, k7",*,"p1, k4"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,9,R,p3*,"k3, p5",*,"k3, p3"
+4,Fluted Rib,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=4,10,W,k2*,"p5, k3",*,"p5, k2"

@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,1,R,*,"K5, P5",*,
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,2,W,P1*,"K5, P5",*,"K5, P4"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,3,R,K3*,"P5, K5",*,"P5, K4"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,4,W,P3*,"K5, P5",*,"K5, P2"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,5,R,K1*,"P5, K5",*,"P5, K4"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,6,W,*,"P5, K5",*,
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,7,R,P4*,"K5, P5",*,"K5, P1"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,8,W,K2*,"P5, K5",*,"P5, K3"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,9,R,P2*,"K5, P5",*,"K5, P3"
+1005,Diagonal Lines,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1005,10,W,K4*,"P5, K5",*,"P5, K1"

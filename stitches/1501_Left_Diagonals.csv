@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,1,R,k3*,"sl 3 wyif, k3",*,
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,2,W,p2*,"sl 3 wyib, p3",*,p4
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,3,R,k5*,"sl 3 wyif, k3",*,k1
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,4,W,p6*,"sl 3 wyib, p3",*,p6
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,5,R,k1*,"sl 3 wyif, k3",*,k5
+1501,Left Diagonals,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1501,6,W,p4*,"sl 3 wyib, p3",*,p2

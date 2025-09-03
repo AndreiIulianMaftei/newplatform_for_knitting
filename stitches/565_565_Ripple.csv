@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+565,565 Ripple,Multiple of 36 stitches,plus 22 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=565,1,R,"k1, yo, k9, sl 2-k1-p2sso, k9*","yo, k1, yo, k5, sl 2-k1-p2sso, k5, yo, k1, yo, k9, sl 2-k1-p2sso, k9",*,"yo, k1"
+565,565 Ripple,Multiple of 36 stitches,plus 22 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=565,2,W,*,knit,*,

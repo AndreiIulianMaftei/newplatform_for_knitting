@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,1,R,*,knit,*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,2,W,k1*,"(p1, yo, p1, yo, p1) in next stitch, making 5 stitches from one; k1",*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,3,R,*,purl,*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,4,W,k1*,"sl 2 wyif, p3-tog, p2sso, k1",*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,5,R,*,knit,*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,6,W,k2*,"(p1, yo, p1, yo, p1) in next stitch; k1",*,k1
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,7,R,*,purl,*,
+1775,Gooseberry,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1775,8,W,k2*,"sl 2 wyif, p3-tog, p2sso, k1",*,k1

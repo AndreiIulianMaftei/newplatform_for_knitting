@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+279,Double Eyelet Rib,Multiple of 7 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=279,1,W,k2*,"p5, k2",*
+279,Double Eyelet Rib,Multiple of 7 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=279,2,R,p2*,"k5, p2",*
+279,Double Eyelet Rib,Multiple of 7 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=279,3,W,k2*,"p5, k2",*
+279,Double Eyelet Rib,Multiple of 7 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=279,4,R,p2*,"k2 tog, yo, k1, yo, ssk, p2",*

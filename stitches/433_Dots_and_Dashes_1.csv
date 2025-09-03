@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,1,R,A,*,knit,*,
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,2,W,A,*,purl,*,
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,3,R,B,k1*,"k5, sl 2 wy1b, k1, sl 2 wyib",*,k6
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,4,W,B,k1*,"k5, sl 2 wyif, k1, sl 2 wyif",*,
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,5,R,A,*,knit,*,
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,6,W,A,*,purl,*,
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,7,R,B,k1*,"sl 2 wyib, k1, sl 2 wyib, k5",*,"sl 2 wyib, k1, sl 2 wyib, k1"
+433,Dots and Dashes 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=433,8,W,B,k1*,"sl 2 wyif, k1, sl 2 wyif, k5",*,"sl 2 wyif, k1, sl 2 wyif, k1"

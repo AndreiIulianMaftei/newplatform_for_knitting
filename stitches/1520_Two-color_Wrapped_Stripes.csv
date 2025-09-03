@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1520,Two-color Wrapped Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1520,1,R,A,K1*,"yo, k2, pass the yarn over loop over the 2 knit stitches and drop it",*,k1
+1520,Two-color Wrapped Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1520,2,W,A,*,purl,*,
+1520,Two-color Wrapped Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1520,3,R,B,k1*,"yo, k2, pass the yarn over loop over the 2 knit stitches and drop it",*,k1
+1520,Two-color Wrapped Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1520,4,W,B,*,purl,*,

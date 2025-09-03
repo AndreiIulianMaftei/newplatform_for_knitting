@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,1,R,*,"k4, yo, k2-tog",*,k5
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,2,W,*,purl,*,
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,3,R,k2*,"k2-tog, yo, k1, yo, ssk, k1",*,k3
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,4,W,*,purl,*,
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,5,R,k3*,"k2-tog, yo, k4",*,k2
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,6,W,*,purl,*,
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,7,R,*,"k5, p3",*,k5
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,8,W,p5*,"k3, p5",*,
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,9,R,*,"k5, p3",*,k5
+1260,Creative Embossing,Multiple of 24 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1260,10,W,"(p5; turn work, k5; turn work) 3 times; then purl each stitch together with the corresponding stitch 6 rows below, inserting needle through the top stitch and back loop of stitch below*","k3; (p5; turn work, k5; turn work) 3 times; then purl each stitch together with the corresponding stitch 6 rows below, inserting needle through the top stitch and back loop of stitch below",*,

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,1,R,A,*,knit,*,
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,2,W,A,k1*,"p3, k3",*,"p3, k1"
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,3,R,B,k1*,"sl 3 wyib, k3",*,"sl 3 wyib, k1"
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,4,W,B,"k1, p1*","sl 1 wyif, p5",*,"sl 1 wyif, p1"
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,5,R,B,*,knit,*,
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,6,W,B,k4*,"p3, k3",*,k1
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,7,R,A,k4*,"sl 3 wyib, k3",*,k1
+338,Beaded Stripe,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=338,8,W,A,"k1, p4*","sl 1 wyif, p5",*,"sl 1 wyif, p4, k1"

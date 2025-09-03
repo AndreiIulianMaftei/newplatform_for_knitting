@@ -1,0 +1,14 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,1,R,"K1, p3, k4*","p6, k4",*,"p3, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,2,W,"K4, p4*","k6, p4",*,k4
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,3,R,"K1, p1*","BC, insert needle under running thread between stitch just worked and the next stitch, and (k1, p1) into this thread; FC, p2",*,"p1, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,4,W,K2*,"p2, k2",*,
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,5,R,"K1, p1*","k2, p2",*,"k2, p1, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,6,W,K2*,"p2, k2",*,
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,7,R,K2*,"ssk, p6, k2 tog, k2",*,
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,8,W,"K1, p2, k6*","p4, k6",*,"p2, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,9,R,"K1, insert needle under running thread and knit once into this thread     *","FC, p2, BC, (k1, p1) into running thread",*,"FC, p2, BC, k1 into running thread, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,10,W,"K1, p1*","k2, p2",*,"k2, p1, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,11,R,K2*,"p2, k2",*,
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,12,W,"K1, p1*","k2, p2",*,"k2, p1, k1"
+979,Acorn 1,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=979,13,R,"K1, p3*","k2 tog, k2, ssk, p6",*,"k2 tog, k2, ssk, p3, k1"

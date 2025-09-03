@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,1,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,2,R,k2*,"k2 tog, k1, (yo, ssk) twice, yo, k1, ssk, k2",*,k4
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,3,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,4,R,"K1, k2 tog, k1, yo*","k1, (yo, ssk) twice, yo, k1, ssk, k2 tog, k1, yo",*,k2
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,5,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,6,R,"K3, yo*","k3, (yo, ssk) twice, yo, k1, ssk, k1, yo",*,k3
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,7,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,8,R,K5*,"k2 tog, k1, yo, (k2 tog, yo) twice, k1, ssk, k2",*,k2
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,9,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,10,R,K4*,"k2 tog, k1, yo, (k2 tog, yo) twice, k1, yo, k1, ssk",*,k3
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,11,W,*,purl,*,
+852,Trellis Grapevine,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=852,12,R,"K3, k2 tog*","k1, yo, (k2 tog, yo) twice, k3, yo, k1, k2 tog",*,k2

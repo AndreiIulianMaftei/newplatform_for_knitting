@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,1,R,*,"(k1-b, p1) twice, k2",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,2,W,k1-b*,"k3, p1-b, k1, p1-b",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,3,R,*,"k1-b, p1, k1-b, k3",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,4,W,k1-b*,"k3, p1-b, k1, p1-b",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,5,R,*,"k1-b, p1, k3, p1",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,6,W,k1-b*,"k5, p1-b",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,7,R,*,"k1-b, k3, k1-b, p1",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,8,W,k1-b*,"k1, p1-b, k3, p1-b",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,9,R,*,"k1-b, k2, p1, k1-b, p1",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,10,W,k1-b*,"k1, p1-b, k3, p1-b",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,11,R,*,"k1-b. k1, (k1-b, p1) twice",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,12,W,k1-b*,"(k1, p1-b) three times",*,
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,13,R,*,"k1-b, (p1, k1-b) twice, k1",*,k1-b
+1499,Little Twisted Ribs,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1499,14,W,k1-b*,"(k1, p1-b) three times",*,

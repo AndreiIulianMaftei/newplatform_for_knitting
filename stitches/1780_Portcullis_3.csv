@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1780,Portcullis 3,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1780,1,W,A,*,purl,*,
+1780,Portcullis 3,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1780,2,R,A,k2-tog*,"(k1, yo, k1) in the same stitch, sl 1-k2-tog-psso",*,"(k1, yo, k1) in the same stitch, ssk"
+1780,Portcullis 3,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1780,3,W,B,*,purl,*,
+1780,Portcullis 3,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1780,4,R,B,k2-tog *,"(k1, yo, k1) in the same stitch, sl 1-k2-tog-psso",*,"(k1, yo, k1) in the same stitch, ssk"

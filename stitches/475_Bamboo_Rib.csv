@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+475,Bamboo Rib,Multiple of 19 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=475,1,R,*,"k6, p6, k1, p6",*,k6
+475,Bamboo Rib,Multiple of 19 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=475,2,W,p6*,"k6, p1, k6, p6",*,
+475,Bamboo Rib,Multiple of 19 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=475,3,R,*,"k6, p6, k1, p6",*,k6
+475,Bamboo Rib,Multiple of 19 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=475,4,W,*,knit,*,

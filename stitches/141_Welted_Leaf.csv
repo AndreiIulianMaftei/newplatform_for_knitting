@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,1,R,*,knit,*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,2,W,*,purl,*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,3,R,*,"k4, p4",*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,4,W,k3*,"p4, k4",*,"p4,k1"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,5,R,p2*,"k4, p4",*,"k4, p2"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,6,W,k1*,"p4, k4",*,"p4, k3"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,7,R,k3*,"p4, k4",*,"p4,k1"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,8,W,p2*,"k4, p4",*,"k4, p2"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,9,R,k1*,"p4, k4",*,"p4, k3"
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,10,W,*,"p4, k4",*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,11,R,*,knit,*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,12,W,*,purl,*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,13,R,*,purl,*,
+141,Welted Leaf,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=141,14,W,*,knit,*,

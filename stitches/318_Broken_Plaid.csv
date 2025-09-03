@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,1,R,A,*,knit,*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,2,W,A,k3; insert needle knitwise into the next stitch and wrap yarn 3 times around point of needle; then knit the stitch*,k7; insert needle knitwise into the next stitch and wrap yarn 3 times around point of needle; then knit the stitch,*,k3
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,3,R,B,k3*,"Slip 1 wyib, if there are extra wraps, drop the extra wraps from the stitch that is being slipped; k3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,4,W,B,p3*,"sl 1 wyif, p3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,5,R,C,k3*,"sl 1 wyib, k7",*,"sl 1 wyib, k3"
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,6,W,C,k3*,"sl 1 wyif, k7",*,"sl 1 wyif, k3"
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,7,R,B,k3*,"sl 1 wyib, k3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,8,W,B,p3*,"sl 1 wyif, p3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,9,R,C,*,knit,*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,10,W,C,k7*,insert needle knitwise into the next stitch and wrap yarn 3 times around point of needle; then knit the stitch; k7,*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,11,R,B,k3*,"Slip 1 wyib, dropping the extra wraps from the stitch that is being slipped; k3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,12,W,B,p3*,"sl 1 wyif, p3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,13,R,A,k7*,"sl 1 wyib, k7",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,14,W,A,k7*,"sl 1 wyif, k7",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,15,R,B,k3*,"sl 1 wyib, k3",*,
+318,Broken Plaid,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=318,16,W,B,p3*,"sl 1 wyif, p3",*,

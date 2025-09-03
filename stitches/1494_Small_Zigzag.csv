@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1494,Small Zigzag,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1494,1,R,k1*,slip 1 stitch to dpn and hold in front; k1; k1 from dpn,*,k1
+1494,Small Zigzag,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1494,2,W,p1*,"skip 1 stitch, purl the next stitch; then purl the skipped stitch; drop both original stitches from left needle",*,p1

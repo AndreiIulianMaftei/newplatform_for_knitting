@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,1,R,"k1, yo*","ssk, k2-tog, yo twice",*,"yo, k1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,1,R,"k1, yo*","ssk, k2-tog, yo twice",*,"yo, k1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,2,W,"p1, k1, p2*","(k1, p1) in back loop of yo, p2",*,"k1, p1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,2,W,"p1, k1, p2*","(k1, p1) in loop of yo, p2",*,"k1, p1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,3,R,"k1, p1*","skip 1 stitch, k1, knit the skipped stitch; p2",*,"p1, k1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,3,R,"k1, p1*","skip 1 stitch, k1, knit the skipped stitch; p2",*,"p1, k1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,4,W,"p1, k1, p2*","k2, p2",*,"k1, p1"
+1306,Mesh 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1306,4,W,"p1, k1, p2*","k2, p2",*,"k1, p1"

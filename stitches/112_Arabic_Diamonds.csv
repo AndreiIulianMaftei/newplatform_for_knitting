@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,1,R,*,purl,*,
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,2,W,*,knit,*,
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,3,R,p4*,"k1, p7",*,"k1,p4"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,4,W,k4*,"p1, k7",*,"p1,k4"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,5,R,p3*,"k3, p5",*,"k3,p3"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,6,W,k3*,"p3, k5",*,"p3,k3"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,7,R,p2*,"k5, p3",*,"k5, p2"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,8,W,k2*,"p5, k3",*,"p5, k2"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,9,R,p3*,"k3, p5",*,"k3,p3"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,10,W,k3*,"p3, k5",*,"p3,k3"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,11,R,p4*,"k1, p7",*,"k1,p4"
+112,Arabic Diamonds,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=112,12,W,k4*,"p1, k7",*,"p1,k4"

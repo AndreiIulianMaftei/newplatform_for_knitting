@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+686,Mrs. Hunter's Lace,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=686,1,R,*,knit,*,
+686,Mrs. Hunter's Lace,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=686,2,W,*,purl,*,
+686,Mrs. Hunter's Lace,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=686,3,R,K1*,"sl 1, k3, psso the 3 knit stitches",*,k1
+686,Mrs. Hunter's Lace,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=686,4,W,P1*,"p3, yo",*,p1

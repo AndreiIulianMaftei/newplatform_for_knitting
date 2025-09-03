@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,1,R,K1*,"p2, ssk, k3-b, yo, k1-b, yo, k3-b, k2 tog, p1",*,"p1, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,2,W,K2*,"k1, p4-b, p1, p1-b, p1, p4-b, k2",*,k1
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,3,R,K1*,"p2, ssk, k2-b, yo, k3-b, yo, k2-b, k2 tog, p1",*,"p1, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,4,W,K2*,"k1, (p3-b, p1) twice, p3-b, k2",*,k1
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,5,R,K1*,"p2, ssk, k1-b, yo, k5-b, yo, k1-b, k2 tog, p1",*,"p1, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,6,W,K2*,"k1, p2-b, p1, p5-b, p1, p2-b, k2",*,k1
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,7,R,K1*,"k1-b, yo, k3-b, k2 tog, p3, ssk, k3-b, yo",*,"k1-b, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,8,W,"K1, p1-b*","p1, p4-b, k3, p4-b, p1, p1-b",*,k1
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,9,R,K1*,"k2-b, yo, k2-b, k2 tog, p3, ssk, k2-b, yo, k1-b",*,"k1-b, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,10,W,"K1, p1-b*","p1-b, p1, p3-b, k3, p3-b, p1, p2-b",*,k1
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,11,R,K1*,"k3-b, yo, k1-b, k2 tog, p3, ssk, k1-b, yo, k2-b",*,"k1-b, k1"
+710,Filigree 1,Multiple of 14 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=710,12,W,"K1, p1-b*","p2-b, p1, p2-b, k3, p2-b, p1, p3-b",*,k1

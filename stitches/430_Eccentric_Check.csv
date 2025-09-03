@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,1,R,A,*,knit,*,
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,2,W,A,k1*,purl,*,k1
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,3,R,B,k1*,"k4, sl 2 wyib",*,k4
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,4,W,B,*,"k4, sl 2 wyif",*,k5
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,5,R,A,k3*,"sl 2 wyib, k4",*,"sl 1 wyib, k1"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,6,W,A,"k1, sl 1 wyif *","p4, sl 2 wyif",*,"p2, k1"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,7,R,B,k1*,"sl 2 wyib, k4",*,"sl 2 wyib, k2"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,8,W,B,k2*,"sl 2 wyif, k4",*,"sl 2 wyif, k1"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,9,R,A,*,knit,*,
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,10,W,A,k1*,purl,*,k1
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,11,R,B,*,"k4, sl 2 wyib",*,k5
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,12,W,B,k5*,"sl 2 wyif, k4",*,
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,13,R,A,"k1, sl 1 wyib*","k4, sl 2 wyib",*,k3
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,14,W,A,"k1, p2*","sl 2 wyif, p4",*,"sl 1 wyif, k1"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,15,R,B,k2*,"sl 2 wyib, k4",*,"sl 2 wyib, k1"
+430,Eccentric Check,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=430,16,W,B,k1*,"sl 2 wyif, k4",*,"sl 2 wyif, k2"

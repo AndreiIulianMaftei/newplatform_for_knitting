@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,1,R,*,"k5, p5",*,
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,2,W,k4*,"p5, k5",*,"p5,k1"
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,3,R,p2*,"k5, p5",*,"k5, p3"
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,4,W,k2*,"p5, k5",*,"p5, k3"
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,5,R,p4*,"k5, p5",*,"k5, p1"
+117,Horizontal Parallelogram Check,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=117,6,W,*,"p5, k5",*,

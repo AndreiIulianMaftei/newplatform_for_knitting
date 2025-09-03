@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1600,Diagonal Scallop,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1600,1,W,*,purl,*,
+1600,Diagonal Scallop,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1600,2,R,k1*,"insert needle from behind under the running thread between the stitch just worked and the next stitch, this putting an extra strand on the needle; k2, then pass the extra strand over the 2 knit stitches; k2",*,k1
+1600,Diagonal Scallop,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1600,3,W,*,purl,*,
+1600,Diagonal Scallop,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1600,4,R,k3*,"insert needle from behind under the running thread between the stitch just worked and the next stitch, this putting an extra strand on the needle; k2, then pass the extra strand over the 2 knit stitches; k2",*,k1

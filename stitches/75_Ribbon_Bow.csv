@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,1,R,B,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,2,W,B,k1*,"sl 1 wyif, k1, k1 wrapping yarn 3 times, k1",*,"sl1, k1"
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,3,R,A,k3*,"sl 1 wyib dropping extra wraps, k3",*,
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,4,W,A,p3*,"sl 1 wyib, p3",*,
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,5,R,A,k3*,"sl 1 wyib, k3",*,
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,6,W,A,p3*,"sl 1 wyib, p3",*,
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,7,R,A,k3*,"sl 1 wyib, k3",*,
+75,Ribbon Bow,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=75,8,W,A,p3*,"sl 1 wyib, p3",*,

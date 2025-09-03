@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,1,R,*,Knit,*,
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,2,W,*,Purl,*,
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,3,R,K3 *,"slip 3 as if to purl with yarn in front, K2",*,k1
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,4,W,"P1, slip 2 wyib*","P2, slip 3 wyib",*,"P2, slip 1, P1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,5,R,"K1, slip 2 wyif *","K2, slip 3 wyif",*,"K2, slip 1 wyif, K1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,6,W,P3*,"slip 3 wyib, P2",*,"slip 3 wyib, P1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,7,R,K2*,"slip 3 wyif, K2",*,
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,8,R,p1*,"slip 3 wyib, P2",*,p1
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,9,R,k2*,"slip 3 wyif, K2",*,
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,10,W,P3*,"slip 3 wyib, P2",*,"slip 3 wyib, P1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,11,R,"K1, slip 2 wyif *","K2, slip 3 wyif",*,"K2, slip 1 wyif, K1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,12,W,"P1, slip 2 wyib *","P2, slip 3 wyib",*,"P2, slip 1, P1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,13,R,K3*,"slip 3 as if to purl with yarn in front, K2",*,"slip 3 as if to purl with yarn in front, K1"
+1009,Arrows,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1009,14,W,*,Purl,*,

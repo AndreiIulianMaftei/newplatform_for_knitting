@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,1,R,*,"k1, p1, k6",*,"k1, p1"
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,2,W,"p1, k1*","p7, k1",*,
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,3,R,*,"k1, p1, k1, (p1 wrapping the yarn twice around the needle) 4 times, k1",*,"k1, p1"
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,4,W,"p1, k1*","p1; sl 4 wyif, dropping extra loops for each stitch; return the four stitches to the left needle and k4-tog retaining them on the left needle; p4-tog in the same 4 stitches; then k4-tog and p4-tog in the same 4 stitches, drop original stitches from the left needle; p2, k1",*,
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,5,R,*,"(k1, p1) 4 times",*,"k1, p1"
+1311,Flowers in Squares,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1311,6,W,"p1, k1*","(p1, k1) 4 times",*,

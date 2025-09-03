@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,1,R,A,*,knit,*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,2,W,A,*,knit,*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,3,R,B,k3*,"(sl 1 wyib, k1) twice, sl 1 wyib, k3",*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,4,W,B,p3*,"(sl 1 wyif, k1) twice, sl 1 wyif, p3",*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,5,R,A,"k1, sl 2 wyib*","k5, sl 3 wyib",*,"k5, sl 2 wyib, k1"
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,6,W,A,"k1, sl 2 wyif*","k5, sl 3 wyif",*,"k5, sl 2 wyif, k1"
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,7,R,B,k3*,"(sl 1 wyib, k1) twice, sl 1 wyib, k3",*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,8,W,B,p3*,"(sl 1 wyif, k1) twice, sl 1 wyif, p3",*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,9,R,A,*,knit,*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,10,W,A,*,knit,*,
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,11,R,B,"(k1, sl 1 wyib) twice*","k3, (sl 1 wyib, k1) twice, sl 1 wyib",*,"k3, (sl 1 wyib, k1) twice."
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,12,W,B,"(k1, sl 1 wyif) twice*","p3, (sl 1 wyif, kl) twice, sl 1 wyif",*,"p3, (sl 1 wyif, k1) twice."
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,13,R,A,k4*,"sl 3 wyib, k5",*,"sl 3 wyib, k4"
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,14,W,A,k4*,"sl 3 wyif, k5",*,"sl 3 wyif, k4"
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,15,R,B,"(k1, sl 1 wyib) twice*","k3, (sl 1 wyib, k1) twice, sl 1 wyib",*,"k3, (sl 1 wyib, k1) twice."
+504,Sanguar Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=504,16,W,B,"(k1, sl 1 wyif) twice*","p3, (sl 1 wyif, kl) twice, sl 1 wyif",*,"p3, (sl 1 wyif, k1) twice."

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,1,W,A,*,purl,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,2,R,A,*,knit,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,3,W,A,*,purl,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,4,R,B,k11*,"turn; sl 1 wyif, k3, turn; p4, k12",*,"turn; sl 1 wyif, k3, turn; p4, k1"
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,5,W,B,k5*,"turn; p4, turn; k3, sl 1 wyif, k12",*,"turn; p4, turn; k3, sl1 wyif, k7"
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,6,R,A,k8*,"sl 2 wyib, k10",*,"sl 2 wyib, k2"
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,7,W,A,*,purl,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,8,R,A,*,knit,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,9,W,A,*,purl,*,
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,10,R,B,k5*,"turn; sl 1 wyif, k3, turn; p4, k12",*,"turn; sl 1 wyif, k3, turn; p4, k7"
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,11,W,B,k11*,"turn; p4, turn; k3, sl 1 wyif, k12",*,"turn; p4, turn; k3, sl 1 wyif, k1"
+535,String of Purls,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=535,12,R,A,k2*,"sl 2 wyib, k10",*,"sl 2 wyib, k8"

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,1,W,k2*,"p1, k1",*,k1
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,2,R,k4*,"sl 3 wyib, k3",*,k1
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,3,W,k1*,"p3, sl 3 wyif",*,"p3, k1"
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,4,R,k2*,"yo, k2-tog, k1, sl 1 wyib, k2",*,"yo, k2-tog, k1"
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,5,W,k1*,"p1, k1",*,
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,6,R,k1*,"sl 3 wyib, k3",*,"sl 3 wyib, k1"
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,7,W,k1*,"sl 3 wyif, p3",*,"sl 3 wyif, p1"
+1824,Sequin Eyelet 1,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1824,8,R,k2*,"sl 1 wyib, k2, yo, k2-tog, k1",*,"sl 1 wyib, k2"

@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,1,W,p5*,"(k1, p1) twice, k1, p5",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,2,R,k5*,"(k1, p1) twice, k6",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,3,W,p5*,"(k1, p1) twice, k1, p5",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,4,R,k5*,"(k1, p1) twice, k6",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,5,W,p5*,"(k1, p1) twice, k1, p5",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,6,R,"(p1,k1) twice, p1*","k5, (p1, k1) twice, p1",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,7,W,"(p1,k1) twice, p1*","p5, (p1, k1) twice, p1",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,8,R,"(p1,k1) twice, p1*","k5, (p1, k1) twice, p1",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,9,W,"(p1,k1) twice, p1*","p5, (p1, k1) twice, p1",*
+104,Seed Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=104,10,R,"(p1,k1) twice, p1*","k5, (p1, k1) twice, p1",*

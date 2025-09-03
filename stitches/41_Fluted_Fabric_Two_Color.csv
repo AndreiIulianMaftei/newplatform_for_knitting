@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+41,Fluted Fabric Two Color,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=41,1,R,A,p1*,"k1, sl 1 wyif, k1, p1",*
+41,Fluted Fabric Two Color,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=41,2,W,A,k1*,"sl 1 wyib, p1, sl 1 wyib, k1",*
+41,Fluted Fabric Two Color,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=41,3,R,B,p1*,"k1, sl 1 wyif, k1, p1",*
+41,Fluted Fabric Two Color,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=41,4,W,B,k1*,"sl 1 wyib, p1, sl 1 wyib, k1",*

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,1,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,2,R,*,"LT, (RT) twice",*,"LT, RT"
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,3,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,4,R,"K1, LT*","RT, (LT) twice",*,k1
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,5,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,6,R,LT twice*,"k2, LT twice",*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,7,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,8,R,k1*,"LT twice, RT",*,"LT, k1"
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,9,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,10,R,RT*,"LT, (RT) twice",*,LT
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,11,W,*,purl,*,
+1642,Double Lattice,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1642,12,R,K3*,"RT twice, k2",*,k1

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,1,W,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,2,R,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,3,W,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,4,R,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,5,W,K5*,"(k1, p1, k1, p1) loosely in next stitch, k5",*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,6,R,K5*,"sl 3, k1, pass third, second and first of the slipped stitches separately over the last knitted stitch, k5",*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,7,W,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,8,R,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,9,W,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,10,R,*,knit,*,
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,11,W,K8*,"(k1, p1, k1, p1) loosely in next stitch, k5",*,k3
+680,Popcorn,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=680,12,R,K8*,"sl 3, k1, pass third, second and first of the slipped stitches separately over the last knitted stitch, k5",*,k3

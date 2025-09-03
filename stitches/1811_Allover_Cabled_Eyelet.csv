@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1811,Allover Cabled Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1811,1,R,*,"Sl 1-k2-pass the slipped stitch over the 2 knit stitches, k3",*,
+1811,Allover Cabled Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1811,2,W,p4*,"yo, p5",*,"yo, p1"
+1811,Allover Cabled Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1811,3,R,*,"k3, sl 1-k2-pass the slipped stitch over the 2 knit stitches",*,
+1811,Allover Cabled Eyelet,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1811,4,W,p1*,"yo, p5",*,"yo, p4"

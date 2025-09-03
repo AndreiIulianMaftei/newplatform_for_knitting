@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,1,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,2,R,k1*,"sl 3 wyif (holding yarn loosely), k1",*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,3,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,4,R,k1*,"sl 3 wyif (holding yarn loosely), k1",*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,5,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,6,R,k2*,insert needle under the long loose strand of 2 previous row and knit the next st; k3,*,k2
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,7,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,8,R,k3*,"sl 3 wyif, k1",*,k2
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,9,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,10,R,k3*,"sl 3 wyif, k1",*,k2
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,11,W,*,purl,*,
+533,Mock Honeycomb,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=533,12,R,k4*,"insert needle under the loose strands of 2 previous rows and knit the next st, k3",*,k1

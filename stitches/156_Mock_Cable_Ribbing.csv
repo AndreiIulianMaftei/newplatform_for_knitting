@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+156,Mock Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=156,1,W,k2*,"p3, k2",*
+156,Mock Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=156,2,R,p2*,"k3, p2",*
+156,Mock Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=156,3,W,k2*,"p3, k2",*
+156,Mock Cable Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=156,4,W,p2*,"Skip 2 stitches and insert needle as if to knit into the front of the third stitch. Then taking the point of the needle over the front of the 2 skipped stitches and around to the right, catch the yarn and knit. Then slip the third stitch over the 2 skipped stitches and off the needle. Do not slip the 2 skipped stitches off the needle; k2, p2",*

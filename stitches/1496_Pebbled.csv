@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1496,Pebbled,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1496,1,R,p1*,"k1, p1",*,
+1496,Pebbled,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1496,2,W,k1*,"sl 1 wyif, k1",*,
+1496,Pebbled,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1496,3,R,k1*,"p1, k1",*,
+1496,Pebbled,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1496,4,W,k2*,"sl 1 wyif, k1",*,"sl 1 wyif, k2"

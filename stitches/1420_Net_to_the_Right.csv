@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1420,Net to the Right,Multiple of 2 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1420,1,R,"p1, k1*","k2-tog, yo",*,p1
+1420,Net to the Right,Multiple of 2 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1420,2,W,*,purl,*,
+1420,Net to the Right,Multiple of 2 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1420,3,R,p1*,"k2-tog, yo",*,"k1, p1"
+1420,Net to the Right,Multiple of 2 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1420,4,W,*,purl,*,

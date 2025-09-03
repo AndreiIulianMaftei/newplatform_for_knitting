@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1184,Claw Cable,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1184,1,R,p2*,knit,*,p2
+1184,Claw Cable,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1184,2,W,k2*,purl,*,k2
+1184,Claw Cable,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1184,3,R,p2*,"RC, k1, LC",*,p2
+1184,Claw Cable,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1184,4,W,k2*,purl,*,k2

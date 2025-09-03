@@ -1,0 +1,4 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+760,Cane,Multiple of 3 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=760,1,R,K2*,"sl 1-K2 tog-psso, (yo) twice",*,k2
+760,Cane,Multiple of 3 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=760,2,W,K2*,"(p1, k1) into the double yo, p1",*,k2
+760,Cane,Multiple of 3 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=760,3,R,*,knit,*,

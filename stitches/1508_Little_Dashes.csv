@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,1,R,A,*,knit,*,
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,2,W,A,*,purl,*,
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,3,R,B,k2*,"sl 2 wyib, k4",*,k2
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,4,W,B,k2*,sl 2 wyif,*,k2
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,5,R,A,*,knit,*,
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,6,W,A,*,purl,*,
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,7,R,B,sl 1 wyib*,"k4, sl 2 wyib",*,sl 1 wyib
+1508,Little Dashes,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1508,8,R,B,sl 1 wyif*,"k4, sl 2 wyif",*,sl 1 wyif

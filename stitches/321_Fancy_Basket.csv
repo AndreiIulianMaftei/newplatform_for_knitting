@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,1,W,A,*,purl,*,
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,2,R,A,*,knit,*,
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,3,W,A,p4*,P1 wrapping yarn twice around needle; p3,*,p1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,4,R,B,k4*,Slip 1 wyib dropping the extra wraps; k3,*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,5,W,B,k4*,"sl 1 wyif, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,6,R,B,k4*,"sl 1 wyib, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,7,W,B,k4*,"sl 1 wyif, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,8,R,A,k4*,"Drop slip stitch off needle to front of work, k2, pick up dropped stitch and knit it; k1",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,9,W,A,*,purl,*,
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,10,R,A,*,knit,*,
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,11,W,A,p4*,P1 wrapping yarn twice around needle; p3,*,p1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,12,R,B,k4*,Slip 1 wyib dropping the extra wraps; k3,*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,13,W,B,k4*,"sl 1 wyif, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,14,R,B,k4*,"sl 1 wyib, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,15,W,B,k4*,"sl 1 wyif, k3",*,k1
+321,Fancy Basket,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=321,16,R,A,k2*,"sl 2 wyib; drop slip stitch off needle to front of work, slip the same 2 stitches back to left-hand needle, pick up dropped stitch and knit it; k3",*,k3

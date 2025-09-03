@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,1,R,B,k1*,"sl 2 wyib, k2",*,sl 2 k1
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,2,W,B,k1*,"sl 1 wyib, sl 1 wyif, p2",*,"sl 1 wyib, sl 1 wyif, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,3,R,C,k3*,"sl 2 wyib, k2",*,k1
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,4,W,C,k1*,"p2, sl 1 wyib, sl 1 wyif",*,"p2, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,5,R,A,k1*,"sl 2 wyib, k2",*,"sl 2, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,6,W,A,k1*,"sl 1 wyib, sl 1 wyif, p2",*,"sl 1 wyib, sl 1 wyif, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,7,R,B,k3*,"sl 2 wyib, k2",*,k1
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,8,W,B,k1*,"p2, sl 1 wyib, sl 1 wyif",*,"p2, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,9,R,C,k1*,"sl 2 wyib, k2",*,sl 2 k1
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,10,W,C,k1*,"sl 1 wyib, sl 1 wyif, p2",*,"sl 1 wyib, sl 1 wyif, k1"
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,11,R,A,k3*,"sl 2 wyib, k2",*,k1
+70,American Beauty Tweed,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=70,12,W,A,k1*,"p2, sl 1 wyib, sl 1 wyif",*,"p2, k1"

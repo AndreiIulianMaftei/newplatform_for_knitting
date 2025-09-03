@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,1,R,p3*,"k1-b, p5",*,"k1-b, p3"
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,2,W,k2*,"p3, k4, p1, k4",*,k3
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,3,R,*,"p3, k1-b, p3, k5",*,p1
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,4,W,k1*,"p5, k3, p1, k3",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,5,R,*,"p3, k1-b, p3, k5",*,p1
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,6,W,k1*,"p5, k3, p1, k3",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,7,R,*,"p3, k1-b, p3, k5",*,p1
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,8,W,k1*,"p2, drop next stitch off needle and unravel 5 rows down, then insert needle into stitch from front and knit the stitch catching the 5 loose strands behind the stitch as it is knitted; p2, k2, p3, k2",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,9,R,p1*,"k5, p3, k1-b, p3",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,10,W,*,"k3, p1, k3, p5",*,k1
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,11,R,p1*,"k5, p3, k1-b, p3",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,12,W,*,"k3, p1, k3, p5",*,k1
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,13,R,p1*,"k5, p3, k1-b, p3",*,
+1605,Parenthetical Rib,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1605,14,W,*,"k2, p3, k2, p2, drop next stitch off needle and unravel 5 rows down, then insert needle into stitch from front and knit the stitch catching the 5 loose strands behind the stitch as it is knitted; p2",*,k1

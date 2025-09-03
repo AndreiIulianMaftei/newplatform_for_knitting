@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1607,Anemone 1,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1607,1,W,*,purl wrapping yarn twice for each stitch,*,
+1607,Anemone 1,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1607,2,R,*,"slip 4 stitches briefly in order to drop extra wraps, then return the 4 stitches to the left needle; (k4-tog, p4-tog) twice in the same 4 stitches",*,
+1607,Anemone 1,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1607,3,W,p2*,purl wrapping yarn twice for each stitch,*,p2
+1607,Anemone 1,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1607,4,R,k2*,"slip 4 stitches briefly in order to drop extra wraps, then return the 4 stitches to the left needle; (k4-tog, p4-tog) twice in the same 4 stitches",*,k2

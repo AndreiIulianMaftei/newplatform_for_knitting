@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+705,Waffle Brioche,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=705,1,W,K1*,"yo, sl 1, k2 tog-b",*,k1
+705,Waffle Brioche,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=705,2,R,K3*,"sl 1, k2 (all slipped stitches are yo's of the previous row)",*,"sl 1, k1"
+705,Waffle Brioche,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=705,3,W,K1*,"k2 tog-b, yo, sl 1",*,k1
+705,Waffle Brioche,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=705,4,R,K2*,"sl 1, k2 (all slipped stitches are yo's of the previous row)",*,

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1591,Small Quilted Cross-Stitch in Two Colors,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1591,1,W,A,k1*,"p1, k1",*,
+1591,Small Quilted Cross-Stitch in Two Colors,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1591,2,R,A,p1*,"sl 1 wyib, (k1, k1-b) in next stitch) k1, then pass slipped stitch over the last 3 stitches; p1",*,
+1591,Small Quilted Cross-Stitch in Two Colors,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1591,3,W,B,k1*,"p1, k1",*,
+1591,Small Quilted Cross-Stitch in Two Colors,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1591,4,R,B,"p1, k1, p1*","sl 1 wyib, (k1, k1-b) in next stitch) k1, then pass slipped stitch over the last 3 stitches; p1",*,"k1, p1"

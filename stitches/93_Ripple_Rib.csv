@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,1,R,*,"p2, k2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,2,W,*,"p2, k2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,3,R,p1*,"k2, p2",*,"k2,p1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,4,W,k1*,"p2, k2",*,"p2,k1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,5,R,*,"k2, p2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,6,W,*,"k2, p2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,7,R,k1*,"p2, k2",*,"p2,k1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,8,W,p1*,"k2, p2",*,"k2,p1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,9,R,*,"p2, k2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,10,W,*,"p2, k2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,11,R,k1*,"p2, k2",*,"p2,k1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,12,W,p1*,"k2, p2",*,"k2,p1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,13,R,*,"k2, p2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,14,W,*,"k2, p2",*,
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,15,R,p1*,"k2, p2",*,"k2,p1"
+93,Ripple Rib,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=93,16,W,k1*,"p2, k2",*,"p2,k1"

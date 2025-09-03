@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Repeat
+1315,Cord with Knots,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1315,1,R,"p2, k1, p1, k1, p2"
+1315,Cord with Knots,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1315,2,W,"k2, p1, k1, p1, k2"
+1315,Cord with Knots,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1315,3,R,"p2, (k1, k1-b, k1) in next stitch, p1, (k1, k1-b, k1) in next stitch, p2"
+1315,Cord with Knots,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1315,4,W,"k2, p3-tog, k1, p3-tog, k2"

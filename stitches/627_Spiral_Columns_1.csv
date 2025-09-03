@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+627,Spiral Columns 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=627,1,W,*,"K2, p6, k2",*,
+627,Spiral Columns 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=627,2,R,p2*,k2 tog but do not drop from left-hand needle; knit the first stitch again and slip both together from the needle,*,p2
+627,Spiral Columns 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=627,3,W,*,"K2, p6, k2",*,
+627,Spiral Columns 1,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=627,4,R,"p2, k1*",k2 tog but do not drop from left-hand needle; knit the first stitch again and slip both together from the needle,*,"k1, p2"

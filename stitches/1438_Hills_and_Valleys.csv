@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,1,R,*,"k1, p1",*,k1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,2,W,k1*,"p1, k1",*,
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,3,R,*,"k1, p1",*,k1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,4,W,k1*,"p1, k1",*,
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,5,R,p1*,"ssk, k3, yo, k1, yo, k3, k2-tog, p2",*,p1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,6,W,*,purl,*,
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,7,R,p1*,"ssk, k2, yo, k3, yo, k2, k2-tog, p2",*,p1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,8,W,*,purl,*,
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,9,R,p1*,"ssk, k1, yo, k2-tog, yo, k1, yo, ssk, yo, k1, k2-tog, p2",*,p1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,10,W,*,purl,*,
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,11,R,p1*,"ssk, yo, k2-tog, yo, k3, yo, ssk, yo, k2-tog, p2",*,p1
+1438,Hills and Valleys,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1438,12,W,*,purl,*,

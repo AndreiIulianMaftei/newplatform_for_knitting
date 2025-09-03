@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,1,W,*,knit,*,
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,2,R,k3*,"p3, (k1, yo, k1, yo, k1) in next stitch, p1, (k1, yo, k1, yo, k1) in next stitch, p3, k4",*,k3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,3,W,p3*,"k3, p5, k1, p5, k3, p4",*,p3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,4,R,k3*,"p3, ssk, k1, k2-tog, p1, ssk, k1, k2-tog, p3, k4",*,k3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,5,W,p3*,"k3, p3-tog, k1, p3-tog, k3, p4",*,p3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,6,R,k3*,"p4, (k1, yo, k1, yo, k1) in next stitch, p4, k4",*,k3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,7,W,p3*,"k4, p5, k4, p4",*,p3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,8,R,k1*,"FC, p3, ssk, k1, k2-tog, p3, BC",*,k1
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,9,W,k2*,"p2, k3, p3-tog, k3, p2, k2",*,
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,10,R,p2*,"FC, p5, BC, p2",*,
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,11,W,k3*,"p2, k5, p2, k4",*,k3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,12,R,p3*,"FC, p3, BC, p4",*,p3
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,13,W,k4*,"p2, k3, p2, k6",*,k4
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,14,R,p4*,"FC, p1, BC, p6",*,p4
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,15,W,k5*,"p2, k1, p2, k8",*,k5
+1732,Arcade,Multiple of 13 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1732,16,R,p5*,"slip next 3 stitches to dpn and hold in back, k2, then slip the purl stitch from dpn back to left needle and purl it; then k2 from dpn; p8",*,p5

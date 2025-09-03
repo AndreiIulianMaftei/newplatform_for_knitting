@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,1,R,K6*,"p1, k5",*,k1
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,2,W,K1*,"p5, k1",*,
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,3,R,k1*,"yo, ssk, p1, k2 tog, yo, k1",*,
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,4,W,"K1, p2*","k1, p5",*,"k1, p2, k1"
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,5,R,k3*,"p1, k5",*,k3
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,6,W,"K1, p2*","k1, p5",*,"k1, p2, k1"
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,7,R,K1*,"k2 tog, yo, k1, yo, ssk, p1",*,k1
+737,Hourglass Eyelet,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=737,8,W,K1*,"p5, k1",*,

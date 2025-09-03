@@ -1,0 +1,14 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,0,R,B,*,"k2, sl 1 wyib",*,k3
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,1,W,B,p3*,"sl 1 wyif, p2",*,
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,2,R,A,k1*,"RT, sl 1 wyib,",*,k2
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,3,W,A,*,"p2, sl 1 wyif,",*,p3
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,4,R,B,k1*,"sl 1 wyib, RT",*,"sl 1 wyib, k1"
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,5,W,B,p1*,"sl 1 wyif, p2",*,"sl 1 wyib, k1"
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,6,R,A,*,"RT, sl 1 wyib",*,"RT, k1"
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,7,W,A,p3*,"sl 1 wyif, p2",*,
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,8,R,B,k1*,"RT, sl 1 wyib,",*,k2
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,9,W,B,*,"p2, sl 1 wyif,",*,p3
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,10,R,A,k1*,"sl 1 wyib, RT",*,"sl 1 wyib, k1"
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,11,W,A,p1*,"sl 1 wyif, p2",*,"sl 1 wyib, k1"
+421,Leaning Stripe,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=421,12,R,B,*,"RT, sl 1 wyib",*,"RT, k1"

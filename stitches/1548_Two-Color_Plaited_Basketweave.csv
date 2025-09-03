@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1548,Two-Color Plaited Basketweave,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1548,1,W,B,p3*,"sl 1 wyif, p2",*,
+1548,Two-Color Plaited Basketweave,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1548,2,R,B,k2*,"drop next (Color A) stitch off needle to front of work, k2, then with left needle pick up dropped stitch and slip it onto the right needle without working it",*,k1
+1548,Two-Color Plaited Basketweave,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1548,3,W,A,*,"p2, sl 1 wyif",*,p3
+1548,Two-Color Plaited Basketweave,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1548,4,R,A,k1*,"sl 2 wyib, drop next (Color B) stitch off needle to front of work, slip the same 2 stitch back to the left needle, pick up the dropped stitch onto the right needle without working it; k2",*,k2

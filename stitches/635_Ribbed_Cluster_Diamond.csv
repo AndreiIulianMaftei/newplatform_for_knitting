@@ -1,0 +1,21 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,1,W,P2*,"k4, p1, k4, p3",*,"k4, p1, k4, p2"
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,2,R,K1*,"LT, p3, k1, p3, RT, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,3,W,P1*,"k1, p1, (K3, p1) twice, k1, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,4,R,K1*,"p1, LT, p2, k1, p2, RT, p1, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,5,W,P1*,"k2, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,6,R,K1*,"p2, LT, p1, k1, p1, RT, p2, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,7,W,P1*,"k3, (p1, k1) twice, p1, k3, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,8,R,K1*,"p3, LT, k1, RT, p3, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,9,W,P1*,"k4, p3, k4, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,10,R,K1*,"p4, cluster 3, p4, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,11,W,P1*,"k4, p3, k4, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,12,R,K1*,"p3, RT, k1, LT, p3, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,13,W,P1*,"k3, (p1, k1) twice, p1, k3, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,14,R,K1*,"p2, RT, p1, k1, p1, LT, p2, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,15,W,P1*,"k2, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,16,R,K1*,"p1, RT, p2, k1, p2, LT, p1, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,17,W,P1*,"k1, p1, (K3, p1) twice, k1, p1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,18,R,K1*,"RT, p3, k1, p3, LT, k1",*,
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,19,W,P2*,"k4, p1, k4, p3",*,"k4, p1, k4, p2"
+635,Ribbed Cluster Diamond,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=635,20,R,K2*,"p4, k1, p4, Cluster 3",*,"p4, k1, p4, k2"

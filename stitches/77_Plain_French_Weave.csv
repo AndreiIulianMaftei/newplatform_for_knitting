@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,1,W,A,*,purl,*,
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,2,R,B,"k1, sl 1 wyif, k1*","sl 1 wyib, k1, sl 1 wyif, k1",*,
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,3,W,B,p3*,"sl 1 wyif, p3",*,
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,4,R,A,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,5,W,A,*,purl,*,
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,6,R,B,"k1, sl 1 wyib, k1*","sl 1 wyif, k1, sl 1 wyib, k1",*,
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,7,W,B,p1*,"sl 1 wyif, p3",*,"sl 1, p1"
+77,Plain French Weave,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=77,8,R,A,k3*,"sl 1 wyib, k3",*,

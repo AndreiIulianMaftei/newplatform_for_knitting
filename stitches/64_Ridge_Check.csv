@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,1,W,A,*,purl,*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,2,R,B,k3*,"sl 1 wyib, k3",*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,3,W,B,p3*,"sl 1 wyif, p3",*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,4,R,B,k3*,"sl 1 wyib, k3",*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,5,W,B,*,purl,*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,6,R,A,k3*,"sl 1 wyib, k3",*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,7,W,A,p3*,"sl 1 wyif, p3",*
+64,Ridge Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=64,8,R,A,k3*,"sl 1 wyib, k3",*

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+65,Blended Stripes,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=65,1,R,B,k1*,"sl 1 wyib, p3",*,"sl 1, k1"
+65,Blended Stripes,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=65,2,W,B,k1*,"sl 1 wyif, k3",*,"sl 1, k1"
+65,Blended Stripes,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=65,3,R,A,p3*,"sl 1 wyib, p3",*,
+65,Blended Stripes,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=65,4,W,A,k3*,"sl 1 wyif, k3",*,

@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,1,R,B,k1*,"sl 1 wyif, k1",*,
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,2,W,C,"k1, p1*","sl 1 wyib, p1",*,k1
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,3,R,A,k1*,"sl 1 wyif, k1",*,
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,4,W,B,"k1, p1 *","sl 1 wyib, p1",*,k1
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,5,R,C,k1*,"sl 1 wyif, k1",*,
+305,Tricolor Fabric,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=305,6,W,A,"k1, p1 *","sl 1 wyib, p1",*,k1

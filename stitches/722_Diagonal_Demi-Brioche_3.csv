@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+722,Diagonal Demi-Brioche 3,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=722,1,W,A,*,purl,*,
+722,Diagonal Demi-Brioche 3,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=722,2,R,B,*,"Sl 1 wyib, yo, k1, pass sl-st over the yo and knit stitch",*,
+722,Diagonal Demi-Brioche 3,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=722,3,W,B,*,purl,*,
+722,Diagonal Demi-Brioche 3,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=722,4,R,A,K1*,"Sl 1 wyib, yo, k1, pass sl-st over the yo and knit stitch",*,k1

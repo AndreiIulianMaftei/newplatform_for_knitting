@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,1,R,B,p1*,"yo, sl 1 wyib, p1",*
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,2,W,B,k1*,yo; slip the slipped stitch and the yo of the previous row together with yarn in back; k1,*
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,3,R,A,p1*,"k3 tog, p1",*
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,4,W,A,k1*,"yo, sl 1 wyib, k1",*
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,5,R,A,p1*,yo; slip the slipped stitch and the yo of the previous row together with yarn in back; p1,*
+336,Yarn-Over Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=336,6,W,A,k1*,"p3 tog, k1",*

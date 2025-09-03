@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,1,R,A,*,knit,*,
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,2,W,A,*,knit,*,
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,3,R,B,k1*,"insert needle into stitch below next stitch to k1, drop unworked stitch above from left needle; k1",*,
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,4,W,B,*,knit,*,
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,5,R,A,k2*,"insert needle into stitch below next stitch to k1, drop unworked stitch above from left needle; k1",*,"insert needle into stitch below next stitch to k1, drop unworked stitch above from left needle; k2"
+1539,Two-color Beehive,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1539,6,W,A,*,knit,*,

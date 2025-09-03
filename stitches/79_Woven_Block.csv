@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,1,R,A,*,knit,*,
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,2,W,A,*,purl,*,
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,3,R,B,k1*,"sl 2 wyib, k1, (sl 1 wyif, k1) 3 times",*,"sl 2 wyib, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,4,W,B,k1*,"sl 2 wyif, p7",*,"sl 2 wyif, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,5,R,A,k3*,"sl 1 wyif, (k1, sl 1 wyif) 3 times, k2",*,k1
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,6,W,A,*,purl,*,
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,7,R,B,k1*,"sl 2 wyib, k1, (sl 1 wyif, k1) 3 times",*,"sl 2 wyib, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,8,W,B,k1*,"sl 2 wyif, p7",*,"sl 2 wyif, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,9,R,A,k3*,"sl 1 wyif, (k1, sl 1 wyif) 3 times, k2",*,k1
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,10,W,A,*,purl,*,
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,11,R,B,k1*,"sl 2 wyib, k1, (sl 1 wyif, k1) 3 times",*,"sl 2 wyib, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,12,W,B,k1*,"sl 2 wyif, p7",*,"sl 2 wyif, k1"
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,13,R,A,k3*,"sl 1 wyif, (k1, sl 1 wyif) 3 times, k2",*,k1
+79,Woven Block,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=79,14,W,A,*,purl,*,

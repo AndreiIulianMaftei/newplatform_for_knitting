@@ -1,0 +1,25 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,1,W,*,purl,*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,2,R,k1*,"RT, k8",*,"RT, k1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,3,W,p1*,"sl 2 wyib, p8",*,"sl 2 wyib, p1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,4,R,k2*,"LT, k6, RT",*,k2
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,5,W,"k1, p1*","k1, sl 1 wyib, p6, sl 1 wyib, p1",*,"k1, p1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,6,R,"p1, k1*","p1, LT, k4, RT, k1",*,"p1, k1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,7,W,"(k1, p1) twice*","sl 1 wyib, p4, sl 1 wyib, (k1, p1) twice",*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,8,R,"(p1, k1) twice*","LT, k2, RT, (p1, k1) twice",*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,9,W,k1*,"(p1, k1) twice, sl 1 wyib, p2, sl 1 wyib, p1, k1",*,"p1, k1, p1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,10,R,p1*,"(k1, p1) twice, LT, RT, k1, p1",*,"k1, p1, k1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,11,W,*,"(k1, p1) 3 times, sl 2 wyib, k1, p1",*,"(k1, p1) twice"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,12,R,*,"(p1, k1) 3 times, RT, p1, k1",*,"(p1, k1) twice"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,13,W,*,"k1, p1",*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,14,R,p1*,"RT, (k1, p1) 4 times",*,"RT, k1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,15,W,k1*,"sl 2 wyib, (p1, k1) 4 times",*,"sl 2 wyib, k1"
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,16,R,k2*,"LT, (p1, k1) 3 times, RT",*,k2
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,17,W,p3*,"sl 1 wyib, (k1, p1) 3 times, sl 1 wyib, p2",*,p1
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,18,R,k3*,"LT, (k1, p1) twice, RT, k2",*,k1
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,19,W,p4*,"sl 1 wyib, (p1, k1) twice, sl 1 wyib, p4",*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,20,R,k4*,"LT, p1, k1, RT, k4",*,
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,21,W,p5*,"sl 1 wyib, k1, p1, sl 1 wyib, p6",*,p5
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,22,R,k5*,"LT, RT, k6",*,k5
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,23,W,p6*,"sl 2 wyib, p8",*,p6
+1636,Brocade Chevron,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1636,24,R,k6*,"RT, k8",*,k6

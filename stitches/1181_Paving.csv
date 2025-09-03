@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,1,R,*,"LCO, RCO",*,LCO
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,2,W,*,purl,*,
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,3,R,*,"RCO, k4",*,"RCO, k2"
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,4,W,*,purl,*,
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,5,R,k2*,"RCO, LCO",*,RCO
+1181,Paving,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1181,6,W,*,purl,*,

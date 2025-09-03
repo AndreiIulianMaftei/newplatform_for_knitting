@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,1,R,k1*,"yo, ssk, k3, k2-tog, yo, k1",*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,2,W,*,knit,*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,3,R,k2*,"yo, ssk, k1, k2-tog, yo, k3",*,k2
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,4,W,*,knit,*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,5,R,k3*,"yo, sl 2, k1, p2sso, yo, k5",*,k3
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,6,W,*,knit,*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,7,R,k2*,"k2-tog, yo, k1, yo, k2-tog, k3",*,k2
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,8,W,*,knit,*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,9,R,k1*,"k2-tog, yo, k3, yo, k2-tog, k1",*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,10,W,*,knit,*,
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,11,R,k2-tog*,"yo, k5, yo, sl 2, k1, p2sso",*,"yo, k2-tog"
+1350,Garter Stitch Lace,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1350,12,W,*,knit,*,

@@ -521,7 +521,7 @@ function applyForceSimulation(positionedNodes, edgeData, onComplete = null) {
         const simulation = d3.forceSimulation(nodes)
             .velocityDecay(0.7)
             .alpha(1)
-            .alphaDecay(0.00128)
+            .alphaDecay(0.128)
             .force("link", d3.forceLink(edges).id(d => d.id).distance(function (d) { return d.weight * 30; }).iterations(40))
             .force("charge", d3.forceManyBody().strength(-15).distanceMin(30))
             .force("collide", d3.forceCollide(20))
@@ -1294,23 +1294,28 @@ document.addEventListener('DOMContentLoaded', function () {
         const canvas = document.getElementById('drawingCanvas');
         
         if (middleColumn && svg) {
-            const containerWidth = middleColumn.clientWidth - 40; // Account for padding
-            const containerHeight = 550;
-            const svgWidth = Math.min(containerWidth, 500);
-            const svgHeight = Math.min(containerHeight, 550);
+            const containerWidth = middleColumn.clientWidth - 20; // Account for padding
+            const containerHeight = middleColumn.clientHeight - 50; // Account for title and padding
+            const svgWidth = Math.max(containerWidth, 300);
+            const svgHeight = Math.max(containerHeight, 300);
             
             svg.setAttribute('width', svgWidth);
             svg.setAttribute('height', svgHeight);
         }
         
         if (rightColumn && canvas) {
-            const containerWidth = rightColumn.clientWidth - 40; // Account for padding
-            const containerHeight = 550;
-            const canvasWidth = Math.min(containerWidth, 500);
-            const canvasHeight = Math.min(containerHeight, 550);
+            const containerWidth = rightColumn.clientWidth - 20; // Account for padding  
+            const containerHeight = rightColumn.clientHeight - 50; // Account for title and padding
+            const canvasWidth = Math.max(containerWidth, 300);
+            const canvasHeight = Math.max(containerHeight, 300);
             
             canvas.width = canvasWidth;
             canvas.height = canvasHeight;
+            
+            // Redraw canvas content if it exists
+            if (typeof setupDrawingCanvas === 'function' && window.finalNodesForRedraw) {
+                setupDrawingCanvas(window.finalNodesForRedraw);
+            }
         }
     }
     

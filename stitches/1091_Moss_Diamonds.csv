@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,1,W,*,"p1, k1",*,p1
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,2,W,"(p1, k1) twice*","p3, (k1, p1) 3 time, k1",*,"p3, (k1, p1) twice"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,3,R,"p1, k1, p1*","k5, (p1, k1) twice, p1",*,"k5, p1, k1, p1"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,4,W,"p1, k1*","p3, k1, p3, k1, p1, k1",*,"p3, k1, p3, k1, p1"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,5,R,p1*,"k3, p1, k1, p1, k3, p1",*,
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,6,W,"p1, k1*","p3, k1, p3, k1, p1, k1",*,"p3, k1, p3, k1, p1"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,7,R,"p1, k1, p1 *","k5, (p1, k1) twice, p1",*,"k5, p1, k1, p1"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,8,W,"(p1, k1) twice *","p3, (k1, p1) 3 time, k1",*,"p3, (k1, p1) twice"
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,9,R,*,"p1, k1",*,p1
+1091,Moss Diamonds,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1091,10,W,*,purl,*,

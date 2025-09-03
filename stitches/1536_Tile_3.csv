@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,1,R,A,p1*,"k1, p1",*,
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,2,W,A,p1*,"k1, p1",*,
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,3,W,B,k1*,"sl 1 wyib, k3",*,"sl wyib, k1"
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,4,R,B,p1*,"sl 1 wyif, p3",*,"sl 1 wyif, p1"
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,5,W,A,p1*,"k1, p1",*,
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,6,W,A,p1*,"k1, p1",*,
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,7,R,B,k3*,"sl 1 wyib, k3",*,
+1536,Tile 3,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1536,8,W,B,p3*,"sl wyif, p3",*,

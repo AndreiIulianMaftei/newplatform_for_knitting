@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,1,R,k3*,"p1, k3",*,
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,2,W,p3*,"k1, p3",*,
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,3,R,"k2, p1, k1*","(p1, k2) twice, p1, k1",*,p1
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,4,W,"p2, k1, p1*","(k1, p2) twice, k1, p1",*,k1
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,5,R,k1*,"p1, k1",*,
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,6,W,p1*,"k1, p1",*,
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,7,R,"k2, p1, k1*","(p1, k2) twice, p1, k1",*,p1
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,8,W,"p2, k1, p1*","(k1, p2) twice, k1, p1",*,k1
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,9,R,k3*,"p1, k3",*,
+555,555 Flowered Columns,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=555,10,W,p3*,"k1, p3",*,

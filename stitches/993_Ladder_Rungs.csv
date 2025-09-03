@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+993,Ladder Rungs,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=993,1,R,*,"P3, K1, P3, K3",*,"K3, K1, P3"
+993,Ladder Rungs,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=993,2,W,"K3, P1, K3*","P3, K3, P1, K3",*,
+993,Ladder Rungs,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=993,3,R,*,"P3, K1, P3, K3",*,"K3, K1, P3"
+993,Ladder Rungs,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=993,4,W,"K3, P1*","K9, P1",*,K3

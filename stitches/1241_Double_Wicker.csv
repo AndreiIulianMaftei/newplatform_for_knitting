@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,1,R,*,"LC, RC, RCO,",*,"LC, RC"
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,3,R,"k1, LC*","RC, LC twice",*,p1
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,4,W,*,Knit the knit stitches and purl the purl stitches,*,
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,5,R,*,"LCO, LC, p2",*,LC
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,7,R,p1*,"LCO, LC, RC,",*,"LCO, p1"
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,8,W,*,Knit the knit stitches and purl the purl stitches,*,
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,9,R,RC*,"LC, RC twice",*,LC
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,10,W,*,Knit the knit stitches and purl the purl stitches,*,
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,11,R,k1*,"p2, RC, RCO",*,"p2, k1"
+1241,Double Wicker,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1241,12,W,*,Knit the knit stitches and purl the purl stitches,*,

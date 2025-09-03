@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,1,R,k1*,"yo, (k1, p1) 7 times, k1, yo, k1",*,
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,2,W,k1*,"p2, (k1, p1) 7 times, p1, k1",*,
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,3,R,k2*,"yo, (k1, p1) 7 times, k1, yo, k3",*,k2
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,4,W,k2*,"p2, (k1, p1) 7 times, p1, k3",*,k2
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,5,R,k3*,"yo, (k1, p1) 7 times, k1, yo, k5",*,k3
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,6,W,k3*,"p2, (k1, p1) 7 times, p1, k5",*,k3
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,7,R,k4*,"yo, (k1, p1) 7 times, k1, yo, k7",*,k4
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,8,W,k4*,"p2, (k1, p1) 7 times, p1, k7",*,k4
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,9,R,k5*,"(ssk) 3 times, sl 1-k2-tog-psso, (k2-tog) 3 times, k9",*,k5
+1782,Bear Track 1,Multiple of 16 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1782,10,W,*,purl,*,

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,1,R,K2*,"yo, k1-b, yo, ssk, k5",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,2,W,P6*,"p2 tog-b, p7",*,end last repeat p5 (instead of p7)
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,3,R,K2*,"yo, k1-b, yo, k2, ssk, k3",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,4,W,P4*,"p2 tog-b, p7",*,
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,5,R,K2*,"k1-b, yo, k4, ssk, k1, yo",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,6,W,P3*,"p2 tog-b, p7",*,p1
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,7,R,K2 *,"k5, k2 tog, yo, k1-b, yo",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,8,W,P5*,"p2 tog, p7",*,end last repeat p6 (instead of p7)
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,9,R,K2*,"k3, k2 tog, k2, yo, k1-b, yo",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,10,W,*,"P7, p2 tog",*,p4
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,11,R,K2*,"yo, k1, k2 tog, k4, yo, k1-b",*,k2
+849,Traveling Vine,Multiple of 8 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=849,12,W,P1*,"p7, p2 tog",*,p3

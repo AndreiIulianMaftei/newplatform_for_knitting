@@ -1,0 +1,25 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,1,R,*,"k5, p1, k5, p5",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,2,W,*,"k5, p4, k1, p1, k1, p4",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,3,R,*,"k3, p1, (k1, p1) twice, k3, p5",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,4,W,*,"k5, p2, (k1, p1) 3 times, k1, p2",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,5,R,*,"(k1, p1) 5 times, k1, p5",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,6,W,*,"k5, p2, (k1, p1) 3 times, k1, p2",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,7,R,*,"k3, p1, (k1, p1) twice, k3, p5",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,8,W,*,"k5, p4, k1, p1, k1, p4",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,9,R,*,"k5, p1, k5, p5",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,10,W,*,"p5, k1, p9, k1",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,11,R,k1*,"p1, k7",*,p6
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,12,W,p7*,"k1, p5, k1, p9",*,p2
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,13,R,k3*,"p5, k5, p1, k5",*,k2
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,14,W,p1*,"k1, p1, k1, p4, k5, p4",*,p3
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,15,R,*,"k3, p5, k3, p1, (k1, p1) twice",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,16,W,*,"(p1, k1) 3 times, p2, k5, p2, k1",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,17,R,*,"k1, p1, k1, p5, (k1, p1) 4 times",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,18,W,*,"(p1, k1) 3 times, p2, k5, p2, k1",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,19,R,*,"k3, p5, k3, p1, (k1, p1) twice",*,
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,20,W,p1*,"k1, p1, k1, p4, k5, p4",*,p3
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,21,R,k3*,"p5, k5, p1, k5",*,k2
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,22,W,p7*,"k1, p5, k1, p9",*,p2
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,23,R,k1*,"p1, k7",*,k6
+1335,Carpet,Multiple of 16 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1335,24,W,*,"p5, k1, p9, k1",*,

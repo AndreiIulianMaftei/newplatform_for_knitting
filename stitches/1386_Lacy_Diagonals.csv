@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,1,R,k2*,"yo, ssk, k1",*,
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,2,W,*,purl,*,
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,3,R,k2*,"k1, yo, ssk",*,ending last repeat k3
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,4,W,*,purl,*,
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,5,R,"k1,yo,*","ssk, k1, yo",*,"ending last repeat ssk, k2"
+1386,Lacy Diagonals,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1386,6,W,*,purl,*,

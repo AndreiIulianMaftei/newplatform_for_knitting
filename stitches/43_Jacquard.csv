@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,1,R,k1*,"sl 2 wyif, k4",*,"sl 2 wyif, k1"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,2,W,"p1, sl 1 wyib*","p4, sl 2 wyib",*,p2
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,3,R,k3*,"sl 2 wyif, k4",*,k1
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,4,W,p4*,"sl 2 wyib, p4",*,
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,5,R,k5*,"sl 2 wyif, k4",*,"sl 2 wyif, k3"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,6,W,p2*,"sl 2 wyib, p4",*,"sl 1, p1"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,7,R,k1*,"sl 2 wyif, k4",*,"sl 2, k1"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,8,W,p2*,"sl 2 wyib, p4",*,"sl 1, p1"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,9,R,k5*,"sl 2 wyif, k4",*,"sl 2, k3"
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,10,W,p4*,"sl 2 wyib, p4",*,
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,11,R,k3*,"sl 2 wyif, k4",*,k1
+43,Jacquard,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=43,12,W,"p1, sl 1 wyib*","p4, sl 2 wyib",*,p2

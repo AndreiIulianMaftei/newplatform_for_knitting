@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,1,R,*,knit,*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,2,W,*,knit,*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,3,R,*,"k3, cast on 4 and bind off 4 in the next stitch as follows: knit the stitch, place new loop on left-hand needle beside the original stitch; then knit the new loop and place next new loop on left needle; repeat until there are 4 new loops on left needle beside the original stitch.  Then bind off 4, passing the last bind off stitch over the original stitch that is now on the right needle",*,k1
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,4,W,k1*,"p1, k3",*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,5,R,*,knit,*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,6,W,*,knit,*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,7,R,k1*,"cast on 4 and bind off 4 in the next stitch, k3",*,
+1601,Lamb's Tail,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1601,8,W,*,"k3, p1",*,k1

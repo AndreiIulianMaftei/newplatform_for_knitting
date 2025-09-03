@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+800,Bird's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=800,1,W,*,"K2-tog, (yo) twice, k2-tog",*,
+800,Bird's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=800,2,R,*,"K1, (k1, p1) into 2 yo's of previous row, k1",*,
+800,Bird's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=800,3,W,K2*,"k2-tog, (yo) twice, k2 tog",*,k2
+800,Bird's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=800,4,R,K2*,"k1, (k1, p1) into 2 yo's of previous row, k1",*,k2

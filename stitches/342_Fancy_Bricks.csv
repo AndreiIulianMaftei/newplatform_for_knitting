@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,1,R,A,*,knit,*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,2,W,A,k3*,"insert needle into the next stitch as if to knit, then wrap yarn 3 times around the point of the needle, then knit the stitch carrying extra loops on needle; k3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,3,R,B,k3*,"sl 1 wyib dropping extra wraps, k3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,4,W,B,p3*,"sl 1 wyif, p3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,5,R,C,k3*,"sl 1 wyib, k3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,6,W,C,k3*,"sl 1 wyif, k3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,7,R,B,k3*,"sl 1 wyib, k3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,8,W,B,p3*,"sl 1 wyif, p3",*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,9,R,A,*,knit,*,
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,10,W,A,k1*,"insert needle into the next stitch as if to knit, then wrap yarn 3 times around the point of the needle, then knit the stitch carrying extra loops on needle; k3",*,k1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,11,R,B,k1*,"sl 1 wyib dropping extra wraps, k3",*,k1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,12,W,B,k1*,"sl 1 wyif, p3",*,p1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,13,R,C,k1*,"sl 1 wyib, k3",*,k1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,14,W,C,k1*,"sl 1 wyif, k3",*,k1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,15,R,B,k1*,"sl 1 wyib, k3",*,k1
+342,Fancy Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=342,16,W,B,k1*,"sl 1 wyif, p3",*,p1

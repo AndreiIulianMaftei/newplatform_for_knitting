@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,1,R,k1*,"p4, k4",*,"p4,k1"
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,2,W,k4*,"p4, k4",*,p2
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,3,R,k3*,"p4, k4",*,p3
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,4,W,k2*,"p4, k4",*,p4
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,5,R,p1*,"k4, p4",*,"k4,p1"
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,6,W,p4*,"k4, p4",*,k2
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,7,R,p3*,"k4, p4",*,k3
+114,Diagonal Ribs,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=114,8,W,p2*,"k4, p4",*,k4

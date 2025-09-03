@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+516,Woven Stitch in Two Colors,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=516,1,W,A,*,purl,*,
+516,Woven Stitch in Two Colors,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=516,2,R,B,k1*,"sl 1 wyif, k1",*,k1
+516,Woven Stitch in Two Colors,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=516,3,W,B,*,purl,*,
+516,Woven Stitch in Two Colors,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=516,4,R,A,k1*,"k1, sl 1 wyif",*,k1

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1516,Two-color Festoons,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1516,1,R,A,k2-tog *,"k1, M1, k1, M1, k1, sl 2-k1-p2sso",*,"k1, M1, k1, M1, k1, ssk"
+1516,Two-color Festoons,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1516,2,W,A,*,purl,*,
+1516,Two-color Festoons,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1516,3,R,B,k2-tog *,"k1, M1, k1, M1, k1, sl 2-k1-p2sso",*,"k1, M1, k1, M1, k1, ssk"
+1516,Two-color Festoons,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1516,4,W,B,*,purl,*,

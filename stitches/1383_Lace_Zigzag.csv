@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,1,R,*,"p3, k2-tog, yo",*,p1
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,2,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,3,R,p2*,"k2-tog, yo, p3",*,p2
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,4,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,5,R,p1*,"k2-tog, yo, p3",*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,6,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,7,R,p1*,"yo, ssk, p3",*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,8,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,9,R,p2*,"yo, ssk, p3",*,p2
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,10,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,11,R,p3*,"yo, ssk, p3",*,"yo, ssk, p1"
+1383,Lace Zigzag,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1383,12,W,*,knit the knit stitches; purl the purl stitches; knit the yarn over loops,*,

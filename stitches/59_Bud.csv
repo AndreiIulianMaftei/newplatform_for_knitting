@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,1,W,*,purl,*,
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,2,R,k8*,"(k1, yo, k1, yo, k1) in next st, k9",*,"(k1, yo, k1, yo, k1) in next st, k3"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,3,W,p3*,"purl the 5 new sts wrapping yarn twice for each st, p9",*,"purl the 5 new sts wrapping yarn twice for each st, p8"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,4,R,k8*,"sl 5 wyib dropping extra wraps , k9",*,"sl 5 wyib dropping extra wraps, k3"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,5,W,p3*,"sl 5 wyif, p9",*,"sl 5 wyif, p8"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,6,R,k8*,"sl 3 knitwise - k2 tog - p3sso, k9",*,"sl 3 knitwise - k2 tog - p3sso, k3"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,7,W,*,purl,*,
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,8,R,k3*,"(k1, yo, k1, yo, k1) in next st, k9",*,"(k1, yo, k1, yo, k1) in next st, k8"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,9,W,p8*,"purl the 5 new sts wrapping yarn twice for each st, p9",*,"purl the 5 new sts wrapping yarn twice for each st, p3"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,10,R,k3*,"sl 5 wyib dropping extra wraps, k9",*,"sl 5 wyib dropping extra wraps, k8"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,11,W,p8*,"sl 5 wyif, p9",*,"sl 5 wyif, p3"
+59,Bud,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=59,12,R,k3*,"sl 3 knitwise - k2 tog - p3sso, k9",*,"sl 3 knitwise - k2 tog - p3sso, k8"

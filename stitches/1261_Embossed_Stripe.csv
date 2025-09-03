@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,1,R,*,knit,*,
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,2,W,*,purl,*,
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,3,R,*,knit,*,
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,4,W,*,purl,*,
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,5,R,*,knit,*,
+1261,Embossed Stripe,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1261,6,W,p3*,"(p5; turn work, k5; turn work) 3 times; then purl each stitch together with the corresponding stitch 6 rows below, inserting needle through the top stitch and back loop of stitch below, p5",*,p3

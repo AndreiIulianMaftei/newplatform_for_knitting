@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,1,W,B,*,purl,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,2,R,B,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,3,W,B,*,purl,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,4,R,B,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,5,W,A,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,6,R,A,k1*,"insert right-hand needle from front under purl loop of stitch 6 rows below next stitch, knit an extra stitch in this stitch; then knit the next stitch on the left-hand needle and pass the extra stitch over it; k7",*,k1
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,7,W,B,*,purl,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,8,R,B,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,9,W,B,*,purl,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,10,R,B,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,11,W,A,*,knit,*,
+1563,Two-Color Dip,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1563,12,R,A,k5*,"insert right-hand needle from front under purl loop of stitch 6 rows below next stitch, knit an extra stitch in this stitch; then knit the next stitch on the left-hand needle and pass the extra stitch over it; k7",*,k5

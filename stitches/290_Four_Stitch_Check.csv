@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,1,R,A,*,knit,*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,2,W,A,*,purl,*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,3,R,B,k4*,"sl 2 wyib, k4",*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,4,W,B,p4*,"sl 2 wyif, p4",*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,5,R,A,*,knit,*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,6,W,A,*,purl,*,
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,7,R,B,k1*,"sl 2 wyib, k4",*,"sl 2 wyib, k1"
+290,Four Stitch Check,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=290,8,W,B,p1*,"sl 2 wyif, p4",*,"sl 2 wyif, p1"

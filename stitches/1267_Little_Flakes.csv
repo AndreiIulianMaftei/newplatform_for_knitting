@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,1,R,*,"(k1, p1, k1) in the same stitch, p1",*,"(k1, p1, k1) in the same stitch"
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,2,W,p3*,"k1, p3",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,3,R,k3*,"p1, k3",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,4,W,p3*,"k1, p3",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,5,R,k3-tog*,"p1, k3-tog",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,7,R,p1*,"(k1, p1, k1) in the same stitch, p1",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,8,R,k1*,"p3, k1",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,9,R,p1*,"k3, p1",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,10,W,k1*,"p3, k1",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,11,R,p1*,"k3-tog, p1",*,
+1267,Little Flakes,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1267,12,W,*,Knit the knit stitches and purl the purl stitches,*,

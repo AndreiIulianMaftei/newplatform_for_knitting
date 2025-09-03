@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,1,R,k1*,"sl 1 wyib, k4, pass sl-st over the 4 knit sts, p3",*,"sl 1 wyib, k4, pass sl-st over the 4 knit sts, k1"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,2,W,"k1, p1*","k1, knit 1 st under running thread between the st just worked and the next st, k1, p5",*,"k1, knit 1 st under running thread between the st just worked and the next st, k1, p1, k1"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,3,R,k2*,"p3, k5",*,"p3, k2"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,4,W,"k1, p1*","k3, p5",*,"k3, p1, k1"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,5,R,k2*,"p3, sl 1 wyib, k4 pass sl-st over the 4 knit sts",*,"p3, k2"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,6,W,k1*,"p5, k1, knit 1 st under running thread, k1",*,"p5, k1"
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,7,R,k1*,"k5, p3",*,k6
+51,Slip-Stitch Smocking,Multiple of 8 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=51,8,W,k1*,"p5, k3",*,"p5, k1"

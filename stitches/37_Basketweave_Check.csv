@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,1,W,*,purl,*,
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,2,R,k1*,"p2, sl 2 wyib, p2",*,k1
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,3,W,k3*,"p2, k4",*,k3
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,4,R,k1*,"p2, sl 2 wyib, p2",*,k1
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,5,W,k3*,"p2, k4",*,k3
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,6,R,k1*,"p2, sl 2 wyib, p2",*,k1
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,7,W,*,purl,*,
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,8,R,"k1, sl 1 wyib*","p4, sl 2 wyib",*,"p4, sl 1 wyib, k1"
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,9,W,"k1, p1*","k4, p2",*,"k4, p1, k1"
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,10,R,"k1, sl 1 wyib*","p4, sl 2 wyib",*,"p4, sl 1 wyib, k1"
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,11,W,"k1, p1*","k4, p2",*,"k4, p1, k1"
+37,Basketweave Check,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=37,12,R,"k1, sl 1 wyib*","p4, sl 2 wyib",*,"p4, sl 1 wyib, k1"

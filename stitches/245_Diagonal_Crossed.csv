@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+245,Diagonal Crossed,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=245,1,R,*,"sl 1 purlwise, k1 , yo, psso both the k1 and the yo",*,
+245,Diagonal Crossed,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=245,2,W,*,purl,*,
+245,Diagonal Crossed,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=245,3,R,k1*,"sl 1 purlwise, k1 , yo, psso both the k1 and the yo",*,k1
+245,Diagonal Crossed,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=245,4,W,*,purl,*,

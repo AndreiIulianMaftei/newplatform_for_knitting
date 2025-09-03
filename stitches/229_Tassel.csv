@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,1,R,*,"k4, p2",*,k1
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,2,W,p1*,"k2, p4",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,3,R,*,"k4, p2",*,k1
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,4,W,p1*,"k2, p4",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,5,R,*,"Loop, k1, p2, k3",*,k1
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,6,W,p1*,"p3, k2, p2 tog",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,7,R,k1*,"p2, k4",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,8,W,*,"p4, k2",*,p1
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,9,R,k1*,"p2, k4",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,10,W,*,"p4, k2",*,p1
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,11,R,K3*,"Loop, k1, p2, k3",*,
+229,Tassel,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=229,12,W,*,"p1, k2, p2 tog, p2",*,p1

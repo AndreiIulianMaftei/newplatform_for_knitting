@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,1,W,*,purl,*,
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,2,R,k1*,"sl 1 wyib, k3",*,
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,3,W,*,"p3, sl 1 wyif",*,p1
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,4,R,k1*,"drop slipped st off needle to front of work, k2, then pick up dropped st and knit it; k1",*,
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,5,W,*,purl,*,
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,6,R,k5*,"sl 1 wyib, k3",*,
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,7,W,*,"p3, sl 1 wyif",*,p5
+530,Diagonal Weave,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=530,8,R,k3*,"sl next 2 sts wyib, drop sl-st off needle to front of work, sl the same 2 sts back to left-hand needle, then pick up dropped st and knit it; k3",*,k2

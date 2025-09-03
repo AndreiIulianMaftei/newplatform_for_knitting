@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,1,R,B,k1*,"sl 1 wyif, k1",*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,2,W,C,*,purl,*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,3,R,A,k2*,"sl 1 wyif, k1",*,k1
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,4,W,B,*,purl,*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,5,R,C,k1*,"sl 1 wyif, k1",*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,6,W,A,*,purl,*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,7,R,B,k2*,"sl 1 wyif, k1",*,k1
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,8,W,C,*,purl,*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,9,R,A,k1*,"sl 1 wyif, k1",*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,10,W,B,*,purl,*,
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,11,R,C,k2*,"sl 1 wyif, k1",*,k1
+309,Woven Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=309,12,W,A,*,purl,*,

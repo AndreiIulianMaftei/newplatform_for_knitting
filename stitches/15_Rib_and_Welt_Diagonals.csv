@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,1,R,*,"k1, p1, k1, p5",*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,3,R,"k1, p1*","k5, p1, k1, p1",*,"k5, p1"
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,4,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,5,R,k1*,"p5, k1,  p1, k1",*,"p5, k1, p1"
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,7,R,*,"k5, p1, k1, p1",*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,8,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,9,R,p4*,"k1, p1, k1, p5",*,p1
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,10,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,11,R,k3*,"p1, k1, p1, k5",*,k2
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,12,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,13,R,p2*,"k1, p1, k1, p5",*,p3
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,14,W,*,Knit the knit stitches and purl the purl stitches,*,
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,15,R,k1*,"p1, k1, p1, k5",*,k4
+15,Rib and Welt Diagonals,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=15,16,W,*,Knit the knit stitches and purl the purl stitches,*,

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+283,Lace Rib 1,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=283,1,W,k2*,"p3, k2",*
+283,Lace Rib 1,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=283,2,R,p2*,"k1, yo, ssk, p2",*
+283,Lace Rib 1,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=283,3,W,k2*,"p3, k2",*
+283,Lace Rib 1,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=283,4,R,p2*,"k2 tog, yo, k1, p2",*

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1489,Fabric Rib,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1489,1,R,k1*,"sl 1 wyif, k1, sl 1 wyif, p3",*,"(sl 1 wyif, k1) twice"
+1489,Fabric Rib,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1489,2,W,p1*,"p3, k3",*,p1
+1489,Fabric Rib,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1489,3,R,k2*,"sl 1 wyif, k1, p3, k1",*,"sl 1 wyif, k2"
+1489,Fabric Rib,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1489,4,W,p1*,"p3, k3",*,p1

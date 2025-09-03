@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+437,Basket 3,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=437,1,R,*,"k3, p3",*,k3
+437,Basket 3,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=437,2,W,p3*,"k3, p3",*,
+437,Basket 3,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=437,3,R,*,"p3, k3",*,p3
+437,Basket 3,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=437,4,W,*,"p3, k3",*,p3

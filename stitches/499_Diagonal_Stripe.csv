@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,1,R,B,k1*,"sl 2 wyib, k2",*,"sl 2 wyib, k1"
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,2,W,B,k1*,"sl 1 wyif, p3",*,"sl 1 wyif, p1, k1"
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,3,R,A,"kl, sl 1 wyib*","k2, sl 2 wyib",*,k2
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,4,W,A,"k1, p1*","sl 1 wyif, p3",*,"sl 1wyif, k1"
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,5,R,B,k1*,"k2, sl 2 wyib",*,k3
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,6,W,B,"k1, p2*","sl 1 wyif, p3",*,k1
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,7,R,A,*,"k2, sl 2 wyib",*,"k2, sl 1 wyib, k1"
+499,Diagonal Stripe,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=499,8,W,A,k1*,"p3, sl 1 wyif",*,"p2, k1"

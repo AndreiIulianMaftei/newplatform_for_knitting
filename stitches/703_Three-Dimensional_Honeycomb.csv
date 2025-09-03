@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,1,R,*,"Yo, sl 1 wyib, k1",*,
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,2,W,p1*,"slip the yo stitch wyif, p2",*,"slip the yo stitch wyif, p1"
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,3,R,*,"P2 tog (stitch and yo), yo, sl 1 wyib",*,
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,4,W,*,"Skip 1 stitch and slip the yo over this stitch wyif, then purl the stitch, p1",*,
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,5,R,*,"Yo, sl 1 wyib, p2 tog (stitch and yo)",*,
+703,Three-Dimensional Honeycomb,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=703,6,W,p1*,"slip yo stitch over the stitch wyif, p2",*,"slip yo stitch wyif, p1"

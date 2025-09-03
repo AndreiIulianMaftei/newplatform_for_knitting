@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,1,R,*,knit,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,2,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,3,R,"k2, k2-tog, yo*","k1, yo, (ssk, yo) twice, sl 1-k2-tog-psso, yo",*,"k1, (yo, ssk) 3 times, k2"
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,4,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,5,R,k4*,"(yo, ssk) 3 times, k2",*,k3
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,6,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,7,R,k5*,"(yo, ssk) twice, k4",*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,8,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,9,R,*,"k6, yo, ssk",*,k5
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,10,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,11,R,k4*,"k2-tog, yo, k1, yo, ssk, k3",*,k4
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,12,W,*,purl,*,
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,13,R,k3*,"k2-tog, yo, k1, yo, ssk, yo, ssk, k1",*,k3
+1481,Folk Lace,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1481,14,W,*,purl,*,

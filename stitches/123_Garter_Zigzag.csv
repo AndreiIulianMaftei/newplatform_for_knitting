@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,1,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,2,R,*,"k3, p3",*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,3,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,4,R,p1*,"k3, p3",*,"k3,p2"
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,5,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,6,R,p2*,"k3, p3",*,"k3,p1"
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,7,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,8,R,*,"p3, k3",*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,9,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,10,R,p2*,"k3, p3",*,"k3,p1"
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,11,W,*,purl,*,
+123,Garter Zigzag,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=123,12,R,p1*,"k3, p3",*,"k3,p2"

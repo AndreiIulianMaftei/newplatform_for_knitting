@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,1,R,B,k1*,"sl 2 wyif; put yarn to back and slip the same 2 stitches back to the left-hand needle, bring yarn to the front and slip the same 2 stitches with yarn in front again, then put the yarn to the back; k2",*,k1
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,2,W,B,p3*,"sl 2 wyif, p2",*,sl 2 p1
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,3,R,B,k3*,"p2, k2",*,"p2, k1"
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,4,W,B,*,purl,*,
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,5,R,A,k3*,"sl 2 wyif; put yarn to back and slip the same 2 stitches back to the left-hand needle, bring yarn to the front and slip the same 2 stitches with yarn in front again, then put the yarn to the back; k2",*,k1
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,6,W,A,p1*,"sl 2 wyif, p2",*,p1
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,7,R,A,k1*,"p2, k2",*,k1
+347,Two-Color Blind Stitch,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=347,8,W,A,*,purl,*,

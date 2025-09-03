@@ -1,0 +1,19 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,1,R,p2*,"k4, p4, k2, p2, k4, p2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,2,W,k3*,"p4, k2, p2, k2, p4, k4",*,k3
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,3,R,k2*,"p2, k4, p4, k4, p2, k2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,4,W,p1*,"k4, (p4, k2) twice, p2",*,k1
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,5,R,p2*,"k2, p2, k8, p2, k2, p2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,6,W,k1*,"p2, k4, p6, k2, p2, k2",*,p1
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,7,R,k2*,"p2, k2, p2, k4, (p2, K2) twice",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,8,W,p1*,"k2, p2, k2, p6, k4, p2",*,k1
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,9,R,p2*,"k2, p2, k8, p2, k2, p2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,10,W,k1*,"p2, (k2, p4) twice, k4",*,p1
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,11,R,k2*,"p2, k4, p4, k4, p2, k2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,12,W,k3*,"p4, k2, p2, k2, p4, k4",*,k3
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,13,R,p2*,"k4, p2, k2, p4, k4, p2",*,
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,14,W,p5*,"(k2, p2) twice, k2, p8",*,p5
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,15,R,k4*,"(p2, k2) twice, p4, k6",*,k4
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,16,W,p3*,"(k2, p2) 3 times, k2, p4",*,p3
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,17,R,k4*,"p4, (k2, p2) twice, k6",*,k4
+30,Fancy Lozenge,Multiple of 18 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=30,18,W,p5*,"(k2, p2) twice, k2, p8",*,p5

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+560,560 Spirals,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=560,1,R,*,"p4 (k1, k1-b, k1) in next stitch",*,p4
+560,560 Spirals,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=560,2,W,k4*,"p3, k4",*,
+560,560 Spirals,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=560,3,R,*,"p4, k3-tog",*,p4
+560,560 Spirals,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=560,4,W,k4*,"p1, k4",*,

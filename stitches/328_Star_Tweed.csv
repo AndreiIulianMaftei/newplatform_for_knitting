@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+328,Star Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=328,1,R,A,k1*,"sl 1 wyib; insert needle under running thread between the stitch just slipped and the next stitch, and knit this thread. Sl 1 wyib, k1. Then pass first slipped stitch over 3 stitches; k1",*,
+328,Star Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=328,2,W,A,*,purl,*,
+328,Star Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=328,3,R,B,k3*,"sl 1 wyib; insert needle under running thread between the stitch just slipped and the next stitch, and knit this thread. Sl 1 wyib, k1. Then pass first slipped stitch over 3 stitches; k1",*,k2
+328,Star Tweed,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=328,4,W,B,*,purl,*,

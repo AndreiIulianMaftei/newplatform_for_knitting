@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+34,Cartridge Belt Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=34,1,R,k3*,"sl 1 wyif, k3",*,
+34,Cartridge Belt Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=34,2,W,k1*,"sl 1 wyif, k3",*,"sl 1, k1"

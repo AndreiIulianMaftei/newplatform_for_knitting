@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,1,W,A,*,purl,*,
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,2,R,B,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,3,W,B,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,4,R,A,k4*,"sl 1 wyib, k3",*,k1
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,5,W,A,p4*,"sl 1 wyif, p3",*,p1
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,6,R,B,k1*,"sl 1 wyib, k1",*,
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,7,W,B,*,purl,*,
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,8,R,A,k2*,"sl 1 wyib, k1",*,k1
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,9,W,A,p4*,"sl 1 wyif, p3",*,p1
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,10,R,B,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,11,W,B,*,purl,*,
+365,Surprise Two Color Version,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=365,12,R,A,k1*,"sl 1 wyib, k1",*,

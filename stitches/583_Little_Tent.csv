@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+583,Little Tent,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=583,1,W,k2*,"p5, k3",*,"p5, k2"
+583,Little Tent,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=583,2,R,k2*,"sl 5 wyif, k3",*,"sl 5 wyif, k2"
+583,Little Tent,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=583,3,W,k2*,"p5, k3",*,"p5, k2"
+583,Little Tent,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=583,4,R,k4*,"insert needle under loose strand and knit next stitch, bringing stitch out under strand; k7",*,"insert needle under loose strand and knit next stitch, bringing stitch out under strand; k4"

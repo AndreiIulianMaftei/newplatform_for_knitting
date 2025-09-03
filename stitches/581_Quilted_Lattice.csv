@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,1,W,*,purl,*,
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,2,R,k2*,"sl 5 wyif, k1",*,k1
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,3,W,*,purl,*,
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,4,R,k4*,"insert needle under loose strand and knit next stitch, bringing stitch out under strand; k5",*,"insert needle under loose strand and knit next stitch, bringing stitch out under strand; k4"
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,5,W,*,purl,*,
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,6,R,"k1, sl3 wyif*","k1, sl 5 wyif",*,"k1, sl 3 wyif, k1"
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,7,W,*,purl,*,
+581,Quilted Lattice,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=581,8,R,k1*,"knit next stitch under loose strand, k5",*,"knit next stitch under loose strand, k1"

@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,1,R,k1*,"p4, k3, p4, k2",*,"p4, k3, p4, k1"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,2,W,p2*,"k3, p3, k3, p4",*,"k3, p3, k3, p2"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,3,R,k3*,"p2, k3, p2, k6",*,"p2, k3, p2, k3"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,4,W,p4*,"k1, p3, k1, p8",*,"k1, p3, k1, p4"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,5,R,*,knit,*,
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,6,W,p4*,"k1, p3, k1, p8",*,"k1, p3, k1, p4"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,7,R,k3*,"p2, k3, p2, k6",*,"p2, k3, p2, k3"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,8,W,p2*,"k3, p3, k3, p4",*,"k3, p3, k3, p2"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,9,R,k1*,"p4, k3, p4, k2",*,"p4, k3, p4, k1"
+1057,Double Pennant 3,Multiple of 13 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1057,10,W,k5*,"p3, k10",*,"p3, k5"

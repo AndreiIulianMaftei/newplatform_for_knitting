@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+363,Reverse Two-Tone,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=363,1,R,B,*,"k1, sl 1 wyif",*,Slip stitches to the other end of the needle and take up strand A
+363,Reverse Two-Tone,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=363,2,W,A,*,"sl 1 wyib, p1",*,
+363,Reverse Two-Tone,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=363,3,R,B,"sl 1 wyib, p1*","sl 1 wyib, p1",*,Slip stitches to the other end of the needle and take up strand A
+363,Reverse Two-Tone,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=363,4,W,A,*,"k1, sl 1 wyif",*,

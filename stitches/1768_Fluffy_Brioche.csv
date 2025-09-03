@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1768,Fluffy Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1768,1,W,*,"yo, sl 1 wyib, k1",*,
+1768,Fluffy Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1768,2,R,*,"k1, k2-tog (the yo and the slip stitch of the previous row)",*,
+1768,Fluffy Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1768,3,W,k1*,"yo, sl 1 wyib, k1",*,k1
+1768,Fluffy Brioche,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1768,4,R,k2*,"k2-tog, k1",*,

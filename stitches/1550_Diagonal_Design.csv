@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,1,R,*,"k1, yo, k2-tog, k4, k2-tog, yo",*,"k1, yo. k2-tog"
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,2,W,*,purl,*,
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,3,R,k1*,"yo, k2-tog, k3, k2-tog, yo, k2",*,"yo, k2-tog"
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,4,W,*,purl,*,
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,5,R,k1*,"yo, k2-tog, k2, k2-tog, yo, k3",*,"yo, k2-tog"
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,6,W,*,purl,*,
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,7,R,k1*,"yo, k2-tog, k1, k2-tog, yo, k4",*,"yo, k2-tog"
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,8,W,*,purl,*,
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,9,R,k1*,"yo, k2-tog twice, yo, k5",*,"yo, k2-tog"
+1550,Diagonal Design,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1550,10,W,*,purl,*,

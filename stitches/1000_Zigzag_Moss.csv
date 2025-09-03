@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,1,R,*,"K5, (P1, K1) twice, P1",*,
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,2,W,P1*,"(K1, P1) twice, K1, P5",*,"(K1, P1) twice, K1, P4"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,3,R,K3*,"(P1, K1) twice, P1, K5",*,"(P1, K1) twice, P1, K2"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,4,W,P3*,"(K1, P1) twice, K1, P5",*,"(K1, P1) twice, K1, P2"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,5,R,K1*,"(P1, K1) twice, P1, K5",*,"(P1, K1) twice, P1, K4"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,6,W,*,"P5, (k1, P1) twice, K1",*,
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,7,R,K1*,"(P1, K1) twice, P1, K5",*,"(P1, K1) twice, P1, K4"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,8,W,P3*,"(K1, P1) twice, K1, P5",*,"(K1, P1) twice, K1, P2"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,9,R,K3*,"(P1, K1) twice, P1, K5",*,"(P1, K1) twice, P1, K2"
+1000,Zigzag Moss,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1000,10,W,P1*,"(K1, P1) twice, K1, P5",*,"(K1, P1) twice, K1, P4"

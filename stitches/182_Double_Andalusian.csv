@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+182,Double Andalusian,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=182,1,R,*,knit,*,
+182,Double Andalusian,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=182,2,W,*,"k2, p4",*,
+182,Double Andalusian,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=182,3,R,*,knit,*,
+182,Double Andalusian,Multiple of 12 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=182,4,W,p3*,"k2, p4",*,"k2, p1"

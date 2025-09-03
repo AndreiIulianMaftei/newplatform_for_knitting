@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,1,W,k1*,"yo, knit 3, pass the yo loop over the 3 stitches just knitted; sl 3 wyif",*,k1
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,2,R,*,knit,*,
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,3,W,k1*,"yo, knit 3, pass the yo loop over the 3 stitches just knitted; p3",*,k1
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,4,R,k3*,"with right needle, lift loop of next wrap (below and to the left) onto the left needle, knit the loop together with the next stitch; k5",*,k4
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,5,W,*,knit,*,
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,6,R,*,knit,*,
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,7,W,k1*,"sl 3 wyif; yo, knit 3, pass the yo loop over the 3 stitches just knitted",*,k1
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,8,R,*,knit,*,
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,9,W,k1*,"p3; yo, knit 3, pass the yo loop over the 3 stitches just knitted",*,k1
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,10,R,k6*,"with right needle, lift loop of next wrap (below and to the left) onto the left needle, knit the loop together with the next stitch; k5",*,k7
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,11,W,*,knit,*,
+1346,Loops and Blocks,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1346,12,R,*,knit,*,

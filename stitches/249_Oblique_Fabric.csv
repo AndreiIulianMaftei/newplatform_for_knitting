@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,1,R,*,"k3, T2R, T2L",*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,2,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,3,R,*,"k2, T2R, T2L, k1",*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,4,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,5,R,*,"k1, T2R, T2L, k2",*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,6,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,7,R,*,"T2R, T2L, k3",*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,8,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,9,R,k1*,"T2L, k3, T2R",*,"T2L, k4"
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,10,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,11,R,*,"T2L, k3, T2R",*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,12,W,*,purl,*,
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,13,R,k1*,"k3, T2R, T2L",*,"k3, T2R, k1"
+249,Oblique Fabric,Multiple of 7 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=249,14,W,*,purl,*,

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,1,W,*,purl,*,
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,2,R,K2*,"yo, sl 1-k2 tog-psso, yo, k1",*,k2
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,3,W,*,purl,*,
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,4,R,K2*,"k1, yo, sl 1-k2 tog-psso, yo",*,k2
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,5,W,*,purl,*,
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,6,R,"K1, k2 tog*","yo, k1, yo, sl 1-k2 tog-psso",*,"yo, k1, yo, ssk, k2"
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,7,W,*,purl,*,
+814,Diagonal Madeira Lace,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=814,8,R,"K2, k2 tog*","yo, k1, yo, sl 1-k2 tog-psso",*,"yo, k1, yo, ssk, k1"

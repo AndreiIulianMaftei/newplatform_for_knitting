@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,1,R,*,purl,*,
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,2,W,"p2, sl 1 wyib*","sl 1 wyib, p6, sl 1 wyib",*,"sl 1 wyib, p2"
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,3,R,"k2, sl 1 wyif*","sl 1 wyif, k1, k2-tog, yo twice, ssk, k1, sl 1 wyif",*,"sl 1 wyif, k2"
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,4,W,"p2, sl 1 wyib*","sl 1 wyib, p3, k1, p2, sl 1 wyib",*,"sl 1 wyib, p2"
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,5,R,"k2, sl 1 wyif*","sl 1 wyif, k6, sl 1 wyif",*,"sl 1 wyif, k2"
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,6,W,*,knit,*,
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,7,R,*,purl,*,
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,8,W,p3*,"p3, sl 2 wyib, p3",*,p3
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,9,R,k3*,"yo, ssk, k1, sl 2 wyif, k1, k2-tog, yo",*,k3
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,10,W,p3*,"k1, p2, sl 2 wyib, p3",*,p3
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,11,R,k3*,"k3, sl 2 wyif, k3",*,k3
+1467,Portholes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1467,12,W,*,knit,*,

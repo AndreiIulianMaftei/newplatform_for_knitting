@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,1,W,k2*,"(p1, yo, p1, yo, p1) in next stitch, k3",*,k2
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,2,R,p2*,"k5, p3",*,p2
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,3,W,k2*,"p5, k3",*,k2
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,4,R,p2*,"k5-tog-b, p3",*,p2
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,5,W,k4*,"(p1, yo, p1, yo, p1) in next stitch, k3",*,k1
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,6,R,p4*,"k5, p3",*,p1
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,7,W,k4*,"p5, k3",*,k1
+1602,Clamshell 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1602,8,R,p4*,"k5-tog-b, p3",*,p1

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,1,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,2,R,*,"sl 3 wyif, k3",*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,3,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,4,R,k1*,"sl 3 wyif, k3",*,"sl 3 wyif, k2"
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,5,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,6,R,k2*,"sl 3 wyif, k3",*,"sl 3 wyif, k1"
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,7,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,8,R,*,"K3, sl 3 wyif",*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,9,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,10,R,sl 1 wyif*,"k3, sl 3 wyif",*,"k3, sl 2 wyif"
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,11,W,*,purl,*,
+519,Woven Diagonal Herringbone,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=519,12,R,sl 2 wyif*,"k3, sl 3 wyif",*,"k3, sl 1 wyif"

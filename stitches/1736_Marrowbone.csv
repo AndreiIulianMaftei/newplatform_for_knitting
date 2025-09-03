@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,1,R,*,knit,*,
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,2,W,*,"p6, k6",*,p4
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,3,R,*,knit,*,
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,4,W,k2*,"p6, k6",*,p2
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,5,R,k2*,"k6, FC",*,k2
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,6,W,k4*,"p6, k6",*,
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,7,R,*,knit,*,
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,8,R,*,"k6, p6",*,k4
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,9,W,*,knit,*,
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,10,R,p2*,"k6, p6",*,k2
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,11,W,k2*,"FC, k6",*,k2
+1736,Marrowbone,Multiple of 12 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1736,12,R,p4*,"k6, p6",*,

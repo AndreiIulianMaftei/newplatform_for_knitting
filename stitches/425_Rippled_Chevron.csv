@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,1,R,B,"k1, sl 1 wyib*","k3, sl 1 wyib",*,k1
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,2,W,B,"k1, sl 1 wyif*","p3, sl 1 wyif",*,k1
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,3,R,A,k4*,"sl 1 wyib, k3, sl 1 wyib, k1, sl 1 wyib, k3, sl 1 wyib, k5",*,"sl 1 wyib, k3, sl 1 wyib, k1, sl 1 wyib, k3, sl 1 wyib, k4"
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,4,W,A,"k1, p3*","sl 1 wyif, p3, sl 1 wyif, p1, sl 1 wyif, p3, sl 1 wyif, p5",*,"sl 1 wyif, p3, sl 1 wyif, p1, sl 1 wyif, p3, k1"
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,5,R,B,k3*,"sl 1 wyib, k3",*,
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,6,W,B,"k1, p2*","sl 1 wyif, p3",*,"sl 1 wyif, p2, k1"
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,7,R,A,k2*,"sl 1 wyib, k3, sl 1 wyib, k5, sl 1 wyib, k3, sl 1 wyib, k1",*,k1
+425,Rippled Chevron,Multiple of 16 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=425,8,W,A,"k1, p1*","sl 1 wyif, p3, sl 1 wyif, p5, sl 1 wyif, p3, sl 1 wyif, p1",*,k1

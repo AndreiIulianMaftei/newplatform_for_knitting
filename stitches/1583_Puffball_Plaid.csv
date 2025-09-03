@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,1,W,A,*,purl,*,
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,2,R,A,*,knit,*,
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,3,W,A,k1*,"p2, k7",*,"p2, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,4,R,A,k1*,"k2 wrapping yarn twice for each stitch, k7",*,"k2 wrapping yarn twice, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,5,W,B,k1*,"sl 2 wyif dropping extra wraps, p7",*,"sl 2 wyif dropping extra wraps, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,6,R,B,k1*,"sl 2 wyib, k7",*,"sl 2 wyib, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,7,W,B,k1 *,"sl 2 wyif, p7",*,"sl 2 wyif, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,8,R,B,k1*,"sl 2 wyib, k7",*,"sl 2 wyib, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,9,W,A,k1*,"p2, sl 3 wyif, p1, sl 3 wyif",*,"p2, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,10,R,A,k1*,"k2 wrapping yarn twice for each stitch, sl 3 wyib, Bobble, sl 3 wyib",*,"k2 wrapping yarn twice, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,11,W,B,k1*,"sl 2 wyif dropping extra wraps, p7",*,"sl 2 wyif dropping extra wraps, k1"
+1583,Puffball Plaid,Multiple of 9 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1583,12,R,B,k1*,"sl 2 wyib, k7",*,"sl 2 wyib, k1"

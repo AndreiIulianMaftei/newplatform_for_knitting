@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,1,W,*,purl,*,
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,2,R,*,"(K2 tog) twice, (yo) twice, (ssk) twice",*,
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,3,W,*,"P2 tog-b, (p1, k1) 3 times into the double yo, p2 tog",*,
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,4,R,K1*,"K6 (the 6 new stitches above the yo), k2 tog but do not slip from needle; insert right-hand needle between the stitches just knitted together and knit the 1st stitch again, then slip both stitches from the needle together",*,k7
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,5,W,*,purl,*,
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,6,R,K4*,"(k2 tog) twice, (yo) twice, (ssk) twice",*,k4
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,7,W,P4*,"p2 tog-b, (p1, k1) 3 times into the double yo, p2 tog",*,p4
+759,Grand Eyelet Lattice,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=759,8,R,K3*,"k2 tog but do not slip from needle; insert right-hand needle between the stitches just knitted together and knit the 1st stitch again, then slip both stitches from the needle together, k6",*,k3

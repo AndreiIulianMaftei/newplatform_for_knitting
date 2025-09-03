@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+532,Double Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=532,1,R,k1*,"Sl 2 wyif, k2",*,"sl 2 wyif, k1"
+532,Double Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=532,2,W,"k1, p2*","sl 2 wyib, p2",*,k1

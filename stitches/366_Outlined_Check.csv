@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,1,R,A,*,knit,*,
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,2,W,A,*,purl,*,
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,3,R,B,k1*,"sl 2 wyib, k8",*,"sl 2 wyib, k1"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,4,W,C,"p1, sl 3 wyif*","p6, sl 4 wyif",*,"p6, sl 3 wyif, p1"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,5,R,C,"k1, sl 3 wyib*","k6, sl 4 wyib",*,"k6, sl 3 wyib, k1"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,6,W,B,p1*,"sl 2 wyif, p8",*,"sl 2 wyif, p1"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,7,R,A,*,knit,*,
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,8,W,A,*,purl,*,
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,9,R,B,k6*,"sl 2 wyib, k8",*,"sl 2 wyib, k6"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,10,W,D,p5*,"sl 4 wyif, p6",*,"sl 4 wyif, p5"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,11,R,D,k5*,"sl 4 wyib, k6",*,"sl 4 wyib, k5"
+366,Outlined Check,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=366,12,W,B,p6*,"sl 2 wyif, p8",*,"sl 2 wyif, p6"

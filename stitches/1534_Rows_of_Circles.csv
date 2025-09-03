@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,1,R,A,*,knit,*,
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,2,W,A,k1*,"p3, k3",*,"p3, k1"
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,3,R,B,k1*,"sl 3 wyib, k3",*,"sl 3 wyib, k1"
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,4,W,B,p2*,"sl 1 wyif, p5",*,"sl 1 wyif, p2"
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,5,R,B,*,knit,*,
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,6,W,B,k4*,"p3, k3",*,"p3, k4"
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,7,R,A,k4*,"sl 3 wyib, k3",*,"sl 3 wyib, k4"
+1534,Rows of Circles,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1534,8,W,A,p5*,"sl 1 wyif, p5",*,

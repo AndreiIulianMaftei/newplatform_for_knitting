@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,1,W,A,*,purl,*,
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,2,R,B,k2*,"(k1, yo, k1, yo, k1, yo, k1) in next stitch; k9",*,k7
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,3,W,B,*,knit,*,
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,4,R,A,k1*,"k2-tog, k5, ssk, k7",*,k6
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,5,W,A,p6*,"p2-tog-b, p1, sl 1 wyif, p1, p2-tog, p7",*,p1
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,6,R,A,k1*,"k2-tog, sl 1 wyib, ssk, k7",*,k6
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,7,W,A,*,purl,*,
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,8,R,B,k7*,"(k1, yo, k1, yo, k1, yo, k1) in next stitch; k9",*,k2
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,9,W,B,*,knit,*,
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,10,R,A,k6*,"k2-tog, k5, ssk, k7",*,k1
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,11,W,A,p1*,"p2-tog-b, p1, sl 1 wyif, p1, p2-tog, p7",*,p6
+1586,Picot Stripe,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1586,12,R,A,k6*,"k2-tog, sl 1 wyib, ssk, k7",*,k1

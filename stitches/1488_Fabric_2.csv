@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1488,Fabric 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1488,1,R,*,"k1, sl 1 wyif",*,k2
+1488,Fabric 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1488,2,W,*,purl,*,
+1488,Fabric 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1488,3,R,k2*,"sl 1 wyif, k1",*,
+1488,Fabric 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1488,4,W,*,purl,*,

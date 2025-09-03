@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,1,R,*,"[(p1, k1, p1) in next stitch] twice, k4",*,
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,2,W,*,"p4, (p3-tog) twice",*,
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,3,R,k1*,"[(p1, k1, p1) in next stitch] twice, k4",*,k3
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,4,W,p3*,"(p3-tog) twice, p4",*,p1
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,5,R,k2*,"[(p1, k1, p1) in next stitch] twice, k4",*,k2
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,6,W,p2*,"(p3-tog) twice, p4",*,p2
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,7,R,k3*,"[(p1, k1, p1) in next stitch] twice, k4",*,k1
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,8,W,p1*,"(p3-tog) twice, p4",*,p3
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,9,R,*,"k4, [(p1, k1, p1) in next stitch] twice",*,
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,10,W,*,"(p3-tog) twice, p4",*,
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,11,R,"(p1, k1, p1) in next stitch*","k4, [(p1, k1, p1) in next stitch] twice",*,"k4, (p1, k1, p1) in next stitch"
+1599,Diagonal Knot,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1599,12,W,P3-tog*,"p4, (p3-tog) twice",*,"p4, p3-tog"

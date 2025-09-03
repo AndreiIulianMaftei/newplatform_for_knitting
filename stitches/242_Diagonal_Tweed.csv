@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,1,R,*,"k2, wyif sl 2 purlwise",*,k2
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,2,W,*,purl,*,
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,3,R,k1*,"k2, wyif sl 2 purlwise",*,k1
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,4,W,*,purl,*,
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,5,R,k2*,"k2, wyif sl 2 purlwise",*,
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,6,W,*,purl,*,
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,7,R,k1*,"wyif sl 2 purlwise, k2",*,k1
+242,Diagonal Tweed,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=242,8,W,*,purl,*,

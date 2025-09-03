@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,1,R,A,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,2,W,A,p1*,"sl 1 wyif, p3",*,"sl 1 wyif, p1"
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,3,R,B,*,"k3, sl 1 wyib",*,k3
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,4,W,B,*,"p3, sl 1 wyif",*,p3
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,5,R,C,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,6,W,C,p1*,"sl 1 wyif, p3",*,"sl 1 wyif, p1"
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,7,R,D,*,"k3, sl 1 wyib",*,k3
+311,Striped Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=311,8,W,D,*,"p3, sl 1 wyif",*,p3

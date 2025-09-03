@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,1,R,k1*,"yo, k2-tog-b, k1, k2-tog, yo, k3",*,k4
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,2,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,3,R,k5*,"yo, k2-tog-b, k1, k2-tog, yo, k3",*,"yo, k2-tog-b, k3"
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,4,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,5,R,k6*,"yo, sl 1-k2-tog-psso, yo, k5",*,"yo, sl 1- k2-tog-psso, yo, k1"
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,6,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,7,R,k1*,"k2-tog, yo, k1, yo, k2-tog-b, k3",*,k4
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,8,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,9,R,*,"k2-tog, yo, k3, yo, k2-tog-b, k1",*,k3
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,10,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,11,R,k1*,"yo, k2-tog-b, k1, k2-tog, yo, k3",*,k4
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,12,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,13,R,k2*,"yo, sl 1-k2-tog-psso, yo, k5",*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,14,W,*,purl,*,
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,15,R,k5*,"k2-tog, yo, k1, yo, k2-tog-b, k3",*,"k2-tog, yo, k3"
+1381,Maple Leaf,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1381,16,W,*,purl,*,

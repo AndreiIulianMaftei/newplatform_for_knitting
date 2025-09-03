@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,1,W,*,purl,*,
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,2,R,*,"K5, yo, ssk, k3",*,k1
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,3,W,*,purl,*,
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,4,R,*,"K3, k2 tog, yo, k1, yo, ssk, k2",*,k1
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,5,W,*,purl,*,
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,6,R,*,"K2, k2 tog, yo, k3, yo, ssk, k1",*,k1
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,7,W,*,purl,*,
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,8,R,*,"K1, k2 tog, yo, k5, yo, ssk,",*,k1
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,9,W,*,purl,*,
+811,Lace Chevron 1,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=811,10,R,"K2 tog, yo, k7*","yo, sl 1-k2 tog-psso, yo, k7",*,"yo, ssk"

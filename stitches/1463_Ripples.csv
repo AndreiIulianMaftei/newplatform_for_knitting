@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,1,R,k1*,"p1, sl 2 wyif, p2-tog, yo",*,k1
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,2,W,*,purl,*,
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,3,R,k1*,"sl 2 wyif, p2-tog, yo, p1",*,k1
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,4,W,*,purl,*,
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,5,R,"k1, sl 1 wyif*","p2-tog, yo, p1, sl 2 wyif",*,"sl 1 wyif, k1"
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,6,W,*,purl,*,
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,7,R,k1*,"p2-tog, yo, p1, sl 2 wyif",*,k1
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,8,W,*,purl,*,
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,9,R,"k1, p2*","sl 2 wyif, p2-tog, yo, p1",*,"sl 2 wyif, p1, k1"
+1463,Ripples,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1463,10,W,*,purl,*,

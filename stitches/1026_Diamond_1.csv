@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1026,Diamond 1,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1026,1,R,*,"P2, YO, K1, YO,",*,P2
+1026,Diamond 1,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1026,2,W,K2*,"P3, K2",*,
+1026,Diamond 1,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1026,3,R,*,"P2, K3",*,P2
+1026,Diamond 1,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1026,4,W,*,"k2, k3-tog",*,k2

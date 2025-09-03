@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1643,Diagonal Crepe,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1643,1,R,"p1, RT*","p2, RT",*,
+1643,Diagonal Crepe,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1643,2,W,k1*,"yo, p2-tog, k2",*,"yo, p2-tog"
+1643,Diagonal Crepe,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1643,3,R,k1*,"p2, RT",*,p2
+1643,Diagonal Crepe,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1643,4,W,k3*,"yo, p2-tog, k2",*,

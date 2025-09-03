@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+701,Brioche Stockinette,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=701,1,R,Sl 1*,"yo, sl 1, k1",*,
+701,Brioche Stockinette,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=701,2,W,Sl 1*,"p2 tog (yo stitch and next stitch), p1",*,"p2 tog, k1"
+701,Brioche Stockinette,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=701,3,R,Sl 1*,"k1, yo, sl 1",*,k2
+701,Brioche Stockinette,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=701,4,W,Sl 1 *,"p1, p2 tog",*,"p1, k1"

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+288,Simple Vertical Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=288,1,R,A,k1*,"sl 2 wyib, k2",*,"sl 2 wyib, k1"
+288,Simple Vertical Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=288,2,W,A,k1*,"sl 2 wyif, p2",*,"sl 2 wyif, k1"
+288,Simple Vertical Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=288,3,R,B,k1*,"k2, sl 2 wyib",*,k3
+288,Simple Vertical Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=288,4,W,B,k1*,"p2, sl 2 wyif",*,"p2,k1"

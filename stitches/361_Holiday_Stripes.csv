@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,1,W,A,*,purl,*,
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,2,R,B,*,"k1, sl 1 wyib",*,k2
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,3,W,B,p4*,"sl 1 wyif, p3",*,"sl 1, p1"
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,4,R,B,*,k1; drop slipped stitch off needle to the front of work; k2; pick up the dropped stitch and knit it,*,k2
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,5,W,B,*,purl,*,
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,6,R,A,*,"k1, sl 1 wyib",*,k2
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,7,W,A,p4*,"sl 1 wyif, p3",*,"sl 1, p1"
+361,Holiday Stripes,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=361,8,R,A,*,k1; drop slipped stitch off needle to the front of work; k2; pick up the dropped stitch and knit it,*,k2

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+302,Dotted Ladder,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=302,1,R,B,k1*,"sl 1 wyib, k1, sl 1 wyib, k3",*,"sl 1 wyib, k1, sl 1 wyib, k1"
+302,Dotted Ladder,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=302,2,W,B,k1*,"sl 1 wyif, k1, sl 1 wyif, p3",*,"sl 1 wyif, k1, (sl 1 wtyif, k1) twice"
+302,Dotted Ladder,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=302,3,R,A,k1*,"k3, sl 1 wyib, k1, sl 1 wyib",*,k4
+302,Dotted Ladder,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=302,4,W,A,k1*,"p3, sl 1 wyif, k1, sl 1 wyif",*,"p3, k1"

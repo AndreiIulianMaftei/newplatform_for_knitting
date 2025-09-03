@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,1,R,*,purl,*,
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,2,W,k4*,"p3, k7",*,"p3,k4"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,3,R,p4*,"k3, p7",*,"k3, p4"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,4,W,k4*,"p3, k7",*,"p3,k4"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,5,R,*,purl,*,
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,6,W,*,knit,*,
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,7,R,k2*,"p7, k3",*,"p7,k2"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,8,W,p2*,"k7, p3",*,"k7,p2"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,9,R,k2*,"p7, k3",*,"p7,k2"
+107,Little Check,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=107,10,W,*,knit,*,

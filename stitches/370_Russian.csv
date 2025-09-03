@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,1,R,B,*,"k4, sl 1 wyib",*,k1
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,2,W,B,p1*,"sl 1 wyif, p4",*,
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,3,R,A,k5*,"sl 1 wyib, k4",*,k1
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,4,W,A,k5*,"sl 1 wyif, k4",*,k1
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,5,R,B,k1*,"sl 1 wyib, k4",*,
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,6,W,B,*,"p4, sl 1 wyif",*,p1
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,7,R,A,k5*,"sl 1 wyib, k4",*,k1
+370,Russian,Multiple of 5 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=370,8,W,A,k5*,"sl 1 wyif, k4",*,k1

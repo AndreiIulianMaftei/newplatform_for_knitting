@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+419,Rickrack Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=419,1,R,B,k1*,"sk 1 st and insert needle from front into the st <I>in row below</I> the 2nd stitch on left-hand needle; draw through a loop, sl the loop onto the left-hand needle and knit it together with the skipped st through the <I>back</I> loops, k1",*,k1
+419,Rickrack Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=419,2,W,B,*,purl,*,
+419,Rickrack Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=419,3,R,A,k1*,"sk 1 st and insert needle from front into the st <I>in row below</I> the 2nd stitch on left-hand needle; draw through a loop, sl the loop onto the left-hand needle and knit it together with the skipped st through the <I>back</I> loops, k1",*,k1
+419,Rickrack Stripes,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=419,4,W,A,*,purl,*,

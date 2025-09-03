@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1510,Two-color Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1510,1,R,A,k2*,"sl 2 wyib, k6",*,"sl 2 wyib, k2"
+1510,Two-color Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1510,2,W,A,p2*,"sl 2 wyif, p6",*,"sl 2 wyif, p2"
+1510,Two-color Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1510,3,R,B,k6*,"sl 2 wyib, k6",*,
+1510,Two-color Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1510,4,W,B,k6*,"sl 2 wyif, k6",*,

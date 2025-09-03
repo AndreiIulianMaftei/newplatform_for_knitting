@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,1,W,K4*,"p2, k6",*,"p2, k4"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,2,R,P3*,"RT, LT, p4",*,"RT, LT, p3"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,3,W,K3*,"p1, k2, p1, k4",*,"p1, k2, p1, k3"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,4,R,P2*,"RT, p2, LT, p2",*,
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,5,W,K2*,"p1, k4, p1, k2",*,
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,6,R,P1*,"RT, p4, LT",*,p1
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,7,W,K1*,"p1, k6, p1",*,k1
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,8,R,P1. k1*,"p6, skip 1 stitch and knit the second stitch, then knit skipped stitch through the back loop, then slip both stitches from the needle together",*,"p6, k1, p1"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,9,W,K1*,"p1, k6, p1",*,k1
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,10,R,P1*,"LT, p4, RT",*,p1
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,11,W,K2*,"p1, k4, p1, k2",*,
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,12,R,P2*,"LT, p2, RT, p2",*,
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,13,W,K3*,"p1, k2, p1, k4",*,"p1, k2, p1, k3"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,14,R,P3*,"LT, RT, p4",*,"LT, RT, p3"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,15,W,K4*,"p2, k6",*,"p2, k4"
+632,Twist-Stitch Lattice,Multiple of 8 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=632,16,R,P4*,"skip 1 stitch and knit the second stitch through the back loop, then knit the skipped stitch, then slip both stitches from the needle together, p6",*,"skip 1 stitch and knit the second stitch through the back loop, then knit the skipped stitch, then slip both stitches from the needle together, p6"

@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,1,R,A,*,knit,*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,2,W,A,*,purl,*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,3,R,B,k3*,"sl 1 wyib, k3",*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,4,W,B,k3*,"sl 1 wyif, k3",*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,5,R,A,k2*,"sl 1 wyib, k1",*,k1
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,6,W,A,p2*,"sl 1 wyif, p1",*,p1
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,7,R,B,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,8,W,B,k1*,"sl 1 wyif, k3",*,"sl 1 wyif, k1"
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,9,R,A,*,knit,*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,10,W,A,*,purl,*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,11,R,B,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,12,W,B,k1*,"sl 1 wyif, k3",*,"sl 1 wyif, k1"
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,13,R,A,k2*,"sl 1 wyib, k1",*,k1
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,14,W,A,p2*,"sl 1 wyif, p1",*,p1
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,15,R,B,k3*,"sl 1 wyib, k3",*,
+369,Macedonian,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=369,16,W,B,k3*,"sl 1 wyif, k3",*,

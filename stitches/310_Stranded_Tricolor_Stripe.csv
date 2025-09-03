@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,1,R,B,k1*,"sl 1 wyib, k1",*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,2,W,C,*,purl,*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,3,R,A,k2*,"sl 1 wyib, k1",*,k1
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,4,W,B,*,purl,*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,5,R,C,k1*,"sl 1 wyib, k1",*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,6,W,A,*,purl,*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,7,R,B,k2*,"sl 1 wyib, k1",*,k1
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,8,W,C,*,purl,*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,9,R,A,k1*,"sl 1 wyib, k1",*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,10,W,B,*,purl,*,
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,11,R,C,k2*,"sl 1 wyib, k1",*,k1
+310,Stranded Tricolor Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=310,12,W,A,*,purl,*,

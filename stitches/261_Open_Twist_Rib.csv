@@ -1,0 +1,6 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+261,Open Twist Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=261,1,R,*,"p1, k1-b, p1, k2",*,"p1,k1-b,p1"
+261,Open Twist Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=261,2,W,"k1,p1-b,k1*","p2, k1, p1-b, k1",*,
+261,Open Twist Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=261,3,R,*,"p1, k1-b, p1, k1, yo, k1",*,"p1,k1-b,p1"
+261,Open Twist Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=261,4,W,"k1,p1-b,k1*","p3, k1, p1-b, k1",*,
+261,Open Twist Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=261,5,R,*,"p1, k1-b, p1, k3; pass 3rd stitch on right-hand needle over first 2 stitches",*,"p1, k1-b, p1"

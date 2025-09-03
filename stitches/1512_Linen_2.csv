@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1512,Linen 2,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1512,1,W,B,k3*,"sl 1 wyif, k5",*,k2
+1512,Linen 2,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1512,2,R,B,k2*,"sl 1 wyib, k5",*,k3
+1512,Linen 2,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1512,3,W,A,*,"sl 1 wyif, k1",*,
+1512,Linen 2,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1512,4,R,A,*,"k1, sl 1 wyib",*,

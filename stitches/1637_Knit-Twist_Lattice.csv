@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,1,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,2,R,k1*,"LT, k4, RT",*,k1
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,3,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,4,R,k2*,"LT, k2, RT, k2",*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,5,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,6,R,k3*,"LT, RT, k4",*,k3
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,7,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,8,R,k4*,"RT, k6",*,k4
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,9,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,10,R,k3*,"RT, LT, k4",*,k3
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,11,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,12,R,k2*,"RT, k2, LT, k2",*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,13,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,14,R,k1*,"RT, k4, LT",*,k1
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,15,W,*,purl,*,
+1637,Knit-Twist Lattice,Multiple of 16 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1637,16,R,k8*,"LT, k6",*,k2

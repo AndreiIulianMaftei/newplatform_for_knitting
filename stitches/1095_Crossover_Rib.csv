@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,1,R,p1*,"k3, slip 1 wyib, p1, k3, p1, slip 1 wyib, k3, p1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,2,W,k1*,"p3, slip 1 wyib, (k2, slip 1 wyib) twice, p3, k1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,3,R,p1*,"k1,  RC, p1, k3, p1, LC, k1, p1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,4,W,k1*,"p4, k2, slip 1 wyib, k2, p4, k1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,5,R,p1*,"slip 1 wyib, (k3, p1) twice, k3, slip 1 wyib, p1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,6,W,k1*,"slip 1 wyib, p3, k2, slip 1 wyib, k2, p3, slip 1 wyib, k1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,7,R,p1*,"LC, k1, p1, k3, p1, k1, RC, p1",*
+1095,Crossover Rib,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1095,8,W,k1*,"p4, k2, slip 1 wyib, k2, p4, k1",*

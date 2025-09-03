@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1125,Diagonal Bands,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1125,1,R,p2*,RT,*,p2
+1125,Diagonal Bands,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1125,2,W,k2*,purl,*,k2
+1125,Diagonal Bands,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1125,3,R,"p2, k1*",RT,*,"k1, p2"
+1125,Diagonal Bands,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1125,4,W,k2*,purl,*,k2

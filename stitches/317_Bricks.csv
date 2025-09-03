@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,1,R,A,*,knit,*,
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,2,W,A,*,knit,*,
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,3,R,B,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,4,W,B,p1*,"sl 1 wyif, p3",*,"sl 1 wyif, p1"
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,5,R,A,*,knit,*,
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,6,W,A,*,knit,*,
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,7,R,B,k3*,"sl 1 wyib, k3",*,
+317,Bricks,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=317,8,W,B,p3*,"sl 1 wyif, p3",*,

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,1,W,*,knit,*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,2,R,*,knit,*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,3,W,P1*,"(yo) twice, sl 2 wyif, p3 tog, p2sso, (yo) twice, p1",*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,4,R,K1*,"(k1, p1) into double yo, k1, (p1, k1) into next double yo, k1",*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,5,W,*,knit,*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,6,R,*,knit,*,
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,7,W,P3-tog*,"(yo) twice, p1, (yo) twice, sl 2 wyif, p3 tog, p2sso",*,"(yo) twice, p1, (yo) twice, p3 tog"
+719,Shell Mesh,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=719,8,R,K1*,"(p1, k1) into double yo, k1, (k1, p1) into next double yo, k1",*,

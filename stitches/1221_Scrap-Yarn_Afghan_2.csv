@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1221,Scrap-Yarn Afghan 2,Multiple of 12 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1221,1,R,B,"k1, ssk*","k9, sl2-k1-p2sso",*,"k9, k2 tog, k1"
+1221,Scrap-Yarn Afghan 2,Multiple of 12 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1221,2,W,B,p6*,"(p1, yo, p1) in next stitch, p9",*,p6
+1221,Scrap-Yarn Afghan 2,Multiple of 12 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1221,3,R,A,"k1, ssk*","k9, sl2-k1-p2sso",*,"k9, k2 tog, k1"
+1221,Scrap-Yarn Afghan 2,Multiple of 12 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1221,4,W,A,p6*,"(p1, yo, p1) in next stitch, p9",*,p6

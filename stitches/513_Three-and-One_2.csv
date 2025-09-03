@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+513,Three-and-One 2,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=513,1,R,k3*,"sl 1 wyib, k3",*,
+513,Three-and-One 2,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=513,2,W,k3*,"sl 1 wyif, k3",*,
+513,Three-and-One 2,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=513,3,R,k1*,"sl 1 wyib, k3",*,"sl 1 wyib, k1"
+513,Three-and-One 2,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=513,4,W,k1*,"sl 1 wyif, k3",*,"sl 1 wyif, k1"

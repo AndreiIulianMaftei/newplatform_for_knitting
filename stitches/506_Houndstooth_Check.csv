@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+506,Houndstooth Check,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=506,1,R,"with color A, k1*","with color B, k1; with color A, k3",*,"with color B, k1; with color A, k2"
+506,Houndstooth Check,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=506,2,W,*,"with color B, p3; with color A, k1",*,
+506,Houndstooth Check,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=506,3,R,*,"with color B, k3; with color A, k1",*,
+506,Houndstooth Check,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=506,4,W,"with color A, p1*","with color B, p1; with color A, p3",*,"with color B, p1; with color A, p2"

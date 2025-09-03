@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,1,R,A,*,knit,*,
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,2,W,A,*,purl,*,
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,3,R,B,k1*,"k3, sl 1 wyib, k2",*,k1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,4,W,B,p1*,"p2, sl 1 wyif, p3",*,p1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,5,R,B,k1*,"k3, sl 1 wyib, k2",*,k1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,6,W,B,p1*,"p2, sl 1 wyif, p3",*,p1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,7,R,A,*,knit,*,
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,8,W,A,*,purl,*,
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,9,R,C,k1*,"sl 1 wyib, k5",*,k1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,10,W,C,p1*,"p5, sl 1 wyif",*,p1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,11,R,C,k1*,"sl 1 wyib, k5",*,k1
+1523,Three-color Honeycomb,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1523,12,W,C,p1*,"p5, sl 1 wyif",*,p1

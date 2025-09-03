@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+658,Raindrop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=658,1,W,*,purl,*,
+658,Raindrop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=658,2,R,K1*,"knit into next stitch in the row below, keeping the original stitch on the needle, then slip the new stitch onto the left-hand needle and knit it again, then knit the original stitch and pass the new stitch over it, k3",*,
+658,Raindrop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=658,3,W,*,purl,*,
+658,Raindrop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=658,4,R,K3*,"knit into next stitch in the row below, keeping the original stitch on the needle, then slip the new stitch onto the left-hand needle and knit it again, then knit the original stitch and pass the new stitch over it, k3",*,k1

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,1,R,P5*,"k1, yo, p5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,2,W,K5*,"p2, k5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,3,R,P5*,"k2, p5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,4,W,K5*,"p2, k5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,5,R,P5*,"k2, p5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,6,W,K5*,"p2 tog, k5",*,
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,7,R,P2*,"k1, yo, p5",*,"k1, yo, p2"
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,8,W,K2*,"p2, k5",*,"p2, k2"
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,9,R,P2*,"k2, p5",*,"k2, p2"
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,10,W,K2*,"p2, k5",*,"p2, k2"
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,11,R,P2*,"k2, p5",*,"k2, p2"
+731,Raindrops,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=731,12,W,k2*,"p2 tog, k5",*,"p2 tog, k2"

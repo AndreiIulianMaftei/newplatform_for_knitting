@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+789,Arrowhead Lace,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=789,1,W,*,purl,*,
+789,Arrowhead Lace,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=789,2,R,k1*,"(yo, ssk) twice, k1, (k2 tog, yo) twice, k1",*,
+789,Arrowhead Lace,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=789,3,W,*,purl,*,
+789,Arrowhead Lace,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=789,4,R,K2*,"yo, ssk, yo, sl 2 knitwise-k1-p2sso, yo, k2 tog, yo, k3",*,k2

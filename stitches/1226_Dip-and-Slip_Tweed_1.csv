@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,1,R,B,*,knit,*,
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,2,W,B,*,purl,*,
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,3,R,C,k3*,"dip st, k2, sl 1 wyib, k3, sl 1 wyib, k2",*,"dip st, k3"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,4,W,C,k1*,"p5, sl 1 wyif, p3, sl 1 wyif",*,"p5, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,5,R,A,k1*,"sl 1 wyib, k3, sl 1 wyib, k2, dip st, k2",*,"sl 1 wyib, k3, sl 1 wyib, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,6,W,A,k1*,"sl 1 wyif, p3, sl 1 wyif, p5",*,"sl 1 wyif, p3, sl1 wyif, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,7,R,B,k3*,"dip st, k2, sl 1 wyib, k3, sl 1 wyib, k2",*,"dip st, k3"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,8,W,B,k1*,"p5, sl 1 wyif, p3, sl 1 wyif",*,"p5, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,9,R,C,k1*,"sl 1 wyib, k3, sl 1 wyib, k2, dip st, k2",*,"sl 1 wyib, k3, sl 1 wyib, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,10,W,C,k1*,"sl 1 wyif, p3, sl 1 wyif, p5",*,"sl 1 wyif, p3, sl1 wyif, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,11,R,A,k3*,"dip st, k2, sl 1 wyib, k3, sl 1 wyib, k2",*,"dip st, k3"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,12,W,A,k1*,"p5, sl 1 wyif, p3, sl 1 wyif",*,"p5, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,13,R,B,k1*,"sl 1 wyib, k3, sl 1 wyib, k2, dip st, k2",*,"sl 1 wyib, k3, sl 1 wyib, k1"
+1226,Dip-and-Slip Tweed 1,Multiple of 10 stitches,plus 7 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1226,14,W,B,k1*,"sl 1 wyif, p3, sl 1 wyif, p5",*,"sl 1 wyif, p3, sl1 wyif, k1"

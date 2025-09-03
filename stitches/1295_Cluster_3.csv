@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,1,R,*,knit,*,
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,2,W,*,purl,*,
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,3,R,k3*,"slip 4 stitches as if to knit; k1; then one by one, pass each slip stitch over the knit stitch and drop it; k1",*,k3
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,4,W,p3*,"(p1, k1, p1, k1, p1) in next stitch; p1",*,p3
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,5,R,*,knit,*,
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,6,W,*,purl,*,
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,7,R,"slip 4 stitches as if to knit; k1; then one by one, pass each slip stitch over the knit stitch and drop it*","k1; slip 4 stitches as if to knit; k1; then one by one, pass each slip stitch over the knit stitch and drop it",*,
+1295,Cluster 3,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1295,8,W,"(p1, k1, p1, k1, p1) in next stitch*","p1; (p1, k1, p1, k1, p1) in next stitch",*,

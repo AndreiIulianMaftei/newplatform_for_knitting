@@ -1,0 +1,14 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,1,R,p1*,"(k1, p1, k1, p1, k1) in next stitch, p3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,2,W,*,"k3, p5",*,k1
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,3,R,p1*,"k5, p3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,4,W,*,"k3, p5",*,k1
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,5,R,p1*,"ssk, k1, k2-tog, p3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,6,W,*,"k3, p3",*,k1
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,7,R,p1*,"sl 1-k2-tog-psso, p1, (k1, p1, k1, p1, k1) in next stitch, p1",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,8,W,k1*,"p5, k3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,9,R,*,"p3, k5",*,p1
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,10,W,k1*,"p5, k3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,11,R,*,"p3, ssk, k1, k2-tog",*,p1
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,12,W,k1*,"p3, k3",*,
+1603,Tear  Drop,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1603,13,R,p1*,"(k1, p1, k1, p1, k1) in next stitch, p1, sl 1-k2-tog-psso, p1",*,

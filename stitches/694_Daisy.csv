@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+694,Daisy,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=694,1,R,*,knit,*,
+694,Daisy,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=694,2,W,K1*,"p3 tog, yo (wrapping yarn completely around needle), p same 3 stitches together again, k1",*,
+694,Daisy,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=694,3,R,*,knit,*,
+694,Daisy,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=694,4,W,"K1, p1, k1*","p3 tog, yo (wrapping yarn completely around needle), p same 3 stitches together again, k1",*,"p1, k1"

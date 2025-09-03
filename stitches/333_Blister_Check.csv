@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,1,W,A,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,2,R,B,*,knit,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,3,W,B,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,4,R,B,*,knit,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,5,W,B,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,6,R,A,k2*,"drop next stitch off needle and unravel 4 rows down, picking up Color A stitch from Row 1 below; insert needle into this stitch and under the 4 loose strands of Color B, and knit, catching the 4 loose strands behind the stitch; k3",*,k2
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,7,W,A,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,8,R,B,*,knit,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,9,W,B,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,10,R,B,*,knit,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,11,W,B,*,purl,*,
+333,Blister Check,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=333,12,R,A,k4*,"drop next stitch, unravel and knit Color A stitch from Row 5 below in the same manner as Row 6 was worked, k3",*,k1

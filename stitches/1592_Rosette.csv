@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1592,Rosette,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1592,1,R,*,knit,*,
+1592,Rosette,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1592,2,W,*,"p2-tog, leave on needle, knit the same two stitches together again and slip from needle together",*,
+1592,Rosette,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1592,3,R,*,knit,*,
+1592,Rosette,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1592,4,W,p1*,"p2-tog, leave on needle, knit the same two stitches together again and slip from needle together",*,p1

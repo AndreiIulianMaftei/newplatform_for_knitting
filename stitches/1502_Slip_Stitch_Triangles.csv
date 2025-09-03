@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,1,R,*,knit,*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,2,W,*,purl,*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,3,R,k1*,"sl 5 wyif, k1",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,4,W,*,"p2, sl 4 wyib",*,"sl 4 wyib, p1"
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,5,R,k1*,"sl 3 wyif, k3",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,6,W,*,"p4, sl 2 wyib",*,p1
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,7,R,k1*,"sl 1 wyif, k5",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,8,W,*,purl,*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,9,R,k1*,"sl 1 wyif, k5",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,10,W,*,"p4, sl 2 wyib",*,p1
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,11,R,k1*,"sl 3 wyif, k3",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,12,W,*,"p2, sl 4 wyib",*,"sl 4 wyib, p1"
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,13,R,k1*,"sl 5 wyif, k1",*,
+1502,Slip Stitch Triangles,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1502,14,W,*,purl,*,

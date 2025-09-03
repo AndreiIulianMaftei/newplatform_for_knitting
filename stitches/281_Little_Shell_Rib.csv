@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+281,Little Shell Rib,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=281,1,R,p2*,"k3, p2",*
+281,Little Shell Rib,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=281,2,W,k2*,"p3, k2",*
+281,Little Shell Rib,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=281,3,R,p2*,"sl 1, k2-tog, psso the k2-tog, p2",*
+281,Little Shell Rib,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=281,4,W,k2*,"(p1, k2, p1) all in the same stitch, k2",*

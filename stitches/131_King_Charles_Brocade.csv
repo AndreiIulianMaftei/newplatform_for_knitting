@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,1,R,k1*,"p1, k9, p1, k1",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,2,W,k1*,"p1, k1, p7, k1, p1, k1",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,3,R,k1*,"p1, k1, p1, k5, (p1, k1) twice",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,4,W,p1*,"(p1, k1) twice, p3, k1, p1, k1, p2",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,5,R,k1*,"k2, (p1, k1) 3 times, p1, k3",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,6,W,p1*,"p3, (k1, p1) twice, k1, p4",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,7,R,k1*,"k4, p1, k1, p1, k5",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,8,W,p1*,"p3, (k1, p1) twice, k1, p4",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,9,R,k1*,"k2, (p1, k1) 3 times, p1, k3",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,10,W,p1*,"(p1, k1) twice, p3, k1, p1, k1, p2",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,11,R,k1*,"p1, k1, p1, k5, (p1, k1) twice",*
+131,King Charles Brocade,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=131,12,W,k1*,"p1, k1, p7, k1, p1, k1",*

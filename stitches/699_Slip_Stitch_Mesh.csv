@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,1,R,*,purl,*,
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,2,W,*,knit,*,
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,3,R,K2*,"sl 1 wyib, k1",*,
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,4,W,*,"K1, sl 1 wyif",*,k2
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,5,R,K1*,"yo, k2 tog",*,k1
+699,Slip Stitch Mesh,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=699,6,W,*,purl,*,

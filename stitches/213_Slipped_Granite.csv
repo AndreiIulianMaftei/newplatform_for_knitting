@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+213,Slipped Granite,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=213,1,W,*,"k1, p1",*,
+213,Slipped Granite,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=213,2,R,*,"p1, sl 1 wyib, k2; increase 1 by picking up a thread between the stitches of the prior row and knitting into the back of that thread; then pass the slipped stitch over the k2 and the increase stitch",*,"p1, k1"
+213,Slipped Granite,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=213,3,W,*,"k1, p1",*,
+213,Slipped Granite,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=213,4,R,"p1, k1*","p1, sl 1 wyib, k2; increase 1 by picking up a thread between the stitches of the prior row and knitting into the back of that thread; then pass the slipped stitch over the k2 and the increase stitch",*,

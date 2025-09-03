@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,1,R,K2*,"p3, k5,",*,k1
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,2,W,P1*,"p5, k3",*,p2
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,3,R,K2*,"p1, yo, p2 tog, k5",*,k1
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,4,W,P1*,"p5, k3",*,p2
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,5,R,K2*,"p3, k5",*,k1
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,6,W,*,purl,*,
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,7,R,K1*,"k5, p3",*,k2
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,8,W,P2*,"k3, p5",*,p1
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,9,R,K1*,"k5, p1, yo, p2 tog",*,k2
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,10,W,P2*,"k3, p5",*,p1
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,11,R,K1*,"k5, p3",*,k2
+735,Eyelet Check,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=735,12,W,*,purl,*,

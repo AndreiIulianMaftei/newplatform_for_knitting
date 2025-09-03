@@ -1,0 +1,19 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,1,R,*,knit,*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,2,W,p2*,"(k1, p1) twice, k1, p2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,3,R,k3*,"p1, k1, p1, k4",*,k3
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,4,W,p2*,"(k1, p1) twice, k1, p2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,5,R,k3*,"p1, k1, p1, k4",*,k3
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,6,W,p2*,"(k1, p1) twice, k1, p2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,7,R,k3*,"p1, k1, p1, k4",*,k3
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,8,W,p2*,"k12, p2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,9,R,k2*,"p12, k2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,10,W,*,purl,*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,11,R,k2*,"(p1, k1) twice, p1, k2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,12,W,p3*,"k1, p1, k1, p4",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,13,R,k2*,"(p1, k1) twice, p1, k2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,14,W,p3*,"k1, p1, k1, p4",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,15,R,k2*,"(p1, k1) twice, p1, k2",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,16,W,p3*,"k1, p1, k1, p4",*,
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,17,R,p7*,"k2, p12",*,"k2, p7"
+11,Square Lattice,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=11,18,W,k7*,"p2, k12",*,"p2, k7"

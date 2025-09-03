@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,1,W,*,purl,*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,2,R,K1*,"k2 tog, yo, k1, yo, ssk, k1",*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,3,W,*,purl,*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,4,R,K2 tog*,"yo, k3, yo, sl 2 knitwise-k1-p2sso",*,ssk
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,5,W,*,purl,*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,6,R,K1*,"yo, ssk, k1, k2 tog, yo, k1",*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,7,W,*,purl,*,
+840,Miniature Leaf 1,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=840,8,R,k2*,"yo, sl 2 knitwise-k1-p2sso, yo, k3",*,k2

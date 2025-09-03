@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,1,R,A,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,2,W,A,*,purl,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,3,R,A,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,4,W,A,*,purl,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,5,R,B,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,6,W,B,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,7,R,C,k1*,"sl 1 wyib, k1",*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,8,W,C,k1*,"sl 1 wyif, k1",*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,9,R,B,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,10,W,B,*,knit,*,
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,11,R,A,k2*,"sl 1 wyib, k1",*,k1
+304,Stripe and Spot,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=304,12,W,A,p2*,"sl 1 wyif, p1",*,p1

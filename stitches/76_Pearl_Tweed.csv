@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,1,R,B,k1*,"sl 2 wyif, k1",*,k1
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,2,W,B,p1*,"k1, p1, sl 1 wyif",*,p1
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,3,R,A,k3*,"sl 1 wyib, k2",*,"sl 1, k1"
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,4,W,A,*,purl,*,
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,5,R,B,k2*,"sl 2 wyif, k1",*,
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,6,W,B,p2*,"sl 1 wyif, k1, p1",*,
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,7,R,A,k1*,"sl 1 wyib, k2",*,k1
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,8,W,A,*,purl,*,
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,9,R,B,"k1, sl 1 wyif*","k1, sl 2 wyif",*,"k1, sl 1 wyif, k1"
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,10,W,B,p1*,"sl 1 wyif, k1, p1",*,p1
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,11,R,A,k2*,"sl 1 wyib, k2",*,
+76,Pearl Tweed,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=76,12,W,A,*,purl,*,

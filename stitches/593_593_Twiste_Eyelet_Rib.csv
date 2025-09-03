@@ -1,0 +1,6 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+593,593 Twiste Eyelet Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=593,1,R,*,"p1, k1-b, p1, k2",*,"p1, k1-b, p1"
+593,593 Twiste Eyelet Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=593,2,W,"k1, p1-b, k1*","p2, k1, p1-b, k1",*,
+593,593 Twiste Eyelet Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=593,3,R,*,"p1, k1-b, p1, k1, yo, k1",*,"p1, k1-b, p1"
+593,593 Twiste Eyelet Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=593,4,W,"k1, p1-b, k1*","p3, k1 p1-b, k1",*,
+593,593 Twiste Eyelet Rib,Multiple of 5 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=593,5,R,*,"p1, k1-b, p1, k3, pass 3rd st on right needle over first 2 sts",*,"p1, k1-b, p1"

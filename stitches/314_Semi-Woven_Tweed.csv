@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,1,R,B,k1*,"sl 1 wyib, k1",*,
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,2,W,B,*,purl,*,
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,3,R,A,k1*,"sl 1 wyif, k1",*,
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,4,W,A,*,purl,*,
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,5,R,B,k2*,"sl 1 wyib, k1",*,k1
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,6,W,B,*,purl,*,
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,7,R,A,k2*,"sl 1 wyif, k1",*,k1
+314,Semi-Woven Tweed,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=314,8,W,A,*,purl,*,

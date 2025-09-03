@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+52,Twice-Turned,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=52,1,W,*,purl,*
+52,Twice-Turned,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=52,2,R,k1*,"keeping yarn in back, insert needle from the left into back loop of next st, as if to p1-b, and <i>slip</i> the st from this position, k1",*
+52,Twice-Turned,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=52,3,W,p1*,"sl 1 wyif, p1",*
+52,Twice-Turned,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=52,4,R,k1*,"k1-b, k1",*

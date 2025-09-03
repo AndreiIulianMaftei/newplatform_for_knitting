@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+510,Slip-Stitch Honeycomb,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=510,1,R,*,knit,*,
+510,Slip-Stitch Honeycomb,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=510,2,W,k1*,"sl 1 wyib, k1",*,
+510,Slip-Stitch Honeycomb,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=510,3,R,*,knit,*,
+510,Slip-Stitch Honeycomb,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=510,4,W,k2*,"sl 1 wyib, k1",*,k1

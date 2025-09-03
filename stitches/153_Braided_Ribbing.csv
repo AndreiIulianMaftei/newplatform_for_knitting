@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+153,Braided Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=153,1,R,p2*,"insert needle from back to front between first and second stitches on left-hand needle and knit the second stitch, then knit the first stitch and slip both stitches from needle together; k1, p2",*
+153,Braided Ribbing,Multiple of 5 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=153,2,W,k2*,"skip 1 stitch and purl the second stitch, then purl the skipped stitch, slip both stitches from the needle together; p1, k2",*

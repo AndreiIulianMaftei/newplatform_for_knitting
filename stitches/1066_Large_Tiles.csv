@@ -1,0 +1,21 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,1,R,*,purl,*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,2,W,*,knit,*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,3,R,*,"k2, (p1, k1) 4 times, p1, k2, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,4,W,*,"k2, p2, (k1, p1) 4 times, k1, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,5,R,*,"k3, (p1, k1) 3 times, p1, k3, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,6,W,*,"k2, p3, (k1, p1) 3 times, k1, p3",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,7,R,*,"k2, (p1, k1) 4 times, p1, k2, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,8,W,*,"k2, p2, (k1, p1) 4 times, k1, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,9,R,*,"k3, (p1, k1) 3 times, p1, k3, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,10,W,*,"k2, p3, (k1, p1) 3 times, k1, p3",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,11,R,*,"k2, (p1, k1) 4 times, p1, k2, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,12,W,*,"k2, p2, (k1, p1) 4 times, k1, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,13,R,*,"k2, p13",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,14,W,*,"k13, p2",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,15,R,*,"k2, p13",*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,16,W,*,purl,*,
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,17,R,p11*,"k2, p13",*,"k2, p2"
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,18,R,"k2, p2*","k13, p2",*,k11
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,19,R,p11*,"k2, p13",*,"k2, p2"
+1066,Large Tiles,Multiple of 15 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1066,20,W,*,purl,*,

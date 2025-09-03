@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,1,R,*,knit,*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,2,W,*,purl,*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,3,R,k3*,"k2-tog, k1, yo, k6",*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,4,W,p1*,"p6, yo, p1, p2-tog",*,p2
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,5,R,k1*,"k2-tog, k1, yo, k6",*,k2
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,6,W,p3*,"p6, yo, p1, p2-tog",*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,7,R,*,knit,*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,8,W,*,purl,*,
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,9,R,*,"k6, yo, k1, ssk",*,k3
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,10,W,p2*,"p2-tog-b, p1, yo, p6",*,p1
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,11,R,k2*,"k6, yo, k1, ssk",*,k1
+1826,Alternating Leaf 2,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1826,12,W,*,"p2-tog-b, p1, yo, p6",*,p3

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+280,Italian Chain Ribbing,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=280,1,W,k2*,"p4, k2",*
+280,Italian Chain Ribbing,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=280,2,R,p2*,"k2 tog, (yo) twice, ssk, p2",*
+280,Italian Chain Ribbing,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=280,3,W,k2*,"p1, purl into front of 1st yo, purl into back of 2nd yo, p1, k2",*
+280,Italian Chain Ribbing,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=280,4,R,p2*,"yo, ssk, k2 tog, yo, p2",*

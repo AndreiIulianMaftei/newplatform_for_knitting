@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,1,R,*,purl,*,
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,2,W,k4*,"p3, k7",*,k4
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,3,R,p4*,"k3, p7",*,p4
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,4,W,k4*,"p3, k7",*,k4
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,5,R,*,purl,*,
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,6,W,*,knit,*,
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,7,R,k2*,"p7, k3",*,k2
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,8,W,p2*,"k7, p3",*,p2
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,9,R,k2*,"p7, k3",*,k2
+556,556 Little Windows,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=556,10,W,*,knit,*,

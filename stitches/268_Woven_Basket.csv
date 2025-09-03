@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+268,Woven Basket,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=268,1,R,*,"Pass right-hand needle behind first knit stitch, knit the 2nd stitch, then knit the first stitch",*,
+268,Woven Basket,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=268,2,W,p1*,"purl the second stitch on the left-hand needle, then purl the first stitch on the left-hand needle",*,p1

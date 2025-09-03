@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+981,Flying Wings,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=981,1,R,*,knit,*,
+981,Flying Wings,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=981,2,W,*,purl,*,
+981,Flying Wings,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=981,3,R,*,"skip 2 stitches, knit into 3rd stitch on left-hand needle and pull through a loop; then knit 1st and 2nd stitches and slip all 3 stitches from needle together; slip next stitch to dpn and hold in front; k2, then k1 from dpn",*,
+981,Flying Wings,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=981,4,W,P5*,skip 1 stitch and purl the 2nd stitch on left-hand needle; then purl the skipped stitch and slip both stitches from needle together; p4,*,p1

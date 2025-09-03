@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,1,R,p3*,"yo, k1, yo, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,2,W,*,"k3, p3",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,3,R,p3*,"yo, p3, yo, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,4,W,*,"k3, p5",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,5,R,p3*,"yo, k1; slip 1, k2-tog, psso, k1, yo, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,6,W,*,"k3, p5",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,7,R,p3*,"yo, k1; slip 1, k2-tog, psso, k1, yo, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,8,W,*,"k3, p5",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,9,R,p3*,"k1, slip 1-k2-tog-psso, k1, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,10,W,*,"k3, p3",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,11,R,p3*,"slip 1, k2-tog, psso, p6",*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,12,W,*,"k3, p1",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,13,R,*,purl,*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,14,W,*,"k3, p1",*,k3
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,15,R,*,purl,*,
+1283,Palmetto,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1283,16,W,*,"k3, p1",*,k3

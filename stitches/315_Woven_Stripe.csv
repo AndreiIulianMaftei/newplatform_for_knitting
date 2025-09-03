@@ -1,0 +1,21 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,1,R,A,*,knit,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,2,W,A,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,3,R,B,k1*,"sl 1 wyif, k1",*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,4,W,B,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,5,R,A,k2*,"sl 1 wyif, k1",*,k1
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,6,W,A,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,7,R,A,*,knit,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,8,W,A,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,9,R,B,k1*,"sl 1 wyif, k1",*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,10,W,B,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,11,R,B,*,knit,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,12,W,B,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,13,R,A,k1*,"sl 1 wyif, k1",*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,14,W,A,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,15,R,B,k2*,"sl 1 wyif, k1",*,k1
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,16,W,B,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,17,R,B,*,knit,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,18,W,B,*,purl,*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,19,R,A,k1*,"sl 1 wyif, k1",*,
+315,Woven Stripe,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=315,20,W,A,*,purl,*,

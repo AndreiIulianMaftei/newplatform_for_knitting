@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1388,Open And Closed Fans,Multiple of 9 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1388,1,R,k2*,"yo, k2, ssk, k2-tog, k2, yo, k1",*,
+1388,Open And Closed Fans,Multiple of 9 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1388,2,W,*,purl,*,
+1388,Open And Closed Fans,Multiple of 9 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1388,3,R,k1*,"yo, k2, ssk, k2-tog, k2, yo, k1",*,k1
+1388,Open And Closed Fans,Multiple of 9 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1388,4,W,*,purl,*,

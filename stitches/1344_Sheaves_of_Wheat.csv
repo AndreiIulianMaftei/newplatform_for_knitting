@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,1,R,*,"k4, p2",*,k1
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,2,W,p1*,"k2, p4",*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,3,R,*,"insert right needle between 4th and 5th stitch on left needle and k1, drawing up a longer stitch than usual; k4, slip 1 loop of long stitch over the 4 stitches to wrap them; p2",*,k1
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,4,W,p1*,"k2, p4",*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,5,R,*,knit,*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,6,W,*,purl,*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,7,R,k1*,"p2, k4",*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,8,W,*,"p4, k2",*,p1
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,9,R,k1*,"p2; insert right needle between 4th and 5th stitch on left needle and k1, drawing up a longer stitch than usual; k4, slip 1 loop of long stitch over the 4 stitches to wrap them;",*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,10,W,*,"p4, k2",*,p1
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,11,R,*,knit,*,
+1344,Sheaves of Wheat,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1344,12,W,*,purl,*,

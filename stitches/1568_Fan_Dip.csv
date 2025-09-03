@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,1,W,A,p8*,"k1, p9",*,p3
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,2,R,B,*,knit,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,3,W,B,*,purl,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,4,R,B,*,knit,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,5,W,B,*,purl,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,6,R,A,*,"(k1, insert right hand needle from the front under the purled Color A stitch 5 rows below and draw up a loop; knit the next stitch and pass the loop over the stitch just worked) 3 times; k4",*,k2
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,7,W,A,p3*,"k1, p9",*,p8
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,8,R,B,*,knit,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,9,W,B,*,purl,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,10,R,B,*,knit,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,11,W,B,*,purl,*,
+1568,Fan Dip,Multiple of 10 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1568,12,R,A,k5*,"(k1, insert right hand needle from the front under the purled Color A stitch 5 rows below and draw up a loop; knit the next stitch and pass the loop over the stitch just worked) 3 times; k4",*,k1

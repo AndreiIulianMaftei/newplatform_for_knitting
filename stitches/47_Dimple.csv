@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,1,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,2,W,k1*,"sl 3 wyif, p3",*,"sl 3, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,3,R,k1*,"sl 3 wyib, k3",*,"sl 3, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,4,W,k1*,"sl 3 wyif, p3",*,"sl 3, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,5,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,6,W,*,purl,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,7,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,8,W,"k1, p1 *","insert needle from below under the 3 loose strands of Rows 2, 3 and 4, and knit next st, bring st out under strands, p5",*,"insert needle from below under the 3 loose strands of Rows 2, 3 and 4, and knit next st, bring st out under strands, p1, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,9,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,10,W,k1*,"p3, sl 3 wyif",*,"p3, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,11,R,k4*,"sl 3 wyib, k3",*,k1
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,12,W,k1*,"p3, sl 3 wyif",*,"p3, k1"
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,13,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,14,W,*,purl,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,15,R,*,knit,*,
+47,Dimple,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=47,16,W,"k1, p4*","knit next st under 3 loose strands of Rows 10, 11 and 12, p5",*,"knit next st under 3 loose strands of Rows 10, 11 and 12; p4, k1"

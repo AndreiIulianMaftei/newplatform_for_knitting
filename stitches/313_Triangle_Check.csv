@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,1,R,A,k1*,"sl 1 wyib, k5",*,"sl 1 wyib, k1"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,2,W,A,k1*,"sl 1 wyif, p5",*,"sl 1 wyif, k1"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,3,R,B,k3*,"sl 3 wyib, k3",*,
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,4,W,B,"k1,p2*","sl 3 wyif, p3",*,"sl 3 wyif, p2, k1"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,5,R,A,"k1, sl 2 wyib*","k3, sl 3 wyib",*,"k3, sl 2 wyib, k1"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,6,W,A,"k1, sl 2 wyif*","p3, sl 3 wyif",*,"p3, sl 2 wyif, k1"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,7,R,B,k4*,"sl 1 wyib, k5",*,"sl 1 wyib, k4"
+313,Triangle Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=313,8,W,B,"k1, p3*","sl 1 wyif, p5",*,"sl 1 wyif, p3, k1"

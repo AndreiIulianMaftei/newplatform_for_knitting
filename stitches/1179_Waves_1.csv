@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,1,R,k2*,"slip 1 stitch as if to purl, k3",*,k2
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,2,W,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,3,R,*,"RC, k1",*,"RC, k2"
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,4,W,k1*,"p3, k1",*,
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,5,R,k2*,"slip 1 stitch as if to purl, k3",*,k2
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,6,W,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,7,R,k2*,"LC, k1,",*,LC
+1179,Waves 1,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1179,8,W,k1*,"p3, k1",*,

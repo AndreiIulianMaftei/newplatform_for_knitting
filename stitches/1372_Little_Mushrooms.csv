@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,1,R,k1*,"p2, k1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,2,W,p1*,"k2, p1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,3,R,k1*,"p2, (k1, p1, k1, p1) in next stitch, p2, k1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,4,W,p1*,"k8, p1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,5,R,k1*,"p2, k4, p2, k1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,6,W,p1*,"k8, p1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,7,R,k1*,"p2, k4-tog, p2, k1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,8,W,p1*,"k2, p1",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,9,R,"(k1, p1, k1, p1) in next stitch*","p2, k1, p2, (k1, p1, k1, p1) in next stitch",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,10,W,k6*,"p1, k8",*,k6
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,11,R,k4*,"p2, k1, p2, k4",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,12,W,k6*,"p1, k8",*,k6
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,13,R,k4-tog*,"p2, k1, p2, k4-tog",*,
+1372,Little Mushrooms,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1372,14,W,p1*,"k2, p1",*,

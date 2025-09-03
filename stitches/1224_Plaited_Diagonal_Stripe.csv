@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,1,R,B,k1*,"sl 1 wyib, k2, psso the 2 knit stitches, sl 1 wyib",*,k1
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,2,W,B,*,"p1, sl 1 wyif, p1, yo",*,p2
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,3,R,A,k3*,"sl 2 wyib, k2, pass the <i>second</i> slipped stitch over the 2 knit stitches",*,"sl 1, k2"
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,4,W,A,p2*,"sl 1 wyif, p1, yo, p1",*,"sl 1, p3"
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,5,R,B,k2*,"sl 2 wyib, k2, pass the <i>second</> slipped stitch over the 2 knit stitches",*,"sl 1, k3"
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,6,W,B,p3*,"sl 1 wyif, p1, yo, p1",*,"sl 1, p2"
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,7,R,A,k1*,"sl 2 wyib, k2, pass the <i>second</i> slipped stitch over the 2 knit stitches",*,k1
+1224,Plaited Diagonal Stripe,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1224,8,W,A,p2*,"yo, p1, sl 1 wyif, p1",*,

@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1547,Chain of Triangles 2,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1547,1,W,A,k2*,"p2, k1",*,k1
+1547,Chain of Triangles 2,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1547,2,R,B,"k1, (k1, p1) in next stitch  *","s1 wyib, k3, sl 1 wyib, (k1, p1, k1) in next stitch",*,"ending sl 1 wyib, k3, sl 1 wyib, (k1, p1) in next stitch, k1"
+1547,Chain of Triangles 2,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1547,3,W,B,p3*,"sl 1 wyif, p3",*,
+1547,Chain of Triangles 2,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1547,4,R,A,k3*,"ssk, k1, k2-tog, k3",*,

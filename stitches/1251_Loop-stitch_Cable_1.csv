@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1251,Loop-stitch Cable 1,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1251,1,R,p2*,"k10, p2",*
+1251,Loop-stitch Cable 1,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1251,2,W,k2*,"loop-st, p8, loop-st, p2",*
+1251,Loop-stitch Cable 1,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1251,3,R,p2*,"CO, p2",*
+1251,Loop-stitch Cable 1,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1251,4,W,k2*,"p10, k2",*

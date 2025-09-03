@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+646,Coral Knot,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=646,1,R,K1*,k2 tog,*,k1
+646,Coral Knot,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=646,2,W,K1*,"K1, insert needle under running thread between stitch just worked and the next stitch, and knit this thread",*,k1
+646,Coral Knot,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=646,3,R,*,knit,*,
+646,Coral Knot,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=646,4,W,*,purl,*,

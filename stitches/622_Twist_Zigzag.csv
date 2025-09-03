@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,1,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,2,R,k3*,"LT 3 times, k3",*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,3,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,4,R,k4*,"LT 3 times, k3",*,k2
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,5,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,6,R,LT*,"k3, LT 3 times",*,k1
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,7,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,8,R,"k1, LT*","k3, LT 3 times",*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,9,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,10,R,"k1, RT*","k3, RT 3 times",*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,11,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,12,R,RT*,"k3, RT 3 times",*,k1
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,13,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,14,R,k4*,"RT, 3 times, k3",*,k2
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,15,W,*,purl,*,
+622,Twist Zigzag,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=622,16,R,k3*,"RT 3 times, k3",*,

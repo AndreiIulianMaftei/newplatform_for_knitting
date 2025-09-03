@@ -1,0 +1,11 @@
+KNITTING FILES ANALYSIS SUMMARY
+==================================================
+
+Total CSV files analyzed: 2000
+Valid files: 406
+Invalid files: 1594
+
+Files created:
+- valid_files_list.txt
+- invalid_files_list.txt
+- stitch_analysis_summary.txt

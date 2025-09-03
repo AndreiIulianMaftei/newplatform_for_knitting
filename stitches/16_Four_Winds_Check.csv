@@ -1,0 +1,19 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,1,R,k1*,"(p1, k1-b) twice, k10",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,2,W,p1*,"p7, k3, (p1-b, k1) twice",*,p1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,3,R,k1*,"(p1, k1-b) twice, k10",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,4,W,p1*,"p7, k3, (p1-b, k1) twice",*,p1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,5,R,*,knit,*,
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,6,W,p8*,"(k1, p1-b) twice, p10",*,"(k1, p1-b) twice, p4"
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,7,R,k1*,"p3, (k1-b, p1) twice, k7",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,8,W,p8*,"(k1, p1-b) twice, p10",*,"(k1, p1-b) twice, p4"
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,9,R,k1*,"p3, (k1-b, p1) twice, k7",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,10,W,p1*,"(k1, p1-b) twice, p10",*,p1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,11,R,k1*,"k7, p3, (k1-b, p1) twice",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,12,W,p1*,"(k1, p1-b) twice, p10",*,p1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,13,R,k1*,"k7, p3, (k1-b, p1) twice",*,k1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,14,W,*,purl,*,
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,15,R,k8*,"(p1, k1-b) twice, k10",*,k4
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,16,W,p1*,"k3, (p1-b, k1) twice, p7",*,p1
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,17,R,k8*,"(p1, k1-b) twice, k10",*,k4
+16,Four Winds Check,Multiple of 14 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=16,18,W,p1*,"k3, (p1-b, k1) twice, p7",*,p1

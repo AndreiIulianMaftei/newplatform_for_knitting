@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,1,R,A,*,knit,*,
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,2,W,A,k2*,p1 wrapping yarn twice around needle to make long stitch; k3,*,k2
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,3,R,B,p2*,sl 1 wyib dropping extra loop; p3,*,p2
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,4,W,B,k2*,"sl 1 wyif, k3",*,"sl 1 wyif, k2"
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,5,R,A,p2*,"k1, p3",*,"k1, p2"
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,6,W,A,k2*,"p1, k3",*,"p1, k2"
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,7,R,B,*,knit,*,
+1530,Long Stitch and Stripes,Multiple of 4 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1530,8,W,B,*,purl,*,

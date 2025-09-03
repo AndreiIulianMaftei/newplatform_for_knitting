@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,1,W,k1*,purl,*,k1
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,2,R,p3*,"k2-tog, k3, yo, k3, ssk, p3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,3,W,k3*,"p4, (k1, p1) into the yo of previous row, p4, k3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,4,R,p3*,"k2-tog, (k2, yo) twice, k2, ssk, p3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,5,W,k3*,"p10, k3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,6,R,p3*,"k2-tog, k1, yo, k4, yo, k1, ssk, p3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,7,W,k3 *,"p10, k3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,8,R,p3*,"k2-tog, yo, k6, yo, ssk, p3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,9,W,k3 *,"p10, k3",*,
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,10,R,p2*,"k2-tog, yo, k8, yo, ssk, p1",*,p1
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,11,W,k2*,"p12, k1",*,k1
+1785,Flying Chevron,Multiple of 13 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1785,12,R,"p1, k2-tog*","yo, k10, yo, sl 1-k2-tog-psso",*,"yo, k10, yo, ssk, p1"

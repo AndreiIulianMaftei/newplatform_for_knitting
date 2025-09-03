@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1207,Plain and Fancy Stripes,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1207,1,R,k5*,"RC, LC, k6",*,k5
+1207,Plain and Fancy Stripes,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1207,2,W,*,purl,*,
+1207,Plain and Fancy Stripes,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1207,3,R,k4*,"RC, k2, LC, k4",*,
+1207,Plain and Fancy Stripes,Multiple of 10 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1207,4,W,*,purl,*,

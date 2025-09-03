@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,1,R,k1*,"slip 1, K1, YO, pass the slip stitch over both the knit stitch and the yarn over and drop it",*,k1
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,2,W,*,purl,*,
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,3,R,k1*,"slip 1, K1, YO, pass the slip stitch over both the knit stitch and the yarn over and drop it",*,k1
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,4,W,*,purl,*,
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,5,R,*,knit,*,
+1019,Mock Braids,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1019,6,W,*,purl,*,

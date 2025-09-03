@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,1,W,A,*,purl,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,2,R,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,3,W,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,4,R,B,*,purl,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,5,W,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,6,W,A,k2*,"drop next stitch off needle and unravel 4 rows down; insert needle into the front of Color A stitch in 5th row below and knit, catching the 4 loose strands in stitch; k3",*,end last repeat k2
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,7,R,A,*,purl,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,8,W,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,9,R,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,10,W,B,*,purl,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,11,R,B,*,knit,*,
+1574,Paving Stones,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1574,12,W,A,k4*,"drop next stitch off needle and unravel 4 rows down; insert needle into the front of Color A stitch in 5th row below and knit, catching the 4 loose strands in stitch; k3",*,end last repeat k1

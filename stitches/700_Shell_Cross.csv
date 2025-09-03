@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,1,W,*,purl,*,
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,2,R,K1*,"yo, k1",*,k1
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,3,W,*,"Purl, dropping all yo's off needle",*,
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,4,R,K1*,"knit into 4th stitch on left-hand needle, then into the 3rd stitch on left-hand needle; then knit the 1st stitch on left-hand needle and slip this stitch from the needle, then knit the 2nd stitch and slip all 3 stitches from needle together",*,k1
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,5,W,*,purl,*,
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,6,R,K2*,"yo, k1",*,k2
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,7,W,*,"Purl, dropping all yo's off needle",*,
+700,Shell Cross,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=700,8,R,K3*,"knit into 4th stitch on left-hand needle, then into the 3rd stitch on left-hand needle; then knit the 1st stitch on left-hand needle and slip this stitch from the needle, then knit the 2nd stitch and slip all 3 stitches from needle together",*,K3

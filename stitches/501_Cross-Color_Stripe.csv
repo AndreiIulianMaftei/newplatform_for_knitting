@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+501,Cross-Color Stripe,Multiple of 14 stitches,plus 9 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=501,1,R,B,k1*,"sl 1 wyib, k5, (sl 1 wyib, k3) twice",*,"sl 1 wyib, k5, sl 1 wyib, k1"
+501,Cross-Color Stripe,Multiple of 14 stitches,plus 9 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=501,2,W,B,k1*,"sl 1 wyif, k5, (sl 1 wyif, p3) twice",*,"sl 1 wyif, k5, sl 1 wyif, k1"
+501,Cross-Color Stripe,Multiple of 14 stitches,plus 9 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=501,3,R,A,k1*,"(k3, sl 1 wyib) twice, k5, sl 1 wyib",*,"k3, sl 1 wyib, k4"
+501,Cross-Color Stripe,Multiple of 14 stitches,plus 9 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=501,4,W,A,k1*,"(p3, sl 1 wyif) twice, k5, sl 1 wyif",*,"p3, sl 1 wyif, p3, k1"

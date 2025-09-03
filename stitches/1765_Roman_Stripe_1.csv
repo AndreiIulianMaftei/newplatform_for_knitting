@@ -1,0 +1,8 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,1,R,k1*,"yo, k1",*,k1
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,2,W,k1*,purl,*,k1
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,3,R,k1*,k2-tog,*,k1
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,4,W,k1*,"yo, k2-tog",*,k1
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,5,R,k1*,"yo, k2-tog",*,k1
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,6,W,*,knit,*,
+1765,Roman Stripe 1,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1765,7,R,*,knit,*,

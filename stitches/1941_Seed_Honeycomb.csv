@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,1,R,*,"k3, p1, k2",*,k1
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,2,W,p1*,"(p1, k1) twice, p2",*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,3,R,*,"k1, p1, k3, p1",*,k1
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,4,W,k1*,"p5, k1",*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,5,R,*,knit,*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,6,W,k1*,"p5, k1",*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,7,R,*,knit,*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,8,W,k1*,"p5, k1",*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,9,R,*,"k1, p1, k3, p1",*,k1
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,10,W,p1*,"(p1, k1) twice, p2",*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,11,R,*,"k3, p1, k2",*,k1
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,12,W,*,purl,*,
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,13,R,*,"k3, p1, k2",*,k1
+1941,Seed Honeycomb,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1941,14,W,*,purl,*,

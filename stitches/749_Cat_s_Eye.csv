@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+749,Cat's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=749,1,R,K4*,"(yo) twice, k4",*,
+749,Cat's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=749,2,W,P2*,"p2 tog, (p1, k1) into 2 yo's of previous row, p2 tog",*,p2
+749,Cat's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=749,3,R,"K2, yo*","k4, (yo) twice",*,"k4, yo, k2"
+749,Cat's Eye,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=749,4,W,P3*,"(p2 tog) twice, (p1, k1) into 2 yo's",*,"(p2 tog) twice, p3"

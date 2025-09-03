@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1073,Twisted Stitch,Multiple of 13 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1073,1,R,"p2, k6, p1*","[(k1-b) twice, p1] twice, k6, p2",*,
+1073,Twisted Stitch,Multiple of 13 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1073,2,W,K2*,"(sl 1 wyif, yo, k1) three times, k1, (p2-b, k1) twice",*,K3
+1073,Twisted Stitch,Multiple of 13 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1073,3,R,p2*,"k1, (k2-tog through back loops, k1) twice, k2-tog-b, p1, (k2-b, p1) twice",*,p2
+1073,Twisted Stitch,Multiple of 13 stitches,plus 10 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1073,4,W,k2*,"(sl 1 wyif, yo, k1) three times, k1, (p2-b, k1) twice",*,k3

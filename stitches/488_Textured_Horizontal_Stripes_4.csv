@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+488,Textured Horizontal Stripes 4,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=488,1,R,B,k1*,"p1, k1",*
+488,Textured Horizontal Stripes 4,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=488,2,W,B,p1*,"k1, p1, then sl sts to the other end of the needle",*
+488,Textured Horizontal Stripes 4,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=488,3,R,A,p1*,"k1, p1",*
+488,Textured Horizontal Stripes 4,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=488,4,W,A,k1*,"p1, k1, then sl sts to the other end of the needle",*

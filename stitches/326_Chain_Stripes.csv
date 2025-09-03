@@ -1,0 +1,17 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,1,R,A,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,2,W,A,*,purl,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,3,R,B,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,4,W,B,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,5,R,A,k6*,"sl 2 wyib, k6",*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,6,W,A,p6*,"sl 2 wyif, p6",*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,7,R,B,k6*,"sl 2 wyib, k6",*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,8,W,B,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,9,R,A,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,10,W,A,*,purl,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,11,R,C,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,12,W,C,*,knit,*,
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,13,R,A,k2*,"sl 2 wyib, k6",*,"sl 2 wyib, k2"
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,14,W,A,p2*,"sl 2 wyif, p6",*,"sl 2 wyif, p2"
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,15,R,C,k2*,"sl 2 wyib, k6",*,"sl 2 wyib, k2"
+326,Chain Stripes,Multiple of 8 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=326,16,W,C,*,knit,*,

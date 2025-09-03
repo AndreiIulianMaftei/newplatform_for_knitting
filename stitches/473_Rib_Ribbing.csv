@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+473,Rib Ribbing,Multiple of 11 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=473,1,R,*,"p6, k1, p1, k1, p1, k1",*,p6
+473,Rib Ribbing,Multiple of 11 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=473,2,W,k6*,"p1, k1, p1, k1, p1, k6",*,

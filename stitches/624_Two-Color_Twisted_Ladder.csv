@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+624,Two-Color Twisted Ladder,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=624,1,R,A,k1*,"skip 1 stitch and knit into second stitch, then knit into skipped stitch, then slip both stitches from the needle together; k3",*,k1
+624,Two-Color Twisted Ladder,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=624,2,W,A,k1*,"p2, k3",*,"p2, k1"
+624,Two-Color Twisted Ladder,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=624,3,R,B,k1*,"sl 2 wyib, k3",*,"sl 2, k1"
+624,Two-Color Twisted Ladder,Multiple of 5 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=624,4,W,B,k1*,"sl 2 wyif, k3",*,"sl 2, k1"

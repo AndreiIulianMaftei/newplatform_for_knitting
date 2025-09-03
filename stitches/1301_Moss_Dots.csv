@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,1,R,k4 *,"p1, k1, p1, k3",*,k4
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,2,W,p5*,"k1, p5",*,
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,3,R,k4 *,"p1, k1, p1, k3",*,k4
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,4,W,p5*,"k1, p5",*,
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,5,R,*,knit,*,
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,6,W,*,purl,*,
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,7,R,k1*,"p1, k1, p1, k3",*,"(p1, k1) twice"
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,8,W,p2*,"k1, p5",*,"k1, p2"
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,9,R,k1*,"p1, k1, p1, k3",*,"(p1, k1) twice"
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,10,W,p2*,"k1, p5",*,"k1, p2"
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,11,R,*,knit,*,
+1301,Moss Dots,Multiple of 6 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1301,12,W,*,purl,*,

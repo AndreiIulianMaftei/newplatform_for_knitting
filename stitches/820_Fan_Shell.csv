@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,1,W,P4*,"k11, p4",*,
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,2,R,K4*,"p11, k4",*,
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,3,W,P2*,"p2 tog, p11, p2 tog-b",*,p2
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,4,R,K2*,"ssk, k9, k2 tog",*,k2
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,5,W,P2*,"p2 tog, p7, p2 tog-b",*,p2
+820,Fan Shell,Multiple of 15 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=820,6,R,K4*,"(yo, k1) 5 times, yo, k4",*,

@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,1,R,K3*,"P9, K5",*,"P9, K3"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,2,W,P2*,"(K3, P1) twice, K3, P3",*,"(K3, P1) twice, K3, P2"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,3,R,*,"K1, P3, K3, P1, K3, P3",*,K1
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,4,W,K3*,"P3, K3, P3, K5",*,"P3, K3, P3, K3"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,5,R,P2*,"K3, P5, K3, P3",*,"K3, P5, K3, P2"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,6,W,K1*,"P3, K3, P1, K3, P3, K1",*,
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,7,R,P2*,"K1, P3, K3, P3, K1, P3",*,"K1, P3, K3, P3, K1, P2"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,8,W,K5*,"P5, K9",*,"P5, K5"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,9,R,P2*,"K1, P3, K3, P3, K1, P3",*,"K1, P3, K3, P3, K1, P2"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,10,W,K1*,"P3, K3, P1, K3, P3, K1",*,
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,11,R,P2*,"K3, P5, K3, P3",*,"K3, P5, K3, P2"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,12,W,K3*,"P3, K3, P3, K5",*,"P3, K3, P3, K3"
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,13,R,*,"K1, P3, K3, P1, K3, P3",*,K1
+999,Palladian,Multiple of 14 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=999,14,W,p2*,"(K3, P1) twice, K3, P3",*,"(K3, P1) twice, K3, P2"

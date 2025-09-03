@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1272,Eyelets,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1272,1,R,*,knit,*,
+1272,Eyelets,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1272,2,W,k1*,"k1, yo twice",*,k2
+1272,Eyelets,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1272,3,R,k1*,"(make long stitch by slipping next stitch and dropping both yo that follow it) 3 times; return 3 long stitches to left needle and knit them together through back loops, then purl them and knit them again through back loops before dropping the original stitches from the left-hand needle",*,k1
+1272,Eyelets,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1272,4,W,*,purl,*,

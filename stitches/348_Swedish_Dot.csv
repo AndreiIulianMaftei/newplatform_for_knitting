@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,1,R,A,*,knit,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,2,W,A,*,purl,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,3,R,A,*,knit,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,4,W,A,*,purl,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,5,R,B,k3*,"sl 2 wyif, k2",*,"sl 2, k1"
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,6,W,B,k1*,"sl 2 wyif, k2",*,k1
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,7,R,A,*,knit,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,8,W,A,*,purl,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,9,R,A,*,knit,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,10,W,A,*,purl,*,
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,11,R,B,k1*,"sl 2 wyif, k2",*,k1
+348,Swedish Dot,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=348,12,W,B,k3*,"sl 2 wyif, k2",*,"sl 2, k1"

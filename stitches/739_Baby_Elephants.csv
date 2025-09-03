@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,1,R,p1*,"p5, k1",*,p6
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,2,W,p1*,"k5, p1",*,
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,3,R,*,"p1, yo, p2 tog, k1, ssp, yo",*,p1
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,4,W,"p1, k2*","p1, k5",*,"p1, k2, p1"
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,5,R,p4*,"p5, k1",*,p3
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,6,W,"p1, k2*","p1, k5",*,"p1, k2, p1"
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,7,R,p1*,"p2 tog, yo, p1, yo, ssp, k1",*,"p2 tog, yo, p1, yo, ssp, p1"
+739,Baby Elephants,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=739,8,W,p1*,"k5, p1",*,

@@ -1,0 +1,4 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1273,Triple-wrapped Stitch,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1273,1,R,*,knit,*,
+1273,Triple-wrapped Stitch,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1273,2,W,k1*,"k1, yo twice",*,k1
+1273,Triple-wrapped Stitch,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1273,3,R,k1*,"For each group of 6 stitches:  drop both yo's in front of each stitch, slip each stitch to right needle drawing up excess yarn to lengthen stitch, pass the first 3 long stitches over the last 3 long stitches and drop them, return the 3 wrapped stitches to left needle, knit in front, then back loop of each wrapped stitch",*,k1

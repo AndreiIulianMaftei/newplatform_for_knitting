@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,1,W,A,*,purl,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,2,R,A,*,knit,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,3,W,A,*,purl,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,4,R,B,k3*,"insert needle into front of stitch 3 rows below next stitch, knit an extra stitch in this stitch; then knit the next stitch on the left-hand needle and pass the extra stitch over it; k3",*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,5,W,B,*,purl,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,6,R,B,*,knit,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,7,W,B,*,purl,*,
+1564,Dip-Stitch Check,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1564,8,R,A,k2*,"insert needle into front of stitch 3 rows below next stitch, knit an extra stitch in this stitch; then knit the next stitch on the left-hand needle and pass the extra stitch over it; k3",*,k1

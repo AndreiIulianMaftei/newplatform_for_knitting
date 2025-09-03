@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,1,R,K2*,"yo, ssk, K2 tog, yo, k2",*,
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,2,W,*,purl,*,
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,3,R,K2*,"K2 tog, (yo) twice, ssk, k2",*,
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,4,W,P3*,"(k1, p1) into the double yo, p4",*,p3
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,5,R,K1*,"k2 tog, yo, k2, yo, ssk",*,k1
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,6,W,*,purl,*,
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,7,R,"K1, yo*","ssk, k2, k2 tog, (yo) twice",*,"ssk, k2, k2 tog, yo, k1"
+711,Openwork Knit Hourglass,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=711,8,W,p6*,"(k1, p1) into the double yo, p4",*,p2

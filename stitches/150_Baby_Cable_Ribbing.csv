@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+150,Baby Cable Ribbing,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=150,1,W,k2*,"p2, k2",*
+150,Baby Cable Ribbing,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=150,2,R,p2*,"k2, p2",*
+150,Baby Cable Ribbing,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=150,3,W,k2*,"p2, k2",*
+150,Baby Cable Ribbing,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=150,4,R,p2*,"k2 together, leaving both stitches on needle; then insert right-hand needle between the 2 stitches just knitted together, and knit the first st again; then slip both stitches from needle together,  p2",*

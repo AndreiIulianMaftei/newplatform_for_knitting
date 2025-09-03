@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,1,R,k1*,"yo, k2-tog, k2",*,
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,2,W,p1*,"p2-tog, yo, p2",*,
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,3,R,k3*,"yo, k2-tog, k2",*,"yo, k2-tog"
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,4,W,p1*,"yo, p2-tog, p2",*,
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,5,R,k1*,"k2-tog, yo, k2",*,
+1468,Clusters,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1468,6,W,p3*,"yo, p2-tog, p2",*,"yo, p2-tog"

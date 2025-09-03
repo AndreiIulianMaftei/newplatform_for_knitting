@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,1,R,A,*,"knit, then sl sts to other end of needle",*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,2,W,B,k1*,"sl 1 wyib, k3",*,"sl, k1"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,3,R,A,*,"purl, then sl sts to the other end of the needle",*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,4,W,B,"sl st to other end of needle, p1*","sl 1 wyif, p3",*,"sl 1, p1"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,5,R,A,*,"knit, then sl sts to other end of needle",*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,6,W,B,k1*,"sl 1 wyib, k3",*,"sl, k1"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,7,R,A,*,purl,*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,8,W,A,*,knit,*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,9,R,B,p1*,"sl 1 wyif, p3",*,"sl 1, p1, then sl sts to other end of the needle"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,10,W,A,*,purl,*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,11,R,B,k1*,"sl 1 wyib, k3",*,"sl 1, k1, then sl sts to other end of needle"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,12,W,A,*,knit,*,
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,13,R,B,p1*,"sl 1 wyif, p3",*,"sl 1, p1, then sl sts to other end of the needle"
+81,Stripe and Rib,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=81,14,W,A,*,purl,*,

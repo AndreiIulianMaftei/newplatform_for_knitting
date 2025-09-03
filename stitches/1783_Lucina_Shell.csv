@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,1,R,k2*,"yo, k8, yo, k1",*,k1
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,2,W,k3*,"p8, k3",*,
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,3,R,k3*,"yo, k8, yo, k3",*,
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,4,W,k4*,"p8, k5",*,k4
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,5,R,k4*,"yo, k8, yo, k5",*,k4
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,6,W,k5*,"p8, k7",*,k5
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,7,R,k5 *,"k4-tog-b, k4-tog, k7",*,k5
+1783,Lucina Shell,Multiple of 9 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1783,8,W,*,knit,*,

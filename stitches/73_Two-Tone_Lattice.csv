@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,1,R,B,"k1, sl 1 wyib*","k4, sl 2 wyib",*,"k4, sl 1, k1"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,2,W,B,"p1, sl 1 wyif*","p4, sl 2 wyif",*,"p4, sl 1, p1"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,3,R,A,"k1, sl 1 wyib*","k4, sl 2 wyib",*,"k4, sl 1, k1"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,4,W,A,"k1, sl 1 wyif*","k4, sl 2 wyif",*,"k4, sl 1, k1"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,5,R,B,k3*,"sl 2 wyib, k4",*,"sl 2, k3"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,6,W,B,p3*,"sl 2 wyif, p4",*,"sl 2, p3"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,7,R,A,k3*,"sl 2 wyib, k4",*,"sl 2, k3"
+73,Two-Tone Lattice,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=73,8,W,A,k3*,"sl 2 wyif, k4",*,"sl 2, k3"

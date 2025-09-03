@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,1,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,2,R,K3*,"yo, p1, yo, k3",*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,3,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,4,R,"K4, yo, p1, yo*","k5, yo, p1, yo",*,k4
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,5,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,6,R,"K5, yo, p1, yo*","k7, yo, p1, yo",*,k5
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,7,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,8,R,"K6, yo, p1, yo*","k9, yo, p1, yo",*,k6
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,9,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,10,R,K3*,"k4 tog through back loops, p1, k4 tog through front loops, k3",*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,11,W,*,purl,*,
+744,Eyelet Puff,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=744,12,R,K3*,"p3 tog, k3",*,

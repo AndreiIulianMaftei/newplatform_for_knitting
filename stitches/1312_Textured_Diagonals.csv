@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,1,R,k2*,"Knot, k1, p1, k1 p1, k1",*,
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,2,W,p2*,"k1, p1, k1, p3",*,
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,3,R,k2*,"p1, k1, p1, k1, Knot, k1",*,
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,4,W,p4*,"k1, p1, k1, p3",*,p1
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,5,R,"k2, p1*","K1, Knot, k1, p1, k1, p1",*,"p1, k1"
+1312,Textured Diagonals,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1312,6,W,"p2, k1*","p3, k1, p1, k1",*,"k1, p1"

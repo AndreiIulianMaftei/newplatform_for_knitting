@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,1,R,*,"p1, K2, P4, K2, P1",*,
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,2,W,K1*,"P2, K4, P2, K2",*,"P2, K4, P2, K1"
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,3,R,*,"P2, K2",*,P2
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,4,W,*,"K2, P2",*,K2
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,5,R,k1*,"P2, K4, P2, K2",*,"P2, K4, P2, K1"
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,6,W,*,"p1, K2, P4, K2, P1",*,
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,7,R,*,"K2, P2",*,K2
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,8,W,*,"P2, K2",*,P2
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,9,R,k1*,"P2, K4, P2, K2",*,"P2, K4, P2, K1"
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,10,W,*,"p1, K2, P4, K2, P1",*,
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,11,R,*,"P2, K2",*,P2
+997,Little Parallelograms,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=997,12,W,*,"K2, P2",*,K2

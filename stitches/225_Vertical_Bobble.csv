@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+225,Vertical Bobble,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=225,1,R,*,"k3, p2, bobble, p2",*,k3
+225,Vertical Bobble,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=225,2,W,p3*,"k2, p1, k2, p3",*,
+225,Vertical Bobble,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=225,3,R,*,"k3, p2, k1, p2",*,k3
+225,Vertical Bobble,Multiple of 8 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=225,4,W,p3*,"k2, p1, k2, p3",*,

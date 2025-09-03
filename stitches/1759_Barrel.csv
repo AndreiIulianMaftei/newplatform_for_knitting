@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,1,W,k1*,"k6, p4",*,k7
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,2,R,k1*,"p6, slip next 2 stitches to dpn and hold in back, k2, then k2 from dpn",*,"p6, k1"
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,3,W,k1 *,"k6, p4",*,k7
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,4,R,k1*,"p6, yo, k2-tog-b, k2-tog, yo",*,"p6, k1"
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,5,W,k1 *,"k6, p4",*,k7
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,6,R,k1 *,"p6, slip next 2 stitches to dpn and hold in back, k2, then k2 from dpn",*,"p6, k1"
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,7,W,k1*,"k3- tog-b, k3- tog, pass the first of these 2 stitches over the second; p4",*,"k3-tog-b, k3-tog, pass the first of these 2 stitches over the second; k1"
+1759,Barrel,Multiple of 10 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1759,8,R,k1*,"(k1, p1) 3 times in the next stitch, making 6 stitches from one; yo, k2 tog-b, k2-tog, yo",*,"(k1, p1) 3 times in next stitch, k1"

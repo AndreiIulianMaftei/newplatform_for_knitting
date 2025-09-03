@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,1,R,B,k2*,"sl 1 wyib, k3",*,"sl 1, k1"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,2,W,B,k1*,"sl 1 wyif, p1, k2",*,"sl 1, p1, k1"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,3,R,B,k2*,"sl 1 wyib, k3",*,"sl 1, k1"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,4,W,B,k1*,"sl 1 wyif, p1, k2",*,"sl 1, p1, k1"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,5,R,A,k1*,"sl 1 wyib, k3",*,"sl 1, k2"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,6,W,A,k1*,"p1, sl 1 wyif, k2",*,"p1, sl 1, k1"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,7,R,A,k1*,"sl 1 wyib, k3",*,"sl 1, k2"
+72,Dovetail Stripes,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=72,8,W,A,k1*,"p1, sl 1 wyif, k2",*,"p1, sl 1, k1"

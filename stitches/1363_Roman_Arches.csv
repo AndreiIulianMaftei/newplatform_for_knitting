@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,1,R,k1*,"yo, ssk, k5, k2-tog, yo, k1",*,
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,2,W,p2*,"yo, k2-tog, p3, p2-tog-b, yo, p3",*,p2
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,3,R,p3*,"yo, ssk, k1, k2-tog, yo, k5",*,k3
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,4,W,p4*,"yo, sl 1-p2 tog-psso, yo, p7",*,p4
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,5,R,k4*,"yo, sl 2-k1-p2sso, yo, k7",*,k4
+1363,Roman Arches,Multiple of 10 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1363,6,W,p4*,"yo, sl 1-p2 tog-psso, yo, p7",*,p4

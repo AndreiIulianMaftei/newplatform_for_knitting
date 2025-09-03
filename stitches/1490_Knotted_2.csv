@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1490,Knotted 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1490,1,R,*,knit,*,
+1490,Knotted 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1490,2,W,*,purl,*,
+1490,Knotted 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1490,3,R,k1*,k2-tog,*,k1
+1490,Knotted 2,Multiple of 2 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1490,4,W,p1*,"k1, lift connecting strand between last stitch and next stitch, place strand over left needle, k1-b in the strand",*,p1

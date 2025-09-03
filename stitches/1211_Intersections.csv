@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,1,R,*,"LC, RC, RC",*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,2,W,*,purl,*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,3,R,"k1, LC*","RC, LC twice",*,"RC, k1"
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,4,W,*,purl,*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,5,R,*,"LC twice, k2",*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,6,W,*,purl,*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,7,R,k1*,"LC twice, RC",*,"LC twice, k1"
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,8,W,*,purl,*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,9,R,RC*,"LC, RC twice",*,"LC, RC"
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,10,W,*,purl,*,
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,11,R,K3*,"RC twice, k2",*,"RC, k1"
+1211,Intersections,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1211,12,W,*,purl,*,

@@ -1,0 +1,12 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,1,W,A,*,purl,*,
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,2,R,A,*,knit,*,
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,3,W,A,p2*,"p1 wrapping yarn twice, p3",*,p2
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,4,R,B,k2*,"sl 1 wyib dropping extra wrap; k1, insert needle into next stitch 2 rows below and draw through a loop loosely; knit next stitch and pass the loop over the stitch just knitted; k1",*,"sl 1 wyib, k2"
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,5,W,B,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,6,R,B,*,knit,*,
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,7,W,B,p2*,"p1 wrapping yarn twice, p3",*,p2
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,8,R,A,k2*,"sl 1 wyib dropping extra wrap; k1, insert needle into next stitch 2 rows below and draw through a loop loosely; knit next stitch and pass the loop over the stitch just knitted; k1",*,"sl 1 wyib, k2"
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,9,W,A,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,10,R,A,*,knit,*,
+1549,False Flame,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1549,11,W,A,p2*,"p1 wrapping yarn twice, p3",*,p2

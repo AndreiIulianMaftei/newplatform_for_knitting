@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,1,R,p2*,"k4, p2",*,
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,2,W,k2*,"p4, k2",*,
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,3,R,p2*,"k4, p2",*,
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,4,W,k2*,"p4, k2",*,
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,5,R,"k3,p2*","k4, p2",*,k3
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,6,W,"p3,k2*","p4, k2",*,p3
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,7,R,"k3,p2*","k4, p2",*,k3
+95,Waving Rib,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=95,8,W,"p3,k2*","p4, k2",*,p3

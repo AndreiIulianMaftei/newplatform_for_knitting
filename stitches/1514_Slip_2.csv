@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,1,R,A,k2*,"sl 2 wyif, k2",*,
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,2,W,A,p2*,"sl 2 wyib, p2",*,
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,3,R,A,*,knit,*,
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,4,W,A,*,purl,*,
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,5,R,B,k4*,"sl 2 wyif, k2",*,k4
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,6,W,B,p4*,"sl 2 wyib, p2",*,p4
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,7,R,B,*,knit,*,
+1514,Slip 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1514,8,W,B,*,purl,*,

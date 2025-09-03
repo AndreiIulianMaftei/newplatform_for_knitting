@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1461,Irish Net,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1461,1,R,k2*,"yo, sl 1-k2-psso over both knit stitches",*,k1
+1461,Irish Net,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1461,2,W,*,purl,*,
+1461,Irish Net,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1461,3,R,k1*,"sl 1-k2-psso over both knit stitches, yo",*,k2
+1461,Irish Net,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1461,4,W,*,purl,*,

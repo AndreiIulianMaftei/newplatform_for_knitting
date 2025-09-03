@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,1,W,A,*,purl,*,
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,2,R,B,k1*,"k4, sl 2 wyib",*,k2
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,3,W,B,p2*,"sl 2 wyif, p4",*,p1
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,4,R,A,k2 *,"sl 2 wyib, RT, LT",*,k1
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,5,W,A,*,purl,*,
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,6,R,C,k2*,"sl 2 wyib, k4",*,k1
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,7,W,C,p1*,"p4, sl 2 wyif",*,p2
+1552,Double Twist Check,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1552,8,R,A,k1*,"RT, LT, sl 2 wyib",*,k2

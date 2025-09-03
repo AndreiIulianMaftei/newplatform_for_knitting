@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,1,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,2,R,k4*,"ssk, yo, k1, yo, k2-tog, k3",*,k1
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,3,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,4,R,k5*,"yo, sl 2-k1-p2sso, yo, k5",*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,5,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,6,R,k4*,"ssk, yo, k1, yo, k2-tog, k3",*,k1
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,7,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,8,R,"ssk, yo, k1, yo, k2-tog*","k3, ssk, yo, k1, yo, k2-tog",*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,9,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,10,R,k1*,"yo, sl 2-k1-p2sso, yo, k5",*,end last repeat with k1 instead of k5
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,11,W,*,purl,*,
+1816,Snowflake Eyelet,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1816,12,R,"ssk, yo, k1, yo, k2-tog *","k3, ssk, yo, k1, yo, k2-tog",*,

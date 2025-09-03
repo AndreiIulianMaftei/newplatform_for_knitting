@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,1,R,*,Knit,*,
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,2,W,p2*,"k2, p4",*,"k2, p3"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,3,R,k2*,"LT, k4",*,"LT, k3"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,4,W,p2*,"k1, p1, k1, p3",*,p2
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,5,R,k3*,"LT, k4",*,"LT, k2"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,6,W,p3*,"k2, p4",*,"k2, p2"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,7,R,*,knit,*,
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,8,W,p3*,"k2, p4",*,"k2, p2"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,9,R,k3*,"RT, k4",*,"RT, k2"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,10,W,p2 *,"k1, p1, k1, p3",*,p2
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,11,R,k2*,"RT, k4",*,"RT, k3"
+1628,Little Wave,Multiple of 6 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1628,12,W,p2*,"k2, p4",*,"k2, p3"

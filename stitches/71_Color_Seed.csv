@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+71,Color Seed,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=71,1,R,A,p1*,"k1, p1",*
+71,Color Seed,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=71,2,W,A,p1*,"k1, p1",*
+71,Color Seed,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=71,3,R,B,"p1, k1, p1*","sl 1 wyib, p1, k1, p1",*
+71,Color Seed,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=71,4,W,B,"p1, k1, p1*","sl 1 wyif, p1, k1, p1",*

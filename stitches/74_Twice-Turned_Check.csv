@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,1,W,A,*,knit,*,
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,2,R,B,k1*,"keeping yarn in back, insert needle from the left into the back loop of the next st, as if to p1-b; slip the st from this position, k1",*,
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,3,W,B,k1*,"sl 1 wyif, k1",*,
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,4,R,A,k1*,"k1-b, k1",*,
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,5,W,A,*,knit,*,
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,6,R,B,k2*,"keeping yarn in back, insert needle from the left into the back loop of the next st, as if to p1-b; slip the st from this position, k1",*,k1
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,7,W,B,k2*,"sl 1 wyif, k1",*,k1
+74,Twice-Turned Check,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=74,8,R,A,k2*,"k1-b, k1",*,k1

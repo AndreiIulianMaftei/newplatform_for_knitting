@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,1,R,p2*,k6,*,p2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,2,W,k2*,p6,*,k2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,3,R,p2*,k6,*,p2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,4,W,k2*,p6,*,k2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,5,R,p2*,"k2, k2-tog, k2, yo",*,p2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,6,W,k2*,"p1-b, p5",*,k2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,7,R,p2*,"k1, k2-tog, k2, yo, k1",*,p2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,8,W,k2*,"p1, p1-b, p4",*,k2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,9,R,p2*,"k2-tog, k2, yo, k2",*,p2
+1326,Spiral Columns 2,Multiple of 10 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1326,10,W,k2*,"p2, p1-b, p3",*,k2

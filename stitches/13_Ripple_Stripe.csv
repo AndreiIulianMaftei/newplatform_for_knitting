@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,1,R,k4*,"p1, k7",*,"p1, k4"
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,2,W,p3*,"k3, p5",*,"k3, p3"
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,3,R,k2*,"p2, k1, p2, k3",*,k2
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,4,W,p1*,"k2, p3, k2, p1",*,
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,5,R,k1*,"p1, k5, p1, k1",*,
+13,Ripple Stripe,Multiple of 8 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=13,6,W,*,purl,*,

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,1,W,*,purl,*,
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,2,R,"k1, p2  *","LT, p2",*,k1
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,3,W,k3 *,"p2, k2",*,k1
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,4,R,k3*,"RT, k2",*,k1
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,5,W,*,purl,*,
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,6,R,k1*,"LT, p2",*,"LT, k1"
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,7,W,"k1, p2*","k2, p2",*,k1
+1629,Grain of Wheat,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1629,8,R,k1*,"RT, k2",*,"RT, k1"

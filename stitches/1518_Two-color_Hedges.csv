@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,1,R,A,*,knit,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,2,W,A,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,3,R,A,k2*,"RC, k1, LC, k1",*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,4,W,A,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,5,R,B,*,knit,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,6,W,B,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,7,R,B,k2*,"LC, k1, RC, k1",*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,8,W,B,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,9,R,A,k4*,"insert needle into stitch 5 rows below next stitch and k1, drop the unworked stitch above and let it unravel down to where long stitch was worked; k5",*,k3
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,10,W,A,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,11,R,A,k2*,"RC, k1, LC, k1",*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,12,W,A,*,purl,*,
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,13,R,B,k1*,"insert needle into stitch 5 rows below next stitch and k1, drop the unworked stitch above and let it unravel down to where long stitch was worked; k5",*,k1
+1518,Two-color Hedges,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1518,14,W,B,*,purl,*,

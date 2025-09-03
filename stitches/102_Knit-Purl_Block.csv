@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,1,R,k5*,"p5, k5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,2,W,p5*,"k5, p5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,3,R,k5*,"p5, k5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,4,W,p5*,"k5, p5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,5,R,k5*,"p5, k5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,6,W,k5*,"p5, k5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,7,R,p5*,"k5, p5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,8,W,k5*,"p5, k5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,9,R,p5*,"k5, p5",*
+102,Knit-Purl Block,Multiple of 10 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=102,10,W,k5*,"p5, k5",*

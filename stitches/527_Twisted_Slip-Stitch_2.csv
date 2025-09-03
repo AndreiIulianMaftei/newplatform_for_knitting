@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,1,W,k2*,"k1 wrapping yarn twice around needle, p3",*,"k1 wrapping yarn twice around needle, k2"
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,2,R,k2*,"sl 1 knitwise wyib dropping extra wrap, k3",*,"sl 1 wyib, k2"
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,3,W,p2*,"sl 1 purlwise  wyif, p3",*,"sl 1 wyib, p2"
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,4,R,k2*,"sl 1 knitwise wyib, k3",*,"sl 1 wyib, k2"
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,5,W,k4*,"k1 wrapping yarn twice, k3",*,k1
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,6,R,k4*,"sl 1 knitwise wyib dropping extra wrap, k3",*,k1
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,7,W,p4*,"sl 1 purlwise wyif, p3",*,p1
+527,Twisted Slip-Stitch 2,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=527,8,R,k4*,"sl 1 knitwise wyib, k3",*,k1

@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,1,R,A,*,knit,*,
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,2,W,A,*,purl,*,
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,3,R,B,*,"k1, sl1 wyib",*,k1
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,4,W,B,*,"p1, sl1 wyib",*,p1
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,5,R,A,*,knit,*,
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,6,W,A,*,purl,*,
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,7,R,B,k2*,"sl1 wyib, k1",*,k1
+1931,Brick 2,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1931,8,W,B,p2*,"sl1 wyib, p1",*,p1

@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,1,R,B,k1*,"sl 1 wyib, k2",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,2,W,B,k1*,"p2, sl 1 wyif",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,3,R,A,k1*,"k1, sl 1 wyib, (k2, sl 1 wyib) 3 times, k3, (sl 1 wyib, k2) 3 times, sl 1 wyib",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,4,W,A,k1*,"sl 1 wyif, (p2, sl 1 wyif) 3 times, p3, (sl 1 wyif, p2) 3 times, sl 1 wyif, p1",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,5,R,B,k1*,"k2, (sl 1 wyib, k2) 3 times, sl 1 wyib, k1, sl 1 wyib, (k2, sl 1 wyib) 3 times, k1",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,6,W,B,k1*,"p1, (sl 1 wyif, p2) 3 times, sl 1 wyif, p1, sl 1 wyif, (p2, sl 1 wyif) 3 times, p2",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,7,R,A,k1*,"sl 1 wyib, k2",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,8,W,A,k1*,"p2, sl 1 wyif",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,9,R,B,k1*,"k1, sl 1 wyib, (k2, sl 1 wyib) 3 times, k3, (sl 1 wyib, k2) 3 times, sl 1 wyib",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,10,W,B,k1*,"sl 1 wyif, (p2, sl 1 wyif) 3 times, p3, (sl 1 wyif, p2) 3 times, sl 1 wyif, p1",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,11,R,A,k1*,"k2, (sl 1 wyib, k2) 3 times, sl 1 wyib, k1, sl 1 wyib, (k2, sl 1 wyib) 3 times, k1",*,k1
+334,Zebra Chevron,Multiple of 24 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=334,12,W,A,k1*,"p1, (sl 1 wyif, p2) 3 times, sl 1 wyif, p1, sl 1 wyif, (p2, sl 1 wyif) 3 times, p2",*,k1

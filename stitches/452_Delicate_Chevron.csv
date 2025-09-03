@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,1,R,*,"k4, p2, k1, p2, k3",*,k1
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,2,W,k1*,"p4, k3, p4, k1",*,
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,3,R,*,"p2, k4, p1, k4, p1",*,p1
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,4,W,p1*,"k2, p7, k2, p1",*,
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,5,R,*,"k2, p2, k5, p2, k1",*,k1
+452,Delicate Chevron,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=452,6,W,p1*,"p2, k2, p3, k2, p3",*,

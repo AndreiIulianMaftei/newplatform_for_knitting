@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+259,Tile 1,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=259,1,R,k1*,"yo, k2",*,
+259,Tile 1,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=259,2,W,P1*,"p3, pass 3rd stitch on right-hand needle over first two stitches",*,
+259,Tile 1,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=259,3,R,*,"k2, yo",*,k1
+259,Tile 1,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=259,4,W,*,"p3, pass 3rd stitch on right-hand needle over first two stitches",*,P1

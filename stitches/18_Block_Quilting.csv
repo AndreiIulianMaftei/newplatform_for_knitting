@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,1,W,k3*,"p8, k6",*,"p8, k3"
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,2,R,*,knit,*,
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,3,W,k3*,"p8, k6",*,"p8, k3"
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,4,R,*,knit,*,
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,5,W,k3*,"p8, k6",*,"p8, k3"
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,6,R,k2*,"p2, k6, p2, k4",*,k2
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,7,W,p3*,"k2, p4, k2, p6",*,p3
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,8,R,k4*,"p2, k2, p2, k8",*,k4
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,9,W,p5*,"k4, p10",*,"k4, p5"
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,10,R,k4*,"p2, k2, p2, k8",*,k4
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,11,W,p3*,"k2, p4, k2, p6",*,p3
+18,Block Quilting,Multiple of 14 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=18,12,R,k2*,"p2, k6, p2, k4",*,k2

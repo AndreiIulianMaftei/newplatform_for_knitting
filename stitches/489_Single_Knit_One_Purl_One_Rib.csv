@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *
+489,Single Knit One Purl One Rib,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=489,1,R,B,p1*,"k1, p1",*
+489,Single Knit One Purl One Rib,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=489,2,W,A,k1*,"p1, k1, then sl sts to the other end of the needle",*
+489,Single Knit One Purl One Rib,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=489,3,R,B,k1*,"p1, k1",*
+489,Single Knit One Purl One Rib,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=489,4,W,A,p1*,"k1, p1, then sl sts to the other end of the needle",*

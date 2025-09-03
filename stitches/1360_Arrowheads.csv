@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,1,R,p1*,"k11, p1",*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,2,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,3,R,p1*,"yo, ssk, k2, yo, sl2, k1, p2sso, yo, k2, k2-tog, yo, p1",*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,4,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,5,R,p2*,"yo. ssk, k1, yo, sl2, k1, p2sso, yo, k1, k2-tog, yo, p3",*,p2
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,6,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,7,R,p3*,"yo, ssk, yo, sl2, k1, p2sso, yo, k2-tog, yo, p5",*,p3
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,8,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,9,R,p4*,"yo, ssk, k1, k2-tog, yo, p7",*,p4
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,10,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,11,R,p5*,"yo, sl2, k1, p2sso, yo, p9",*,p5
+1360,Arrowheads,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1360,12,W,*,Knit the knit stitches; purl the purl stitches; purl the yarn-over loops,*,

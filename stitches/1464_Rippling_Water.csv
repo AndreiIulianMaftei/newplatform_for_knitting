@@ -1,0 +1,14 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,1,R,*,purl,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,2,W,k5*,"yo, sl 1-k2-tog-psso, yo, k5",*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,3,R,*,purl,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,4,W,*,knit,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,5,R,*,purl,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,6,W,*,knit,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,7,R,p6*,"insert needle in stitch 4 rows below next stitch and k1, drop the unworked stitch from the left needle letting stitches unravel down to the worked stitch; p7",*,p6
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,8,W,k1*,"yo, sl 1-k2-tog-psso, yo, k5",*,end last repeat k1 instead of k5
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,9,R,*,purl,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,10,W,*,knit,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,11,R,*,purl,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,12,W,*,knit,*,
+1464,Rippling Water,Multiple of 8 stitches,plus 5 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1464,13,R,p2*,"insert needle in stitch 4 rows below next stitch and k1, drop the unworked stitch from the left needle letting stitches unravel down to the worked stitch; p7",*,end last repeat p2 instead of p7

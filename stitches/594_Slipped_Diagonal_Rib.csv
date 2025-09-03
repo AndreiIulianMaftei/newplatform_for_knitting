@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,1,W,k1*,"k3, p1",*,k1
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,2,R,k1*,"sl 1 wyib, p3",*,k1
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,3,W,k1*,"k3, sl 1 wyif",*,k1
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,4,R,k1*,"drop slip stitch to front of work, p2, pick up dropped stitch and knit it; p1",*,k1
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,5,W,k2*,"p1, k3",*,
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,6,R,k1*,"p2, sl 1 wyib, p1",*,k1
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,7,W,k2*,"sl 1 wyif, k3",*,
+594,Slipped Diagonal Rib,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=594,8,R,k1*,"p2; drop slip stitch to front of work, p2, pick up dropped stitch and knit it",*,"drop slip stitch to front of work, p1, pick up dropped stitch and purl it, k1"

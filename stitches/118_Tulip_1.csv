@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,1,R,*,knit,*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,2,W,*,purl,*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,3,R,*,knit,*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,4,W,*,purl,*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,5,R,k1*,"p1, k2",*,"p1, k1"
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,6,W,p1*,"k1, p2",*,"k1,p1"
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,7,R,k1*,"p1, k2",*,"p1, k1"
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,8,W,p1*,"k1, p2",*,"k1,p1"
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,9,R,*,"p2, k1",*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,10,W,*,"p1, k2",*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,11,R,*,"p2, k1",*,
+118,Tulip 1,Multiple of 3 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=118,12,W,*,"p1, k2",*,

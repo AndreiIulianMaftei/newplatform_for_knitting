@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,1,R,B,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,2,W,C,p3*,"sl 1 wyif, p3",*,
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,3,R,D,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,4,W,B,p3*,"sl 1 wyif, p3",*,
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,5,R,A,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,6,W,D,p3*,"sl 1 wyif, p3",*,
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,7,R,C,k1*,"sl 1 wyib, k3",*,"sl 1, k1"
+350,Four Color Blend,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=350,8,W,A,p3*,"sl 1 wyif, p3",*,

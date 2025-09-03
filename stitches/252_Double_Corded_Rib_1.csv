@@ -1,0 +1,3 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+252,Double Corded Rib 1,Multiple of 7 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=252,1,R,*,"k3, (sl 1 purlwise, k1, yo, psso the k1 and yo) twice",*,k3
+252,Double Corded Rib 1,Multiple of 7 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=252,2,W,k3*,"p4, k3",*,

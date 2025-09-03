@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1302,Knotted Rib 3,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1302,1,R,K1-b*,"p1, k1-b",*,
+1302,Knotted Rib 3,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1302,2,W,*,"p1, k1-b",*,p1
+1302,Knotted Rib 3,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1302,3,R,k1-b *,"p1, knit in front and then back loop of next stitch",*,
+1302,Knotted Rib 3,Multiple of 2 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1302,4,W,*,"p2-tog, k1-b",*,p1

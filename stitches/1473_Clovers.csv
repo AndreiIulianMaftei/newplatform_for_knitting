@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1473,Clovers,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1473,1,R,k3*,"yo, sl 1-k2-tog-psso, yo, k3",*,
+1473,Clovers,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1473,2,W,p2*,"p2-tog, yo, p1, yo, p2-tog, p1",*,p2
+1473,Clovers,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1473,3,R,"k1, k2-tog, yo*","k3, yo, sl 1-k2-tog-psso, yo",*,"ssk, k1"
+1473,Clovers,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1473,4,W,p2*,"yo, p2-tog, p1, p2-tog, yo, p1",*,"yo, p2"

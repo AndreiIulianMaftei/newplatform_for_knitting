@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,1,R,*,knit,*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,2,W,k6*,"p6, k6",*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,3,R,*,knit,*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,4,W,k4*,"p6, k6",*,p2
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,5,R,k10*,"RC, k6",*,k2
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,6,W,k2*,"p6, k6",*,p4
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,7,R,*,knit,*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,8,W,p6*,"k6, p6,",*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,9,R,*,knit,*,
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,10,W,k4*,"p6, k6",*,k2
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,11,R,k4*,"RC, k6",*,k8
+1142,Headed Right,Multiple of 12 stitches,plus 6 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1142,12,W,p2 *,"k6, p6",*,k4

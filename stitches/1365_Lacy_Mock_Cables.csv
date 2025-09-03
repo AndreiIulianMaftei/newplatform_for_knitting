@@ -1,0 +1,6 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1365,Lacy Mock Cables,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1365,1,R,p2*,"k2, p2",*
+1365,Lacy Mock Cables,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1365,2,W,k2*,"p1, yo, p1, k2",*
+1365,Lacy Mock Cables,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1365,3,R,p2*,"k3, p2",*
+1365,Lacy Mock Cables,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1365,4,W,k2*,"p3, k2",*
+1365,Lacy Mock Cables,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1365,5,R,p2*,"k3, then pass the first of these knit stitches over the last 2 and drop it; p2",*

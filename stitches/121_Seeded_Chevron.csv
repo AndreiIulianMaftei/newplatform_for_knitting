@@ -1,0 +1,15 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,1,R,k1*,"p3, (k1, p1) twice, k1, p5, k1, (p1, k1) twice, p3, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,2,W,p1*,"p1, k3, (p1, k1) twice, p1, k3, p1, (k1, p1) twice, k3, p2",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,3,R,k1*,"k2, p3, (k1, p1) 5 times, k1, p3, k3",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,4,W,k1*,"p3, k3, (p1, k1) 4 times, p1, k3, p3, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,5,R,p1*,"p1, k3, p3, (k1, p1) 3 times, k1, p3, k3, p2",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,6,W,k1*,"k2, p3, k3, (p1, k1) twice, p1, k3, p3, k3",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,7,R,k1*,"p3, k3, p3, k1, p1, k1, p3, k3, p3, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,8,W,k1*,"(p1, k3, p3, k3) twice, p1, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,9,R,k1*,"p1, k1, p3, k3, p5, k3, p3, k1, p1, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,10,W,k1*,"p1, k1, p1, (k3, p3) twice, k3, (p1, k1) twice",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,11,R,k1*,"(p1, k1) twice, p3, k3, p1, k3, p3, (k1, p1) twice, k1",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,12,W,k1*,"(p1, k1) twice, p1, k3, p5, k3, (p1, k1) 3 times",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,13,R,p1*,"(p1, k1) 3 times, p3, k3, p3, (k1, p1) twice, k1, p2",*
+121,Seeded Chevron,Multiple of 22 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=121,14,W,k1*,"k2, (p1, k1) twice, (p1, k3) twice, (p1, k1) 3 times, k2",*

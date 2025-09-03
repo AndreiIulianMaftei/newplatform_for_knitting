@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,1,W,A,*,purl,*,
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,2,R,B,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,3,W,B,p2*,"sl 1 wyif, p3",*,"sl 1 wyif, p2"
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,4,R,C,k4*,"sl 1 wyib, k3",*,k1
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,5,W,C,p4*,"sl 1 wyif, p3",*,p1
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,6,R,A,k1*,"sl 1 wyib, k1",*,
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,7,W,A,*,purl,*,
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,8,R,B,k2*,"sl 1 wyib, k1",*,k1
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,9,W,B,p4*,"sl 1 wyif, p3",*,p1
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,10,R,C,k2*,"sl 1 wyib, k3",*,"sl 1 wyib, k2"
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,11,W,C,*,purl,*,
+364,Surprise,Multiple of 4 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=364,12,R,A,k1*,"sl 1 wyib, k1",*,

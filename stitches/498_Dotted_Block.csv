@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,1,W,A,*,knit,*,
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,2,R,B,k1*,"sl 2 wyib, k5",*,"sl 2 wyib, k1"
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,3,W,B,k1*,"sl 2 wyif, p5",*,"sl 2 wyif, k1"
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,4,R,A,k3*,"sl 2 wyib, k1, sl 2 wyib, k2",*,k1
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,5,W,A,k1*,"p2, sl 2 wyif, k1, sl 2 wyif",*,"p2, k1"
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,6,R,B,k1*,"sl 2 wyib, k5",*,"sl 2 wyib, k1"
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,7,W,B,k1*,"sl 2 wyif, p5",*,"sl 2 wyif, k1"
+498,Dotted Block,Multiple of 7 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=498,8,R,A,*,knit,*,

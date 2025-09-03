@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,1,R,"k2, p2*","LT, p4",*,"LT, p2, k2"
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,2,W,k4*,"p2, k4",*,
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,3,R,k2 *,"k3-tog, yo, sl 1-k2-tog-psso",*,k2
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,4,W,"k2, p1*","(k1, p1) twice in the yo of the previous row, p2",*,"p1, k2"
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,5,R,k3 *,"p4, RT",*,"p4, k3"
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,6,W,"k2, p1*","k4, p2",*,"k4, p1, k2"
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,7,R,"k2, yo*","sl 1-k2-tog-psso, k3-tog, yo",*,k2
+1645,Wide Waffle,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1645,8,W,"k2 (k1, p1) in the yo *","p2, (k1 ,p1) twice in the yo of the previous row",*,"p2, (k1, p1) into the yo, k2"

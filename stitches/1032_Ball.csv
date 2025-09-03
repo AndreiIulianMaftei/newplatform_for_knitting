@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1032,Ball,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1032,1,R,k2*,"Make Ball, yo, (k1, p1, k1) in next stitch, yo",*,k2
+1032,Ball,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1032,2,W,k2*,"p5, yo",*,k2
+1032,Ball,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1032,3,R,k2*,"yo, (k1, p1, k1) in next stitch, yo, Make Ball",*,k2
+1032,Ball,Multiple of 6 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1032,4,W,k2*,"yo, p5",*,k2

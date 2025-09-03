@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,1,R,B,k3*,"sl 1 wyib, k2",*,k1
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,2,W,B,k3*,"sl 1 wyif, k2",*,k1
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,3,R,C,*,"k2, sl 1 wyib",*,k1
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,4,W,C,k1*,"sl 1 wyif, k2",*,
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,5,R,A,k1*,"sl 1 wyib, k2",*,
+432,Triple L Tweed,Multiple of 3 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=432,6,W,A,*,"k2, sl 1 wyif",*,k1

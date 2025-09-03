@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,1,R,*,"p3, k3",*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,3,R,p2*,"k3, p3",*,"k3, p1"
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,4,W,*,Knit the knit stitches and purl the purl stitches,*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,5,R,p1*,"k3, p3",*,"k3, p2"
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,7,R,*,"k3, p3",*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,8,W,*,Knit the knit stitches and purl the purl stitches,*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,9,R,k2*,"p3, k3",*,"p3, k1"
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,10,W,*,Knit the knit stitches and purl the purl stitches,*,
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,11,R,k1*,"p3, k3",*,"p3, k2"
+3,Steep Diagonal Rib,Multiple of 6 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=3,12,W,*,Knit the knit stitches and purl the purl stitches,*,

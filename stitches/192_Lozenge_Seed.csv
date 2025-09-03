@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,1,R,*,"k6, p2, k4",*,k2
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,2,W,p2*,"(p2, k2) twice, p4",*,
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,3,R,*,"k2, p2, k6, p2",*,k2
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,4,W,k2*,"p10, k2",*,
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,5,R,*,"k2, p2, k6, p2",*,k2
+192,Lozenge Seed,Multiple of 12 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=192,6,W,p2*,"(p2, k2) twice, p4",*,

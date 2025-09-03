@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,1,R,B,k1*,"sl 2 wyif, k2",*,"sl 2 wyif, k1"
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,2,W,C,"k1, p2 *","sl 2 wyib, p2",*,k1
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,3,R,A,k1*,"sl 2 wyif, k2",*,"sl 2 wyif, k1"
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,4,W,B,"k1, p2 *","sl 2 wyib, p2",*,k1
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,5,R,C,k1 *,"sl 2 wyif, k2",*,"sl 2 wyif, k1"
+306,Double Tricolor Fabric,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=306,6,W,A,"k1, p2 *","sl 2 wyib, p2",*,k1

@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,1,R,A,*,knit,*,
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,2,W,A,*,purl,*,
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,3,R,B,k1*,"sl 1 wyif, k1",*,
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,4,W,B,*,purl,*,
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,5,R,A,k2*,"sl 1 wyif, k1",*,k1
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,6,W,A,*,purl,*,
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,7,R,C,k1*,"sl 1 wyib, k3",*,k1
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,8,W,C,p1*,"sl 1 wyif, p3",*,p1
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,9,R,C,k1*,"sl 1 wyib, k3",*,k1
+344,Navajo Basket,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=344,10,W,C,p1*,"sl 1 wyif, p3",*,p1

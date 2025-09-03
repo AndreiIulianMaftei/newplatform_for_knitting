@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+743,Traveling Eyelet,Multiple of 6 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=743,1,R,"K1, yo, ssk, k2*","k2 tog, yo, ssk, k2",*,"k2 tog, yo, k1"
+743,Traveling Eyelet,Multiple of 6 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=743,2,W,"k1, p1*","p4, purl into front and back of next stitch (yo from previous row)",*,"p5, k1"
+743,Traveling Eyelet,Multiple of 6 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=743,3,R,K2*,"k2 tog, yo, ssk, k2",*,
+743,Traveling Eyelet,Multiple of 6 stitches,plus 8 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=743,4,W,"K1, p2*","purl into front and back of the next stitch, p4",*,"purl into front and back of next stitch, p2, k1"

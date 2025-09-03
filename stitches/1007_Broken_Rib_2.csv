@@ -1,0 +1,7 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,1,R,p2*,"k1-b twice, p2",*
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,2,W,k2*,"p1-b twice, k2",*
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,3,W,p2*,"k1-b twice, p2",*
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,4,W,k2*,"P1-b twice, k2",*
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,5,R,*,purl,*
+1007,Broken Rib 2,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1007,6,W,*,knit,*

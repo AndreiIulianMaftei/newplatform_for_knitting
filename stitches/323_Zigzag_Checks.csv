@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Repeat
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,1,W,A,"Insert needle into first stitch knitwise and wrap yarn twice around point of needle, then knit the stitch; k3"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,2,R,B,k3; slip 1 wyib dropping the extra wrap
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,3,W,B,"sl 1 wyif, p3"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,4,R,B,"k3, sl 1 wyib"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,5,W,B,"sl 1 wyif, p3"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,6,R,A,"Slip 3 stitches to right-hand needle, drop next (color A) stitch off left-hand needle to front. Slip the same 3 stitches back to the left-hand needle, pick up dropped stitch and knit it; k3"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,7,W,A,"k3; insert needle into first stitch knitwise and wrap yarn twice around point of needle, then knit the stitch"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,8,R,B,Slip 1 wyib dropping the extra wrap; k3
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,9,W,B,"p3, sl 1 wyif"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,10,R,B,"sl 1 wyib, k3"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,11,W,B,"p3, sl 1 wyif"
+323,Zigzag Checks,Multiple of 4 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=323,12,R,A,"Slip first (color A) stitch off needle and leave at front, k3, then pick up dropped stitch and knit it"

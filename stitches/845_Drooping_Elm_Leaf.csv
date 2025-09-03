@@ -1,0 +1,11 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,1,R,*,"K1, yo, k1, ssk, p1, k2 tog, k1, yo, p1, ssk, p1, k2 tog, yo, k1, yo",*,k1
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,2,W,P1*,"p4, k1, p1, k1, p3, k1, p4",*,
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,3,R,*,"K1, yo, k1, ssk, p1, k2 tog, k1, p1, sl 1-k2 tog-psso, yo, k3, yo",*,k1
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,4,W,P1*,"p6, k1, p2, k1, p4",*,
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,5,R,*,"(K1, yo) twice, ssk, p1, (k2 tog) twice, yo, k5, yo",*,k1
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,6,W,P1*,"p7, k1, p1, k1, p5",*,
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,7,R,*,"K1, yo, k3, yo, sl 1-k2 tog-psso, p1, yo, k1, ssk, p1, k2 tog, k1 yo",*,k1
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,8,W,P1*,"(p3, k1) twice, p7",*,
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,9,R,*,"K1, yo, k5, yo, ssk, k1, ssk, p1, k2 tog, k1, yo",*,k1
+845,Drooping Elm Leaf,Multiple of 15 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=845,10,W,P1*,"p3, k1, p2, k1, p8",*,

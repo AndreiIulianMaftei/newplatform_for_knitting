@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,1,R,k1*,"p1, k5",*,k6
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,3,R,k1*,"yo, p1, k1, ssk, k2",*,k3
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,4,W,*,"Knit the knit stitches, purl the purl stitches, and knit the yarn overs",*,
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,5,R,k1*,"yo, p2, k1, ssk, k1",*,k2
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,6,W,*,"Knit the knit stitches, purl the purl stitches, and knit the yarn overs",*,
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,7,R,k1*,"yo, p3, k1, ssk",*,k1
+1271,Oblique,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1271,8,W,*,"Knit the knit stitches, purl the purl stitches, and knit the yarn overs",*,

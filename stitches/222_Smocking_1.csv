@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,1,R,p2*,"knit in front and back of stitch twice; p2, k1, p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,2,W,*,"k2, p1, k2, knit 4 stitches putting the thread twice around needle each time",*,k2
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,3,R,p2*,"Knit 4 letting the extra loops drop; p2, k1, p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,4,W,*,"k2, p1, k2, knit 4 stitches putting the thread twice around needle each time",*,k2
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,5,R,p2*,"Knit 4 letting the extra loops drop; p2, k1, p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,6,W,*,"k2, p1, k2, p4 tog",*,k2
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,7,R,p2*,"k1, p2; knit in front and back of stitch twice; p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,8,W,*,"k2; knit 4 stitches putting the thread twice around needle each time; k2, p1",*,k2
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,9,R,p2*,"k1, p2; knit 4 letting the extra loops drop; p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,10,W,*,"k2; knit 4 stitches putting the thread twice around needle each time; k2, p1",*,k2
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,11,R,p2*,"k1, p2; knit 4 letting the extra loops drop; p2",*,
+222,Smocking 1,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=222,12,W,*,"k2, p4 tog, k2, p1",*,k2

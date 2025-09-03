@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,1,W,k1*,"p6, k5, p6, k1",*,
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,2,R,p1*,"k3, BC, p5, FC, k3, p1",*,
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,3,W,k1*,"p4, k9, p4, k1",*,
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,4,R,p1*,"FC, k1, p1, (yo, p2-tog) 4 times, k1, BC, p1",*,
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,5,W,k3*,"p6, k1, p6, k5",*,k3
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,6,R,p3*,"FC, k3, p1, k3, BC, p5",*,p3
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,7,W,k5*,"p4, k1, p4, k9",*,k5
+1743,Cherry Tree,Multiple of 18 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1743,8,R,p1*,"(yo, p2-tog) twice, k1, BC, p1, FC, k1, p1, (yo, p2-tog) twice",*,

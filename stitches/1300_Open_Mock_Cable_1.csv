@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,1,R,p2*,"k2, p2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,2,W,k2*,"p2, k2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,3,R,p2*,"yo, k2, pass yarn over loop over both knit stitches and drop it; p2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,4,W,k2*,"p2, k2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,5,R,p2*,"k1, yo, k1, p2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,6,W,k2*,"p3, k2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,7,R,p2*,"sl 1-k2-p2sso, p2",*
+1300,Open Mock Cable 1,Multiple of 4 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1300,8,W,k2*,"p2, k2",*

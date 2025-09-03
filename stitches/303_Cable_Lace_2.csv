@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,1,R,k2*,"k2, yo, ssk, k9, k2-tog, yo, k1, yo, ssk",*,"end last repeat k2-tog, yo, k2 instead of k2-tog, yo, k1, yo, ssk"
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,2,W,*,purl,*,
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,3,R,k5*,"6FC, k3, k2-tog, yo, k3, yo, ssk, k2",*,"end last repeat k2-tog, yo, k3 instead of k2-tog, yo, k3, yo, ssk, k2"
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,4,W,*,purl,*,
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,5,R,k2*,"yo, ssk, k9, k2-tog, yo, k2, k2-tog, yo, k1",*,"end last repeat k2-tog, yo, k4 instead of k2-tog, yo, k2, k2-tog, yo, k1"
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,6,W,*,purl,*,
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,7,R,k2*,"k1, yo, ssk, k3, 6BC, k2, k2-tog, yo, k2",*,"end last repeat k5 instead of k2, k2-tog, yo, k2"
+303,Cable Lace 2,Multiple of 18 stitches,plus 4 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=303,8,W,*,purl,*,

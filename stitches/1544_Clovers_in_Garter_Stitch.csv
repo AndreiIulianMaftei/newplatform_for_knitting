@@ -1,0 +1,5 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1544,Clovers in Garter Stitch,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1544,1,R,A,k3*,"sl 1 wyib, k3",*,
+1544,Clovers in Garter Stitch,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1544,2,W,A,*,knit,*,
+1544,Clovers in Garter Stitch,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1544,3,R,B,k1*,"sk 1 wyib, k3",*,"sl 1 wyib, k1"
+1544,Clovers in Garter Stitch,Multiple of 4 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1544,4,W,B,*,knit,*,

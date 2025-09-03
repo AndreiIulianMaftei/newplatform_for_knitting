@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,1,R,A,k2*,"sl 1 wyib, k2",*,
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,2,W,A,k2*,"sl 1 wyif, k2",*,
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,3,R,A,k2*,"sl 1 wyib, k2",*,
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,4,W,A,k2*,"sl 1 wyif, k2",*,
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,5,R,B,k1*,"sl 1 wyib, k2",*,k3
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,6,W,B,k3*,"sl 1 wyif, k2",*,"sl 1 wyif, k1"
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,7,R,B,k1*,"sl 1 wyib, k2",*,k3
+1527,Texture in Two Colors,Multiple of 3 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1527,8,W,B,k3*,"sl 1 wyif, k2",*,"sl 1 wyif, k1"

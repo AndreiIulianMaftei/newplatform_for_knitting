@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,1,R,p2*,"ssk, k2, yo, k1, yo, k2, k2-tog, p3",*,p2
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,2,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,3,R,p2*,"ssk, k1, yo, k3, yo, k1, k2-tog, p3",*,p2
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,4,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,5,R,p2*,"ssk, yo, k5, yo, k2-tog, p3",*,p2
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,6,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,7,R,"k1, yo*","k2, k2-tog, p3, ssk, k2, yo, k1, yo",*,"yo, k1"
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,8,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,9,R,k2*,"yo, k1, k2-tog, p3, ssk, k1, yo, k3",*,k2
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,10,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,11,R,k3*,"yo, k2-tog, p3, ssk, yo, k5",*,k3
+1290,Spun Leaves,Multiple of 12 stitches,plus 1 additional stitch,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1290,12,W,*,"knit the knit stitches, purl the purl stitches, and purl the yo loops",*,

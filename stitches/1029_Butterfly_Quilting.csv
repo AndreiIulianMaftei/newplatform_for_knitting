@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,1,R,B,k2*,"sl 5 wyibf, k1",*,k1
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,2,W,B,p2*,"sl 5 wyib, p1",*,p1
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,3,R,A,*,Knit,*,
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,4,W,A,*,Purl,*,
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,5,R,A,k4*,"insert needle under the loose Color B strands and knit next stitch, catching both strands behind stitches as it is knitted; k5",*,"insert needle under the loose Color B strands and knit next stitch, catching both strands behind stitches as it is knitted; k4"
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,6,W,A,*,Purl,*,
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,7,R,B,"k1, sl 3 wyif *","k1, sl 5 wyif",*,"k1, sl 3 wyif, k1"
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,8,W,B,"p1, sl 3 wyib*","p1, sl 5 wyib",*,"p1, sl 5 wyib, p1"
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,9,R,A,*,Knit,*,
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,10,W,A,*,Purl,*,
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,11,R,A,k1*,"insert needle under the loose Color B strands and knit next stitch, catching both strands behind stitches as it is knitted; k5",*,"insert needle under the loose Color B strands and knit next stitch, catching both strands behind stitches as it is knitted; k1"
+1029,Butterfly Quilting,Multiple of 6 stitches,plus 3 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1029,12,W,A,*,Purl,*,

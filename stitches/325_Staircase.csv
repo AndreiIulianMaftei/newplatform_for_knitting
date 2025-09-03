@@ -1,0 +1,13 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Color,Begin Row,Repeat,Repeat From *,End Row
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,1,R,B,k1*,"sl 2 wyib, k4",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,2,W,B,k1*,"p4, sl 2 wyif",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,3,R,A,k1*,"k4, sl 2 wyib",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,4,W,A,k1*,"sl 2 wyif, p4",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,5,R,B,k3*,"sl 2 wyib, k4",*,"sl 2 wyib, k3"
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,6,W,B,"k1, p2*","sl 2 wyif, p4",*,"sl 2 wyif, p2,k1"
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,7,R,A,k1*,"sl 2 wyib, k4",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,8,W,A,k1*,"p4, sl 2 wyif",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,9,R,B,k1*,"k4, sl 2 wyib",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,10,W,B,k1*,"sl 2 wyif, p4",*,k1
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,11,R,A,k3*,"sl 2 wyib, k4",*,"sl 2 wyib, k3"
+325,Staircase,Multiple of 6 stitches,plus 2 additional stitches,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=325,12,W,A,"k1, p2*","sl 2 wyif, p4",*,"sl 2 wyif, p2,k1"

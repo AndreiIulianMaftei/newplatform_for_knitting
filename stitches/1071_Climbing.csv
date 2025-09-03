@@ -1,0 +1,9 @@
+StitchID,StitchName,MultipleOf,StitchesPlus,SourceURL,Row #,Side,Begin Row,Repeat,Repeat From *,End Row
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,1,R,*,"k6, p2",*,
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,2,W,*,Knit the knit stitches and purl the purl stitches,*,
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,3,R,k5*,"p2, k6",*,"p2, k1"
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,4,W,*,Knit the knit stitches and purl the purl stitches,*,
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,5,R,k4*,"p2, k6",*,"p2, k2"
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,6,W,*,Knit the knit stitches and purl the purl stitches,*,
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,7,R,k3*,"p2, k6",*,"p2, k3"
+1071,Climbing,Multiple of 8 stitches,,https://www.knittingfool.com/StitchIndex/StitchDetail.aspx?StitchID=1071,8,W,*,knit,*,
